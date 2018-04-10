@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Gallery cell space -->
+    <item name="gallery_child_list_item_gallery_child_list_item_layout_padding" format="float" type="dimen">
+        1.0
+    </item>
+    <dimen name="sub_header_line_height">3px</dimen>
+    <dimen name="rvf_settings_view_height">2px</dimen>
+    <dimen name="rvf_seekbar_min_max_hight">2dp</dimen>
+    <dimen name="rvf_seekbar_min_max_padding">9dp</dimen>
+    <dimen name="rvf_seekbar_padding_left_right">34dp</dimen>
+    <dimen name="rvf_custom_progress_padding_left_right">18dp</dimen>
+    <dimen name="rvf_custom_progress_padding_left_right_ev">13dp</dimen>
+    <dimen name="rvf_custom_progress_padding_left_right_button_ev">9dp</dimen>
+    <dimen name="rvf_custom_progress_padding_left_right_iso">18dp</dimen>
+    <dimen name="rvf_custom_progress_iso_all_elements_len">32dp</dimen>
+    <dimen name="rvf_custom_progress_wb_all_elements_len">32dp</dimen>
+    <!-- Mode Grid Elma -->
+    <dimen name="rvf_contro_bt_panel_rvf_shutter_button_height">66dp</dimen>
+    <dimen name="rvf_contro_bt_panel_rvf_shutter_button_width">66dp</dimen>
+    <dimen name="rvf_contro_bt_panel_rvf_lens_icon_height">51dp</dimen>
+    <dimen name="rvf_contro_bt_panel_rvf_lens_icon_width">51dp</dimen>
+    <dimen name="rvf_contro_bt_panel_rvf_view_type_height">51dp</dimen>
+    <dimen name="rvf_contro_bt_panel_rvf_view_type_width">51dp</dimen>
+
+    <dimen name="bt_home_top_menu_panel_padding">16dp</dimen>
+    <dimen name="bt_home_top_menu_panel_height">49dp</dimen>
+    <!-- Mode Grid Elma -->
+
+
+    <!-- rvf setting shortcut panel -->
+    <dimen name="rvf_setting_shortcut_panel_layout_width">55dp</dimen>
+    <dimen name="rvf_setting_shortcut_panel_layout_height">55dp</dimen>
+    <dimen name="rvf_setting_shortcut_panel_layout_marginBottom">48dp</dimen>
+    <!-- rvf setting shortcut panel -->
+
+
+    <!-- rvf control button panel -->
+    <dimen name="rvf_control_btn_panel_textView_layout_height">30dp</dimen>
+    <dimen name="rvf_control_btn_panel_textView_layout_marginRight">13dp</dimen>
+    <dimen name="rvf_control_btn_panel_textView_textSize">20dip</dimen>
+    <!-- rvf control button panel -->
+
+
+    <!-- rvf setting main listview -->
+    <dimen name="rvf_setting_listview_header_line_txt_hight">28dp</dimen>
+    <dimen name="rvf_setting_listview_common_left_right">24dp</dimen>
+    <dimen name="rvf_setting_single_line_txt_hight">49dp</dimen>
+    <dimen name="rvf_setting_listview_view_left_right">10dp</dimen>
+    <dimen name="rvf_setting_double_line_hight">68dp</dimen>
+    <!-- rvf setting main listview -->
+
+    <!-- rvf setting listview storage -->
+    <dimen name="rvf_setting_storage_progress_bar_layout_hight">136dp</dimen>
+    <dimen name="rvf_setting_storage_progress_bar_layout_bottom">10dp</dimen>
+    <dimen name="rvf_setting_storage_progress_bar_layout_top">24dp</dimen>
+    <dimen name="rvf_setting_storage_progress_bar_hight">32dp</dimen>
+    <dimen name="rvf_setting_storage_total_space_layout_hight">56dp</dimen>
+    <dimen name="rvf_setting_storage_total_space_layout_top">14dp</dimen>
+    <dimen name="rvf_setting_storage_available_image_layout_hight">32dp</dimen>
+    <dimen name="rvf_setting_storage_available_space_value_bottom">15dp</dimen>
+    <dimen name="rvf_setting_storage_images_image_layout_hight">68dp</dimen>
+    <dimen name="rvf_setting_storage_images_space_value_bottom">15dp</dimen>
+    <dimen name="rvf_setting_storage_images_image_hight">32dp</dimen>
+    <dimen name="rvf_setting_storage_video_space_value">15dp</dimen>
+    <!-- rvf setting main listview storage -->
+
+
+    <!-- rvf mode item -->
+    <dimen name="rvf_mode_grid_single_item_main_width">105dp</dimen>
+    <dimen name="rvf_mode_grid_single_item_main_height">105dp</dimen>
+    <dimen name="rvf_mode_grid_single_item_image_h_w">62dp</dimen>
+    <dimen name="rvf_mode_grid_single_item_image_mtop">9dp</dimen>
+    <!-- rvf mode info text -->
+    <dimen name="rvf_mode_grid_info_hight">56dp</dimen>
+    <dimen name="rvf_mode_grid_info_pad_right">12dp</dimen>
+    <dimen name="rvf_mode_grid_info_text_size">15dip</dimen>
+    <!-- rvf mode list item view -->
+    <dimen name="rvf_mode_list_item_image_lay_hight">135dp</dimen>
+    <dimen name="rvf_mode_list_item_image_lay_width">102dp</dimen>
+    <dimen name="rvf_mode_list_item_image_width">56dp</dimen>
+    <dimen name="rvf_mode_list_item_text_width">58dp</dimen>
+    <dimen name="rvf_mode_list_item_text_size">15dip</dimen>
+    <dimen name="rvf_mode_list_item_text_padding">10dp</dimen>
+    <dimen name="rvf_mode_list_item_texttwo_size">16dip</dimen>
+    <!-- rvf mode list text -->
+    <dimen name="rvf_mode_list_info_h_w">48dp</dimen>
+    <dimen name="rvf_mode_list_info_textsize">20dip</dimen>
+    <!-- rvf mode  end -->
+
+
+    <!-- rvf quick setting button panel start -->
+    <dimen name="rvf_preview_settings_layout_hight_width">66dp</dimen>
+    <dimen name="rvf_preview_settings_layout_bottom_margin">36dp</dimen>
+    <dimen name="rvf_preview_settings_imagebutton_hight_width">45dp</dimen>
+    <dimen name="rvf_indicator_layout_margintop">69dp</dimen>
+    <dimen name="rvf_reset_button_top_margin">74dp</dimen>
+    <dimen name="rvf_indicator_hdr_imagebutton_hight_width">26dp</dimen>
+    <dimen name="rvf_indicator_hdr_txt_hight">20dp</dimen>
+    <dimen name="rvf_indicator_storage_layout_margintop">2dp</dimen>
+    <dimen name="rvf_indicator_stat_sys_battery_layout_margintop">2dp</dimen>
+    <!-- rvf quick setting button panel end -->
+
+
+    <!-- rvf_custom_control_zoombar start -->
+    <dimen name="rvf_control_zoom_txt_hight">53dp</dimen>
+    <dimen name="rvf_control_zoom_txt_size">30dip</dimen>
+    <dimen name="rvf_custom_control_zoombar_view_hight">15dp</dimen>
+    <dimen name="rvf_control_zoom_seekbar_min_max_hight">3dp</dimen>
+    <dimen name="rvf_control_zoom_seekbar_padding_left_right">34dp</dimen>
+    <!-- rvf_custom_control_zoombar end -->
+
+
+    <!-- rvf_custom_iso_limit start -->
+    <dimen name="rvf_custom_iso_limit_progress_pro_ev_layout_hight">32dp</dimen>
+    <dimen name="rvf_custom_margin_top_panel">10dp</dimen>
+    <dimen name="rvf_custom_iso_limit_progress_pro_ev_layout_hight_width">32dp</dimen>
+    <dimen name="rvf_pro_mode_iso_camera_pro_ev_txt">14dip</dimen>
+    <dimen name="rvf_pro_mode_iso_limit_layout_textsize">12dip</dimen>
+    <dimen name="rvf_quick_settings_ev_layout_textsize">14dip</dimen>
+    <!-- rvf_custom_iso_limit end -->
+
+    <!-- rvf_custom_white_balance_progress start -->
+    <dimen name="rvf_custom_control_seekbar_margintop">8dp</dimen>
+    <dimen name="rvf_pro_mode_ic_hight_width">32dp</dimen>
+    <dimen name="rvf_pro_left_rigt_bar">20dp</dimen>
+    <!-- rvf_custom_white_balance_progress end -->
+
+    <!-- Custom popup in pixel xxxhdp, 1dp = 4 px -->
+    <dimen name="rvf_custom_list_popup_mTop">300px</dimen>
+    <dimen name="rvf_custom_list_popup_normal_mLeft">52px</dimen>
+    <dimen name="rvf_custom_list_popup_next_mLeft">300px</dimen>
+    <dimen name="rvf_option_wi">1008px</dimen>
+    <dimen name="rvf_menuTitle_height">48dp</dimen>
+    <dimen name="rvf_menuTitle_padding_top">16dp</dimen>
+    <dimen name="rvf_menuTitle_padding_left">20dp</dimen>
+    <dimen name="rvf_menuTitle_textSize">17dip</dimen>
+    <dimen name="rvf_custom_dialog_list_text_name">15dip</dimen>
+    <dimen name="rvf_custom_dialog_list_text">12dip</dimen>
+    <dimen name="rvf_menu_select_icon_h_w">32dp</dimen>
+    <dimen name="rvf_custom_dialog_list_menu_item_layout_w">252dp</dimen>
+    <dimen name="rvf_menu_select_icon_margin_left">16dp</dimen>
+    <dimen name="rvf_menu_icon_h_w">32dp</dimen>
+    <dimen name="rvf_menu_select_icon_margin_right">8dp</dimen>
+    <dimen name="rvf_menu_popup_margin_left">16dp</dimen>
+    <dimen name="rvf_menu_popup_margin_botom">11dp</dimen>
+
+    <!-- Custom popup picker in pixel xxxhdp, 1dp = 4 px -->
+    <dimen name="rvf_popup_picker_layout_marginLeft">425px</dimen>
+    <dimen name="rvf_popup_picker_layout_marginTop">257px</dimen>
+    <dimen name="rvf_popup_picker_btn_layout_width">16dp</dimen>
+    <dimen name="rvf_popup_picker_btn_layout_height">10dp</dimen>
+
+    <!-- rvf magic flat and lens icon panel -->
+    <dimen name="rvf_icon_panel_linlay_lay_height">42dp</dimen>
+    <dimen name="rvf_icon_panel_linlay_lay_marginRight">34dp</dimen>
+    <dimen name="rvf_icon_panel_linlay_lay_marginLeft">15dp</dimen>
+    <dimen name="rvf_icon_panel_imgbtn_lay_ht_width">38dp</dimen>
+    <dimen name="rvf_icon_panel_imgbtn_lay_marginLeft_top">2dp</dimen>
+    <dimen name="rvf_icon_panel_picker_height">7dp</dimen>
+    <dimen name="rvf_icon_panel_picker_width">70dp</dimen>
+    <dimen name="rvf_icon_panel_picker_btn_width">51dp</dimen>
+    <dimen name="rvf_icon_panel_layout_marginRight">20dp</dimen>
+
+    <dimen name="settings_listview_popup_left_margin">16dp</dimen>
+    <dimen name="settings_listview_popup_top_margin">8dp</dimen>
+    <dimen name="settings_listview_popup_top_actionbar">56dp</dimen>
+    <dimen name="settings_listview_popup_width">150dp</dimen>
+    <dimen name="settings_listview_textview_width">150dp</dimen>
+    <dimen name="settings_listview_textview_height">49dp</dimen>
+    <dimen name="settings_listview_textview_minimum_height">44dp</dimen>
+
+    <dimen name="winset_list_divider_height">2px</dimen>
+
+    <dimen name="rvf_dialog_land_margin">124dp</dimen>
+    <dimen name="rvf_dialog_port_margin">29dp</dimen>
+    <dimen name="rvf_dialog_land_top_bottom_margin">24dp</dimen>
+
+    <dimen name="rvf_actionbar_height">48dp</dimen>
+
+    <dimen name="rvf_view_type_picker_layout_width">10dp</dimen>
+
+
+    <!-- SGI implementation dimension. -->
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="horizontal_line_font_size">40dp</dimen>
+    <dimen name="scroll_box_min_width">80dp</dimen>
+    <dimen name="grid_animation_start_distance">100dp</dimen>
+
+    <dimen name="content_360_icon_width">32dp</dimen>
+    <dimen name="content_360_icon_height">13dp</dimen>
+    <dimen name="content_icon_width">32dp</dimen>
+    <dimen name="content_icon_height">13dp</dimen>
+    <dimen name="content_error_icon_width">21dp</dimen>
+    <dimen name="content_error_icon_height">21dp</dimen>
+    <dimen name="storage_icon_width">13dp</dimen>
+    <dimen name="storage_icon_height">13dp</dimen>
+
+    <dimen name="header_text_gap">8dp</dimen>
+    <dimen name="header_padding">10dp</dimen>
+    <dimen name="header_first_padding">6dp</dimen>
+    <dimen name="header_date_text_size">11sp</dimen>
+    <dimen name="header_location_text_size">11sp</dimen>
+    <dimen name="header_text_area_padding">8dp</dimen>
+    <dimen name="header_text_area_min_height">32dp</dimen>
+    <dimen name="header_date_left_padding">24dp</dimen>
+    <dimen name="header_location_icon_right_padding">24dp</dimen>
+    <dimen name="header_location_text_right_padding">38dp</dimen>
+    <dimen name="header_checkbox_area_width">68dp</dimen>
+
+    <dimen name="thumbnail_content_type_left_padding">6dp</dimen>
+    <dimen name="thumbnail_content_type_bottom_padding">6dp</dimen>
+    <dimen name="thumbnail_duration_right_bottom_padding">6dp</dimen>
+    <dimen name="thumbnail_storage_content_dist">1dp</dimen>
+
+    <dimen name="visual_scroll_width">6dp</dimen>
+    <dimen name="visual_scroll_height">30dp</dimen>
+
+    <dimen name="visual_scroll_return_button_sz">30dp</dimen>
+
+    <dimen name="visual_scroll_position">8dp</dimen>
+    <dimen name="width_between_scroll_and_data">24dp</dimen>
+
+    <dimen name="data_height_one_line">30sp</dimen>
+    <dimen name="data_height_two_lines">48sp</dimen>
+    <dimen name="data_corner_radius">16sp</dimen>
+
+    <dimen name="text_size">15sp</dimen>
+    <dimen name="width_radius">16sp</dimen>
+    <dimen name="scroll_padding">6dp</dimen>
+    <dimen name="go_top_padding">10dp</dimen>
+    <dimen name="width_min">56dp</dimen>
+    <dimen name="width_max">250dp</dimen>
+
+    <dimen name="label_new_padding">1dp</dimen>
+    <dimen name="preview_icon_padding">2dp</dimen>
+    <!-- Album -->
+    <dimen name="height_bitmap">93dp</dimen>
+    <dimen name="left_align">20dp</dimen>
+    <dimen name="right_align">20dp</dimen>
+    <dimen name="top_align">20dp</dimen>
+    <dimen name="width_between_bitmaps">20dp</dimen>
+    <dimen name="height_between_bitmaps">48dp</dimen>
+    <dimen name="height_bitmap_new">17dp</dimen>
+    <dimen name="text_size_bitmap_new">10dp</dimen>
+    <dimen name="text_size_data">13dp</dimen>
+    <dimen name="text_size_bitmaps_count">10dp</dimen>
+    <dimen name="rectangle_padding_width">6dp</dimen>
+
+    <dimen name="rectangle_corner_radius">4dp</dimen>
+    <dimen name="rectangle_height">16dp</dimen>
+
+    <dimen name="stake_area">1px</dimen>
+
+    <dimen name="border_size">4dp</dimen>
+
+    <dimen name="lvb_custom_popup_margin">8dp</dimen>
+
+    <!-- SGI implementation dimension. end-->
+
+</resources>

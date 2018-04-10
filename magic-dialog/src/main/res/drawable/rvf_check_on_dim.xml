@@ -1,0 +1,5 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:antialias="true" android:gravity="center" android:src="@drawable/tw_btn_radio_to_on_mtrl_015" android:tint="#66f9a825" />
+    </item>
+</selector>

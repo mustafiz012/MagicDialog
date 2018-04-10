@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- basic interaction guide -->
+    <dimen name="sub_header_line_height">2px</dimen>
+    <dimen name="basic_action_bar_title_text">17sp</dimen>
+    <dimen name="basic_action_bar_height">48dp</dimen>
+    <dimen name="basic_action_bar_divider_height">1px</dimen><!-- xxhdpi~ = 3px -->
+    <dimen name="basic_action_bar_margin_start">24dp</dimen>
+    <dimen name="basic_action_button_text">15sp</dimen>
+
+    <dimen name="basic_navigate_up_button_width">56dp</dimen>
+
+    <dimen name="basic_edit_app_bar_text">15sp</dimen><!-- limit to Large -->
+    <dimen name="basic_edit_app_bar_height">48dp</dimen>
+    <dimen name="basic_edit_app_bar_divider_height">1px</dimen><!-- xxhdpi~ = 3px -->
+
+    <dimen name="basic_flat_button_previous_next_text">15sp</dimen>
+    <dimen name="basic_flat_button_previous_next_height">48dp</dimen>
+    <dimen name="basic_flat_button_previous_next_divider_height">1px</dimen><!-- xxhdpi~ = 2px -->
+    <dimen name="basic_flat_button_previous_next_divider_margin_start">20dp</dimen>
+    <dimen name="basic_flat_button_previous_next_divider_margin_end">20dp</dimen>
+    <dimen name="basic_flat_button_previous_next_icon_width">22dp</dimen>
+    <dimen name="basic_flat_button_previous_next_icon_height">22dp</dimen>
+    <dimen name="basic_flat_button_previous_next_drawable_padding">6dp</dimen>
+    <dimen name="basic_flat_button_previous_next_previous_margin_start">24dp</dimen>
+    <dimen name="basic_flat_button_previous_next_previous_padding_end">6dp</dimen>
+    <dimen name="basic_flat_button_previous_next_previous_padding_start">0dp</dimen>
+    <dimen name="basic_flat_button_previous_next_next_margin_end">24dp</dimen>
+    <dimen name="basic_flat_button_previous_next_next_padding_end">0dp</dimen>
+    <dimen name="basic_flat_button_previous_next_next_padding_start">6dp</dimen>
+
+    <dimen name="basic_flat_button_previous_next_button_shape_inset_top">8dp</dimen>
+    <dimen name="basic_flat_button_previous_next_button_shape_inset_bottom">8dp</dimen>
+    <dimen name="basic_flat_button_previous_next_button_shape_radius">2dp</dimen>
+    <dimen name="basic_flat_button_previous_next_button_shape_stroke">2px</dimen>
+
+    <item name="basic_checkbox_unchecked_to_checked_duration" format="integer" type="dimen">15
+    </item>
+    <item name="basic_checkbox_checked_to_unchecked_duration" format="integer" type="dimen">13
+    </item>
+
+    <dimen name="basic_raised_button_text">15sp</dimen><!-- limit to Large -->
+    <dimen name="basic_raised_button_height">40dp</dimen>
+    <dimen name="basic_raised_button_padding_start">20dp</dimen>
+    <dimen name="basic_raised_button_padding_end">20dp</dimen>
+
+    <dimen name="basic_about_page_app_name_text">19sp</dimen>
+    <dimen name="basic_about_page_version_name_text">15sp</dimen>
+    <dimen name="basic_about_page_version_description_text">14sp</dimen>
+    <dimen name="basic_about_page_links_text">15sp</dimen><!-- limit to Larger -->
+    <dimen name="basic_about_page_icon_width">116dp</dimen>
+    <dimen name="basic_about_page_icon_height">105dp</dimen>
+    <dimen name="basic_about_page_app_name_margin_top">19dp</dimen>
+    <dimen name="basic_about_page_version_name_margin_top">6dp</dimen>
+    <dimen name="basic_about_page_version_description_margin_top">7dp</dimen>
+    <dimen name="basic_about_page_update_button_margin_top">11dp</dimen>
+    <item name="basic_about_page_update_button_width_weight" format="float" type="dimen">0.4</item>
+    <!-- update links's margin_top value to 6% and margin_bottom value to 5% of window height -->
+    <dimen name="basic_about_page_links_temporary_padding_top">38.4dp</dimen>
+    <dimen name="basic_about_page_links_temporary_padding_bottom">32dp</dimen>
+    <item name="basic_about_page_links_padding_top_percent" format="float" type="dimen">0.06</item>
+    <item name="basic_about_page_links_padding_bottom_percent" format="float" type="dimen">0.05
+    </item>
+    <dimen name="basic_about_page_links_padding_start">32dp</dimen>
+    <dimen name="basic_about_page_links_padding_end">32dp</dimen>
+    <dimen name="basic_about_page_links_margin_vertical_gap">12dp</dimen>
+
+    <dimen name="basic_list_text">17sp</dimen>
+    <dimen name="basic_list_secondary_text">13sp</dimen>
+    <dimen name="basic_list_subheader_text">14sp</dimen>
+    <dimen name="basic_list_padding_start">18dp</dimen>
+    <dimen name="basic_list_padding_end">24dp</dimen>
+    <dimen name="basic_list_padding_top">13dp</dimen>
+    <dimen name="basic_list_padding_bottom">13dp</dimen>
+    <dimen name="basic_list_1_line_min_height">46.5dp</dimen>
+    <dimen name="basic_list_2_lines_min_height">58.5dp</dimen>
+    <dimen name="basic_list_text_padding_start">6dp</dimen>
+    <dimen name="basic_list_secondary_text_icon_width_height">40dp</dimen>
+    <dimen name="basic_list_secondary_text_icon_margin_end">18dp</dimen>
+    <dimen name="basic_list_divider_margin_start_end">18dp</dimen>
+    <dimen name="basic_list_divider_height">1px</dimen><!-- xxhdpi~ = 2px -->
+
+    <dimen name="basic_chooser_activity_app_icon_width_height">48dp</dimen>
+    <dimen name="basic_chooser_activity_app_icon_padding_top">10dp</dimen>
+    <dimen name="basic_chooser_activity_app_text_padding_top">4dp</dimen>
+
+    <dimen name="basic_description_text">15sp</dimen>
+    <dimen name="basic_description_padding_start_end">24dp</dimen>
+    <dimen name="basic_description_padding_top_bottom">16dp</dimen>
+    <dimen name="basic_description_line_space">4dp</dimen>
+    <dimen name="basic_description_divider_height">2px</dimen>
+    <dimen name="basic_description_divider_margin_start_end">24dp</dimen>
+
+    <dimen name="basic_spinner_text">17sp</dimen>
+    <dimen name="basic_spinner_text_over_large_font">20.4dp</dimen><!-- 17*1.2 = 20.4-->
+    <dimen name="basic_spinner_height">48dp</dimen>
+    <dimen name="basic_spinner_padding_start">0dp</dimen>
+    <dimen name="basic_spinner_padding_end">4dp</dimen>
+
+    <dimen name="basic_dropdown_text">16sp</dimen>
+    <dimen name="basic_dropdown_padding_top_bottom">13dp</dimen>
+    <dimen name="basic_dropdown_padding_start_end">16dp</dimen>
+
+    <dimen name="basic_ripple_button_icon_only_width_height">32dp</dimen>
+    <dimen name="basic_ripple_button_text_only_padding_top_bottom">8dp</dimen>
+    <dimen name="basic_ripple_button_text_only_padding_start_end">10dp</dimen>
+    <dimen name="basic_ripple_mask_on_squircle_radius">2dp</dimen>
+
+    <!-- Studio -->
+    <dimen name="studio_bottom_bar_text">11dp</dimen>
+    <dimen name="studio_bottom_bar_height">56dp</dimen>
+    <dimen name="studio_bottom_bar_padding_start_end">2dp</dimen>
+    <dimen name="studio_bottom_bar_icon_width_height">24dp</dimen>
+    <dimen name="studio_bottom_bar_text_height">17.25dp</dimen>
+    <dimen name="studio_bottom_bar_text_margin_top">1dp</dimen>
+    <item name="studio_bottom_bar_text_stroke_size" format="float" type="dimen">1.0</item>
+    <item name="studio_bottom_bar_text_stroke_opacity" format="float" type="dimen">0.50</item>
+
+    <dimen name="studio_top_bar_text">15sp</dimen>
+    <dimen name="studio_top_bar_height">48dp</dimen>
+    <dimen name="studio_top_bar_padding_end">12dp</dimen>
+    <dimen name="studio_top_bar_back_button_width">56dp</dimen>
+    <dimen name="studio_top_bar_back_button_height">48dp</dimen>
+    <dimen name="studio_top_bar_back_button_icon_width_height">24dp</dimen>
+    <dimen name="studio_top_bar_back_button_icon_stroke_width_height">25dp</dimen>
+    <dimen name="studio_top_bar_text_padding_start_end">12dp</dimen>
+    <item name="studio_top_bar_text_stroke_size" format="float" type="dimen">2.0</item>
+    <item name="studio_top_bar_text_stroke_opacity" format="float" type="dimen">0.85</item>
+
+    <!-- Gear 360 manager -->
+
+    <!-- detail view -->
+    <dimen name="detail_view_icon_width_height">87dp</dimen>
+
+    <!-- detail view (image player uses same look) -->
+    <dimen name="detail_view_top_panel_text">15sp</dimen>
+    <dimen name="detail_view_top_panel_height">48dp</dimen>
+    <dimen name="detail_view_top_panel_back_button_width">56dp</dimen>
+    <dimen name="detail_view_top_panel_padding_start_end">12dp</dimen>
+    <dimen name="detail_view_bottom_panel_height">56dp</dimen>
+    <dimen name="detail_view_top_bottom_panel_divider_height">1px</dimen>
+
+    <!-- reset view button (common for video player, image player, RVF) -->
+    <dimen name="reset_view_text">12sp</dimen>
+    <dimen name="reset_view_padding_middle">5dp</dimen>
+    <dimen name="reset_view_padding_end">10dp</dimen>
+    <dimen name="reset_view_icon_width_height">26dp</dimen><!-- not used -->
+    <dimen name="reset_view_padding_start">3dp</dimen><!-- 13-10 = 3 -->
+    <dimen name="reset_view_height">32dp</dimen>
+    <dimen name="reset_view_ripple_radius">2dp</dimen>
+    <dimen name="reset_view_margin_start">10dp</dimen>
+    <dimen name="reset_view_margin_top">66dp</dimen><!-- 69-(32-26)/2 = 66 -->
+    <item name="reset_view_text_stroke_size" format="float" type="dimen">2.0</item>
+    <item name="reset_view_text_stroke_opacity" format="float" type="dimen">0.20</item>
+
+    <!-- video player -->
+    <dimen name="video_player_volume_text">50sp</dimen>
+    <dimen name="video_player_volume_padding_middle">8dp</dimen>
+    <dimen name="video_player_motion_view_text_size">10dp</dimen>
+    <dimen name="video_player_forward_image_size">32dp</dimen>
+    <dimen name="video_player_time_text_size">11dp</dimen>
+    <dimen name="video_player_volume_image_size">32dp</dimen>
+    <dimen name="video_player_motion_view_image_size">24dp</dimen>
+    <dimen name="video_player_image_padding">4dp</dimen>
+    <item name="video_player_volume_text_stroke_size" format="float" type="dimen">1.0</item>
+    <item name="video_player_volume_text_stroke_opacity" format="float" type="dimen">0.3</item>
+    <dimen name="video_player_play_pause_width_height">67dp</dimen>
+    <dimen name="video_player_play_pause_margin_start_end">34dp</dimen><!-- 38-(32-24)/2 = 34 -->
+
+    <!-- video player (playback speed) -->
+    <dimen name="video_player_playback_speed_panel_title">13sp</dimen>
+    <item name="video_player_playback_speed_panel_title_stroke_size" format="float" type="dimen">
+        2.0
+    </item>
+    <item name="video_player_playback_speed_panel_title_stroke_opacity" format="float" type="dimen">
+        0.30
+    </item>
+    <dimen name="video_player_playback_speed_panel_title_button_width">315dp
+    </dimen><!-- port: 300+32-17 = 315 --><!-- land: 530+32-17 = 545 -->
+    <dimen name="video_player_playback_speed_panel_title_button_margin_bottom">7dp</dimen>
+    <dimen name="video_player_playback_speed_panel_title_button_margin_top">32dp
+    </dimen><!-- to show unbounded ripple : not in GUI guideline-->
+    <dimen name="video_player_playback_speed_panel_seek_bar_margin_top">15dp</dimen>
+    <dimen name="video_player_playback_speed_panel_seek_bar_height">20dp</dimen>
+    <dimen name="video_player_playback_speed_panel_seek_bar_width">312dp
+    </dimen><!-- port: 300+12 = 312 --><!-- land: 530+12 = 542 -->
+    <dimen name="video_player_playback_speed_panel_seek_bar_padding">-7dp</dimen>
+    <dimen name="video_player_playback_speed_panel_seek_bar_scrubber_width_height">12dp</dimen>
+    <dimen name="video_player_playback_speed_panel_seek_bar_bar_height">1dp</dimen>
+    <dimen name="video_player_playback_speed_panel_seek_bar_bar_stroke">1px</dimen>
+    <dimen name="video_player_playback_speed_panel_seek_bar_tick_width">1dp</dimen>
+    <dimen name="video_player_playback_speed_panel_seek_bar_margin_bottom">63dp
+    </dimen><!-- port: 63 --><!-- land: 54 -->
+
+    <!-- video player (playback speed : value popup) -->
+    <dimen name="video_player_playback_speed_value_popup_text">11sp</dimen>
+    <dimen name="video_player_playback_speed_value_popup_padding_start_end">9.5dp</dimen>
+    <dimen name="video_player_playback_speed_value_popup_padding_top_bottom">4dp</dimen>
+    <dimen name="video_player_playback_speed_value_popup_background_radius">10dp</dimen>
+    <dimen name="video_player_playback_speed_value_popup_background_stroke_width">1px</dimen>
+
+    <!-- video player (frame capture) -->
+    <dimen name="video_player_frame_capture_elevation">15px</dimen>
+
+    <!-- setting : storage -->
+    <dimen name="setting_storage_available_text">26sp</dimen>
+    <dimen name="setting_storage_available_value">39sp</dimen>
+    <dimen name="setting_storage_available_unit">15sp</dimen>
+    <dimen name="settings_storage_used_text_value_unit">12sp</dimen>
+    <dimen name="settings_storage_total_text_value_unit">12sp</dimen>
+    <dimen name="setting_storage_list_text">17sp</dimen>
+    <dimen name="setting_storage_list_value">20sp</dimen>
+    <dimen name="setting_storage_list_unit">12sp</dimen>
+    <dimen name="settings_storage_margin_start_end">24dp</dimen>
+    <dimen name="settings_storage_available_text_value_margin_top">22dp</dimen>
+    <dimen name="settings_storage_available_text_value_margin_bottom">9dp</dimen>
+    <dimen name="setting_storage_available_unit_margin_start">9dp</dimen>
+    <dimen name="settings_storage_used_total_text_value_unit_margin_top">5dp</dimen>
+    <dimen name="settings_storage_used_total_text_value_unit_margin_bottom">22dp</dimen>
+    <dimen name="setting_storage_list_text_margin_top_bottom">23dp</dimen>
+    <dimen name="setting_storage_list_value_margin_start">14dp</dimen>
+    <dimen name="setting_storage_list_unit_margin_start">5dp</dimen>
+
+    <!-- SRBD Dimension -->
+    <dimen name="bt_font_size_15sp">15sp</dimen>
+    <dimen name="bt_font_size_18sp">18sp</dimen>
+    <dimen name="bt_font_size_19sp">19sp</dimen>
+    <dimen name="bt_font_size_20sp">20sp</dimen>
+    <dimen name="bt_font_size_21sp">21sp</dimen>
+
+    <!-- SRBD Dimension End -->
+
+    <!-- Gallery Fragment No Image view -->
+
+    <dimen name="gallery_fragment_empty_view_textSize">16sp</dimen>
+    <dimen name="gallery_fragment_empty_view_layout_marginTop">153dp</dimen>
+    <dimen name="gallery_fragment_empty_view_layout_width">126dp</dimen>
+
+
+    <!-- for QWXGA utpal.nath -->
+    <dimen name="dialog_custom_title_textSize">21sp</dimen>
+    <dimen name="dialog_custom_title_margin_top">0dp</dimen>
+    <dimen name="dialog_custom_title_height">48dp</dimen>
+    <dimen name="dialog_custom_list_height">48dp</dimen>
+    <dimen name="dialog_custom_neutral_button_textSize">17sp</dimen>
+    <dimen name="dialog_custom_neutral_button_height">50dp</dimen>
+    <dimen name="dialog_custom_title_paddingTop">4dp</dimen>
+    <dimen name="dialog_custom_title_paddingBottom">4dp</dimen>
+    <dimen name="dialog_custom_title_paddingLeft">21dp</dimen>
+    <dimen name="dialog_custom_title_paddingRight">10dp</dimen>
+    <dimen name="bt_search_mar">0dp</dimen>
+    <dimen name="bt_search_conn_mar">0dp</dimen>
+
+    <!-- This for for a workaround for crash scenario. When in Phones (not tablets) in Land Orientation, starts the SCM
+    It is first started as land, hence NFC dialog starts as land,
+    but layout width is not set for land and non-large phones. -->
+    <dimen name="dialog_popup_nfc_connection_guide_ll_width">0dp</dimen>
+
+    <!-- irin.a -->
+    <dimen name="gallery_group_list_item_group_list_title_left">8dp</dimen>
+    <dimen name="gallery_group_list_item_group_list_title_left_with_checkbox">8dp</dimen>
+    <dimen name="gallery_group_list_item_group_list_title_textsize">19sp</dimen>
+    <dimen name="gallery_group_list_item_group_list_number_textsize">13sp</dimen>
+    <dimen name="gallery_group_list_item_group_list_title_layout_left">18dp</dimen>
+
+    <dimen name="image_viewer_icon_continuous_layout_marginleft">6dp</dimen>
+    <dimen name="image_viewer_icon_continuous_layout_margintop">9dp</dimen>
+    <dimen name="image_viewer_icon_continuous_height_width">32dp</dimen>
+    <dimen name="image_viewer_layout_marginleft">12dp</dimen>
+
+    <!-- utpal.nath -->
+    <dimen name="cm_main_marginLeft">0dp</dimen>
+
+    <!-- suun.cho -->
+    <dimen name="home_list_right_side_marginLeft_Right">0dp</dimen>
+    <dimen name="home_list_left_side_marginLeft_Right">15dp</dimen>
+
+    <!-- video player layout -->
+    <dimen name="video_player_layout_btn_width_height">50dp</dimen>
+    <dimen name="video_player_layout_btn_ff_rew_width_height">25dp</dimen>
+    <dimen name="video_player_layout_btn_marginLeft">15dp</dimen>
+    <dimen name="video_player_layout_rel_lay_height">125dp</dimen>
+    <dimen name="video_player_layout_lin_lay_height">54dp</dimen>
+    <dimen name="video_player_layout_btn_mute_width">25dp</dimen>
+    <dimen name="video_player_layout_btn_mute_height">20dp</dimen>
+    <dimen name="video_player_layout_textview_size">15sp</dimen>
+    <dimen name="video_player_layout_lin_lay_marginRight">10dp</dimen>
+    <dimen name="video_player_layout_textview_size_title">17sp</dimen>
+
+    <dimen name="activity_video_player_ll_top_panel_height">48dp</dimen>
+    <dimen name="activity_video_player_rl_bottom_panel_height">169dp</dimen>
+    <dimen name="activity_video_player_ll_mute_height">62dp</dimen>
+    <dimen name="activity_video_player_ll_bottom_button_height">49dp</dimen>
+    <dimen name="activity_video_player_ll_bottom_button_marginBottom">5dp</dimen>
+    <dimen name="activity_video_player_btn_mute_height">32dp</dimen>
+    <dimen name="activity_video_player_toggleButton1_height">56dp</dimen>
+    <dimen name="activity_video_player_seekbar_width">10dp</dimen>
+    <dimen name="activity_video_player_llVolumeController_marginBottom">140dp</dimen>
+    <dimen name="activity_video_player_llVolumeController_height">276dp</dimen>
+    <dimen name="details_dialog_scroll_view_height">450dp</dimen>
+    <dimen name="activity_video_player_ll_view_mode_marginBottom">62dp</dimen>
+    <dimen name="activity_image_player_ll_view_mode_marginBottom">50dp</dimen>
+    <dimen name="activity_image_player_ll_view_mode_marginRight">60dp</dimen>
+
+    <!-- Trim -->
+    <dimen name="video_editor_trim_bar_height">80dp</dimen><!-- no effect -->
+    <dimen name="video_editor_trim_bar_margin_bottom">15dp</dimen>
+    <dimen name="video_editor_trim_bar_margin_left">12dp</dimen>
+    <dimen name="video_editor_trim_bar_margin_right">12dp</dimen>
+
+    <dimen name="video_editor_leftTime_margin_right">14dp</dimen>
+    <dimen name="video_editor_rightTime_margin_right">14dp</dimen>
+
+    <dimen name="video_editor_drag_handler_margin_bottom">66dp</dimen>
+    <dimen name="video_editor_time_text_size">11dip</dimen>
+    <dimen name="video_editor_project_name_change_marginleft_right">24dp</dimen>
+    <dimen name="video_editor_project_name_change_margintop">24dp</dimen>
+
+    <dimen name="video_editor_project_preview_margin_left_right">38dp</dimen>
+    <dimen name="video_editor_progress_popup_textsize">15dp</dimen>
+    <dimen name="video_editor_drag_handler_width">56dp</dimen>
+    <dimen name="video_editor_drag_handler_height">22dp</dimen>
+    <dimen name="video_editor_video_preview_play_width_height">63dp</dimen>
+    <dimen name="video_editor_video_preview_play_width_height_toogle">48dp</dimen>
+    <dimen name="video_editor_yellow_box_height">56dp</dimen>
+    <dimen name="video_editor_yellow_box_margin_bottom">7dp</dimen>
+    <dimen name="video_editor_trim_text_margin_bottom">69dp</dimen><!-- no effect -->
+    <dimen name="video_editor_margin">0dp</dimen>
+
+    <dimen name="video_editor_trim_bg_height">52dp</dimen><!-- no effect -->
+
+    <dimen name="video_editor_trim_thumb_width">9dp</dimen><!-- previous value was 9 -->
+
+    <dimen name="video_editor_trim_thumb_height">44dp</dimen>
+
+    <dimen name="video_editor_threshold_trim_diff">43dp</dimen>
+    <dimen name="video_editor_trim_bar_height_photoring">75dp
+    </dimen><!-- previous value was 58 - this height is of thumbnail holder -->
+    <dimen name="video_editor_yellow_seekbar__height">75dp</dimen>
+
+    <dimen name="video_editor_trim_bar_margin_photoring">0dp</dimen>
+    <dimen name="video_editor_trim_bar_margin_left_photoring">14dp</dimen>
+    <dimen name="video_editor_trim_bar_margin_right_photoring">14dp</dimen>
+
+    <dimen name="video_editor_trim_bg_height_photoring">40dp
+    </dimen><!-- determines height from top -->
+    <dimen name="video_editor_trim_thumb_top_margin">31dp</dimen><!-- previous value was 15 -->
+
+    <dimen name="video_editor_timeline_thumb_width">81dp</dimen>
+    <dimen name="video_editor_timeline_thumb_height">44dp</dimen>
+    <dimen name="video_editor_seek_thumb_offset_top_photoring">33dp</dimen>
+    <dimen name="video_editor_seek_thumb_height">52dp</dimen>
+    <dimen name="video_editor_seek_thumb_width">10dp</dimen>
+
+    <dimen name="video_editor_trim_text_margin_bottom_photoring">69dp
+    </dimen><!-- previous value was 72 -->
+
+    <dimen name="video_preview_trim_export_button_margin_right">12dp
+    </dimen><!-- previous value was 15 -->
+
+    <!-- video editor trim picker -->
+    <dimen name="video_editor_trim_picker_top_width">9dp</dimen>
+    <dimen name="video_editor_trim_picker_top_height">6dp</dimen>
+    <dimen name="video_editor_trim_picker_bar_offset_top">6dp</dimen>
+    <dimen name="video_editor_trim_picker_bar_width">1dp</dimen>
+    <dimen name="video_editor_trim_picker_bar_height">57dp</dimen>
+    <dimen name="video_editor_trim_picker_bar_background_offset_top">7dp</dimen>
+    <dimen name="video_editor_trim_picker_bar_background_width">7dp</dimen>
+    <dimen name="video_editor_trim_picker_bar_background_height">56dp</dimen>
+    <dimen name="home_page_list_divider_height">2px</dimen>
+    <!-- Winset -->
+    <dimen name="winset_list_divider_height">1px</dimen>
+    <dimen name="winset_list_divider_margin_start">10dp</dimen>
+    <dimen name="winset_list_divider_margin_end">10dp</dimen>
+
+    <dimen name="portrait_seekbar_padding_progress_drawable">100dip</dimen>
+
+    <dimen name="portrait_seekbar_padding_progress_drawable_noteseven">150dip</dimen>
+
+    <item name="tw_disabled_alpha_material" format="float" type="dimen">0.37</item>
+    <item name="tw_disabled_alpha_material_light" format="float" type="dimen">0.4</item>
+
+    <dimen name="action_bar_bottom_line_height">4px</dimen>
+    <dimen name="action_bar_height_for_Image_view">48dp</dimen>
+    <dimen name="negative_width_for_Image_view">56dp</dimen>
+
+
+    <dimen name="winset_list_min_height_1_line">46.5dp</dimen>
+    <dimen name="winset_list_default_height_1_line">48.75dp</dimen>
+    <dimen name="winset_list_total_list_height_1_lines">74.75dp</dimen>
+    <dimen name="winset_list_min_height_2_lines">58.5dp</dimen>
+    <dimen name="winset_list_default_height_2_lines">66.25dp</dimen>
+    <dimen name="winset_list_total_list_height_2_lines">92.25dp</dimen>
+
+    <dimen name="winset_list_padding_top">13dp</dimen>
+    <dimen name="winset_list_padding_bottom">13dp</dimen>
+    <dimen name="winset_list_padding_start">24dp</dimen>
+    <dimen name="winset_list_padding_end">24dp</dimen>
+
+    <!-- Video Player -->
+    <dimen name="video_player_bottom_panel_component_margin_start_end">30dp</dimen>
+    <dimen name="video_player_bottom_panel_motion_view_margin_start_end">5dp</dimen>
+    <dimen name="video_player_bottom_panel_height">93dp</dimen>
+    <dimen name="video_player_bottom_button_bottom_margin">11dp</dimen>
+    <dimen name="video_player_play_button_top_margin">271dp</dimen><!-- 48+20+24+179 = 271 -->
+    <dimen name="video_player_top_panel_height">@dimen/basic_action_bar_height</dimen>
+
+    <!-- Setup Initial -->
+    <dimen name="setup_initial_text_size_welcome">36dp</dimen>
+    <dimen name="setup_initial_text_size_description">15dp</dimen>
+    <dimen name="setup_initial_text_size_connect_button">18dp</dimen>
+
+    <!--dot layout-->
+    <dimen name="dot_image_height">19dp</dimen>
+    <dimen name="dot_image_width">19dp</dimen>
+    <dimen name="dot_image_paddingStart">6dp</dimen>
+    <dimen name="dot_image_paddingEnd">6dp</dimen>
+
+    <!--dot layout bt_intitial_search_activity.xml -->
+    <dimen name="dot_image_height_bt_initial">19dp</dimen>
+    <dimen name="dot_margin_bottom">14dp</dimen>
+    <!-- Setup BT List -->
+    <dimen name="setup_bt_list_text_size_title">17dp</dimen>
+    <dimen name="setup_bt_list_text_size_sub_title">15dp</dimen>
+    <dimen name="setup_bt_list_text_size_list_item">15dp</dimen>
+    <dimen name="setup_bt_list_text_size_device_button">13dp</dimen>
+    <dimen name="setup_bt_list_text_size_animation_description">15dp</dimen>
+    <dimen name="setup_bt_list_text_size_no_device_found_description">15dp</dimen>
+
+    <dimen name="setup_bt_list_layout_title_margin_top">72dp</dimen>
+    <dimen name="setup_bt_list_layout_title_height">32dp</dimen>
+    <dimen name="setup_bt_list_layout_sub_title_margin_top">2dp</dimen>
+    <dimen name="setup_bt_list_layout_list_box_margin_top">15dp</dimen>
+    <dimen name="setup_bt_list_layout_list_box_padding_top">18dp</dimen>
+    <dimen name="setup_bt_list_layout_list_box_divider_height">15dp</dimen>
+    <!-- 18+36+15+36+15+18 = 138 -->
+    <dimen name="setup_bt_list_layout_list_box_height">138dp</dimen>
+    <dimen name="setup_bt_list_layout_list_item_height">36dp</dimen>
+    <dimen name="setup_bt_list_layout_list_item_radius">18dp</dimen>
+    <dimen name="setup_bt_list_layout_list_item_stroke">2px</dimen>
+    <dimen name="setup_bt_list_layout_list_item_shadow_y">4px</dimen>
+
+    <dimen name="setup_bt_list_layout_no_device_found_margin_start">40dp</dimen>
+    <dimen name="setup_bt_list_layout_no_device_found_margin_end">40dp</dimen>
+    <dimen name="setup_bt_list_layout_no_device_found_margin_top">106dp</dimen>
+    <dimen name="setup_bt_list_layout_no_device_found_description_margin_top">15dp</dimen>
+    <dimen name="setup_bt_list_layout_no_device_found_refresh_margin_top">12dp</dimen>
+    <dimen name="setup_bt_list_layout_no_device_found_refresh_height">32dp</dimen>
+    <dimen name="setup_bt_list_layout_no_device_found_refresh_width">32dp</dimen>
+
+    <dimen name="setup_bt_list_layout_device_button_margin_top">10dp</dimen>
+    <dimen name="setup_bt_list_layout_device_button_width">223dp</dimen>
+    <dimen name="setup_bt_list_layout_device_button_height">30dp</dimen>
+    <dimen name="setup_bt_list_layout_device_button_radius">15dp</dimen>
+    <dimen name="setup_bt_list_layout_device_button_stroke">3px</dimen>
+
+    <dimen name="setup_bt_list_layout_animation_margin_top">13dp</dimen>
+    <dimen name="setup_bt_list_layout_animation_margin_start">24dp</dimen>
+    <dimen name="setup_bt_list_layout_animation_margin_end">24dp</dimen>
+    <dimen name="setup_bt_list_layout_animation_description_margin_top">10dp</dimen>
+
+    <dimen name="setup_bt_list_key_description_page_text">15dp</dimen>
+    <dimen name="setup_bt_list_key_description_page_height">185dp</dimen>
+    <dimen name="setup_bt_list_key_description_page_margin_start_end">24dp</dimen>
+    <dimen name="setup_bt_list_key_description_page_image_width">133dp</dimen>
+    <dimen name="setup_bt_list_key_description_page_image_height">175dp</dimen>
+    <dimen name="setup_bt_list_key_description_page_image_margin_top">10dp</dimen>
+    <dimen name="setup_bt_list_key_description_page_image_margin_start">10dp</dimen>
+    <dimen name="setup_bt_list_key_description_page_texts_height">155dp</dimen>
+    <dimen name="setup_bt_list_key_description_page_texts_margin_top">20dp</dimen>
+    <dimen name="setup_bt_list_key_description_page_texts_margin_bottom">10dp</dimen>
+    <dimen name="setup_bt_list_key_description_page_texts_margin_start">12dp</dimen>
+    <dimen name="setup_bt_list_key_description_page_texts_margin_end">10dp</dimen>
+    <dimen name="setup_bt_list_key_description_page_icon_width_height">33dp</dimen>
+    <dimen name="setup_bt_list_key_description_page_text_height">33dp</dimen>
+
+    <dimen name="setup_bt_list_guide_change_height">32dp</dimen>
+    <dimen name="setup_bt_list_guide_change_margin_start">24dp</dimen>
+    <dimen name="setup_bt_list_guide_change_margin_end">16dp</dimen><!-- 24-8(spinner) = 16 -->
+    <dimen name="setup_bt_list_guide_change_text">13dp</dimen>
+    <dimen name="setup_bt_list_guide_change_text_padding_bottom">4dp</dimen>
+    <dimen name="setup_bt_list_guide_change_spinner_padding_start">13dp</dimen>
+    <dimen name="setup_bt_list_guide_change_spinner_margin_start">2dp</dimen><!-- 15-13 = 2 -->
+
+    <dimen name="setup_bt_list_guide_change_spinner_item_image_width">12dp</dimen>
+    <dimen name="setup_bt_list_guide_change_spinner_item_image_height">13dp</dimen>
+    <dimen name="setup_bt_list_guide_change_spinner_item_text">13dp</dimen>
+    <dimen name="setup_bt_list_guide_change_spinner_item_text_margin_start">6dp</dimen>
+    <dimen name="setup_bt_list_guide_change_spinner_item_text_margin_end">4dp</dimen>
+    <dimen name="setup_bt_list_guide_change_dropdown_item_padding_start">10dp</dimen>
+    <dimen name="setup_bt_list_guide_change_dropdown_item_padding_end">0dp
+    </dimen><!-- paddingEnd 16dp is applied by N OS system -->
+    <dimen name="setup_bt_list_guide_change_dropdown_item_image_width_height">32dp</dimen>
+    <dimen name="setup_bt_list_guide_change_dropdown_item_text">16sp</dimen>
+    <dimen name="setup_bt_list_guide_change_dropdown_item_text_margin_start">8dp</dimen>
+
+    <!-- Legal Notice -->
+    <dimen name="legal_notice_text_title">24sp</dimen>
+    <dimen name="legal_notice_text_description">16sp</dimen>
+    <dimen name="legal_notice_text_checkbox">13sp</dimen>
+    <dimen name="legal_notice_text_checkbox_hyperlink">13sp</dimen>
+    <dimen name="legal_notice_layout_icon_width">31dp</dimen>
+    <dimen name="legal_notice_layout_icon_height">31dp</dimen>
+    <dimen name="legal_notice_layout_icon_margin_start">24dp</dimen>
+    <dimen name="legal_notice_layout_icon_margin_top">47dp</dimen>
+    <dimen name="legal_notice_layout_title_margin_end">24dp</dimen>
+    <dimen name="legal_notice_layout_title_margin_start">24dp</dimen>
+    <dimen name="legal_notice_layout_title_margin_top">15dp</dimen>
+    <dimen name="legal_notice_layout_description_margin_bottom">35dp</dimen>
+    <dimen name="legal_notice_layout_description_margin_end">24dp</dimen>
+    <dimen name="legal_notice_layout_description_margin_start">24dp</dimen>
+    <dimen name="legal_notice_layout_description_margin_top">6dp</dimen>
+
+    <dimen name="legal_notice_layout_checkbox_width">32dp</dimen>
+    <dimen name="legal_notice_layout_checkbox_height">32dp</dimen>
+    <dimen name="legal_notice_layout_checkbox_margin_start">18dp</dimen>
+    <dimen name="legal_notice_layout_checkbox_margin_end">5dp</dimen>
+    <!-- apply padding top for text more than two lines -->
+    <dimen name="legal_notice_layout_checkbox_text_padding_top">1dp</dimen>
+    <dimen name="legal_notice_layout_checkbox_space_height">15dp</dimen>
+
+    <!-- Home page -->
+    <dimen name="home_page_live_broadcast_app_text">13dp</dimen>
+    <dimen name="home_page_text_connect">15sp</dimen>
+    <dimen name="home_page_list_text_size_main">17dp</dimen>
+    <dimen name="home_page_list_text_size_sub">13dp</dimen>
+    <dimen name="home_page_list_top_divider_height">1px</dimen>
+    <dimen name="home_page_list_divider_margin_end">24dp</dimen><!-- 6+18 = 24 -->
+    <dimen name="home_page_list_divider_margin_start">76dp</dimen><!-- 18+40+18 = 76 -->
+    <dimen name="home_page_list_padding_start">18dp</dimen>
+    <dimen name="home_page_list_padding_end">24dp</dimen>
+    <dimen name="home_page_list_icon_width_height">40dp</dimen>
+    <dimen name="home_page_list_icon_margin_end">18dp</dimen>
+    <dimen name="home_page_list_text_padding_start">6dp</dimen>
+    <dimen name="home_page_list_text_padding_end">6dp</dimen>
+    <dimen name="home_page_samsung_vr_channel_margin_top">32dp</dimen>
+    <dimen name="home_page_samsung_vr_channel_margin_bottom">25dp</dimen>
+    <dimen name="home_page_live_broadcast_app_padding_top">10dp</dimen>
+    <dimen name="home_page_live_broadcast_app_padding_middle">4dp</dimen>
+    <dimen name="home_page_live_broadcast_app_padding_bottom">10dp</dimen>
+    <dimen name="home_page_live_broadcast_app_text_height">92dp</dimen><!-- 10+48+4+20+10=92 -->
+    <dimen name="home_page_live_broadcast_app_space_width">16dp</dimen>
+
+    <dimen name="home_page_top_panel_connect_text">15sp</dimen>
+    <dimen name="home_page_top_panel_height">189dp</dimen>
+    <dimen name="home_page_top_panel_icon_width_height">75dp</dimen>
+    <dimen name="home_page_top_panel_icon_gap">86dp</dimen>
+    <dimen name="home_page_top_panel_connect_text_margin_bottom">5dp</dimen><!-- 13-8 = 5 -->
+    <dimen name="home_page_top_panel_connect_text_margin_end">14dp</dimen><!-- 24-10 = 14 -->
+    <dimen name="home_page_top_panel_battery_indicator_margin_top">2dp</dimen>
+    <dimen name="home_page_top_panel_battery_indicator_margin_end">24dp</dimen>
+    <dimen name="home_page_top_panel_spinner_width">22dp</dimen>
+    <dimen name="home_page_top_panel_spinner_height">24dp</dimen>
+    <dimen name="home_page_top_panel_spinner_margin_start">4dp</dimen>
+
+    <!-- Home page : battery indicator-->
+    <dimen name="battery_indicator_battery_percentage_text">15dp</dimen>
+    <dimen name="battery_indicator_battery_status_text">8dp</dimen>
+    <dimen name="battery_indicator_battery_status_text_margin_end">3dp</dimen>
+    <dimen name="battery_indicator_battery_icon_width">8dp</dimen>
+    <dimen name="battery_indicator_battery_icon_height">14dp</dimen>
+    <dimen name="battery_indicator_battery_fill_area_width">6dp</dimen>
+    <dimen name="battery_indicator_battery_fill_area_height">9dp</dimen>
+    <dimen name="battery_indicator_battery_fill_area_margin_bottom">2dp</dimen>
+
+    <!-- Home page : connection dots-->
+    <dimen name="connection_dots_dot_width_height">4dp</dimen>
+    <dimen name="connection_dots_dot_radius">2dp</dimen>
+    <dimen name="connection_dots_gap">7dp</dimen>
+
+    <!-- Video STBY : RVF Lens/View Mode Change Popup -->
+    <dimen name="rvf_lens_view_mode_change_popup_height">55dp</dimen>
+    <dimen name="rvf_lens_view_mode_change_popup_margin_start_end">16dp</dimen>
+    <dimen name="rvf_lens_view_mode_change_popup_margin_bottom">184dp
+    </dimen><!-- 36+66+26+48+8 = 184 -->
+    <dimen name="rvf_lens_view_mode_change_popup_padding_start_end">20dp</dimen>
+    <dimen name="rvf_lens_view_mode_change_popup_picker_width">14dp</dimen>
+    <dimen name="rvf_lens_view_mode_change_popup_picker_height">7dp</dimen>
+    <dimen name="rvf_lens_view_mode_change_popup_picker_margin_bottom">177dp
+    </dimen><!-- 36+66+26+48+1 = 177 -->
+    <dimen name="rvf_lens_view_mode_change_popup_picker_margin_start_end">30dp
+    </dimen><!-- 13+(48-14)/2 = 30 -->
+    <dimen name="rvf_lens_view_mode_change_popup_button_width_height">55dp</dimen>
+    <dimen name="rvf_lens_view_mode_change_popup_button_text">10dp</dimen>
+    <dimen name="rvf_lens_view_mode_change_popup_button_padding_start_end">3dp</dimen>
+    <dimen name="rvf_lens_view_mode_change_popup_button_padding_top_bottom">8dp</dimen>
+    <dimen name="rvf_lens_view_mode_change_popup_button_gap">1dp</dimen>
+
+    <!-- Video STBY : RVF Lens/View Mode Change Popup : Lens -->
+    <dimen name="rvf_lens_mode_change_popup_button_space">3dp</dimen>
+
+    <!--taufiq.khan textsize updated the dimen according to the GUI 2.7 and 1.1 and 1.10-->
+    <dimen name="rvf_setting_listview_common_text">17sp</dimen>
+    <dimen name="rvf_setting_listview_small_text">13sp</dimen>
+    <dimen name="app_version_btnUpdate_text">15dp</dimen>
+    <dimen name="font_size_action_bar_title">17sp</dimen>
+    <dimen name="font_size_action_bar_button_title">15dp</dimen>
+    <dimen name="app_version_term_text">16dp</dimen>
+    <dimen name="Gear_manager">88dp</dimen>
+    <dimen name="samsung_margin_top">24dp</dimen>
+    <dimen name="Samsung_Layout">16dp</dimen>
+    <dimen name="version_margin_top">3dp</dimen>
+    <dimen name="btn_black_height">40dp</dimen>
+    <dimen name="btn_black_padding">24dp</dimen>
+    <dimen name="Gear_360_Layout_margin_top">76dp</dimen>
+    <dimen name="terms_margin">13dp</dimen>
+    <dimen name="open_source_license_margin_bottom">75dp</dimen>
+    <dimen name="btn_black_margin_top">10dp</dimen>
+    <dimen name="Image_Layout">88dp</dimen>
+    <dimen name="Gear_360_Layout_width">56dp</dimen>
+    <dimen name="Globe_Gallery_Layout_end_padding">1dp</dimen>
+    <dimen name="details_view_divider_height">1px</dimen>
+    <!-- camera setting sharpness -->
+    <dimen name="camera_setting_sharpness_text_label">14sp</dimen>
+    <dimen name="camera_setting_sharpness_layout_padding_top">32dp</dimen>
+    <dimen name="camera_setting_sharpness_layout_padding_start">29dp</dimen>
+    <dimen name="camera_setting_sharpness_layout_padding_end">29dp</dimen>
+    <dimen name="camera_setting_sharpness_layout_padding_bottom">16dp</dimen>
+    <dimen name="camera_setting_sharpness_layout_slider_height">33dp</dimen>
+    <dimen name="camera_setting_sharpness_layout_slider_tick_mark_width">1dp</dimen>
+    <dimen name="camera_setting_sharpness_layout_slider_tick_mark_height">11dp</dimen>
+    <dimen name="camera_setting_sharpness_layout_slider_bar_thickness">2dp</dimen>
+    <dimen name="camera_setting_sharpness_layout_slider_thumb_width">17dp</dimen>
+    <dimen name="camera_setting_sharpness_layout_slider_thumb_height">17dp</dimen>
+
+    <!-- Contact manager part -->
+    <dimen name="letter_tile_text_size">25dp</dimen>
+    <dimen name="avatar_thumbnail_radius_default">20dp</dimen>
+    <dimen name="compose_recipients_editor_left_margin">18dp</dimen>
+    <dimen name="composer_field_height">58dp</dimen>
+    <dimen name="composer_field_right_padding">8dp</dimen>
+    <dimen name="compose_recipients_editor_to">15sp</dimen>
+    <dimen name="compose_share_your_link_via_sms">15sp</dimen>
+    <dimen name="contact_button_height">48dp</dimen>
+    <dimen name="recipients_editor_border_height">58dp</dimen>
+    <dimen name="recipient_editor_padding_top">8dp</dimen>
+    <dimen name="contact_button_width">48dp</dimen>
+
+    <dimen name="mode_shortcut_icon_size">48dp</dimen>
+    <dimen name="task_edge_small_icon_size">84px</dimen>
+    <dimen name="task_edge_small_icon_size_ext">87px</dimen>
+    <dimen name="shortcut_image_shift_offset">-3px</dimen>
+    <dimen name="sub_icon_offset">33.5dp</dimen>
+    <dimen name="recipient_filter_name">19sp</dimen>
+    <dimen name="recipient_filter_number_and_label">14sp</dimen>
+    <dimen name="avatar_inner_width">1px</dimen>
+    <dimen name="bubble_item_contact_badge_height">40dp</dimen>
+    <dimen name="to_button_textview_layout_height">30dp</dimen>
+    <dimen name="to_button_textview_textsize">16dp</dimen>
+    <dimen name="to_button_layout_height">30dp</dimen>
+
+    <!--contact pickber save cancel button, layout-->
+    <dimen name="contack_pick_edit_text_layout_height">48dp</dimen>
+    <dimen name="contack_pick_edit_text_right_image_margin_end">3dp</dimen>
+    <dimen name="contack_pick_save_cancel_margin_start">5dp</dimen>
+    <dimen name="contack_pick_save_cancel_margin_top">9dp</dimen>
+    <dimen name="contack_pick_save_cancel_margin_bottom">9dp</dimen>
+    <dimen name="contack_pick_save_cancel_margin_end">5dp</dimen>
+    <dimen name="contack_pick_save_cancel_text_size">15sp</dimen>
+
+    <!--rvf_settings_storage dimensions-->
+    <!-- taufiq.khan updated the layout according to GUI v1.4-->
+    <dimen name="rvf_settings_progress_bar_height">14dp</dimen>
+    <dimen name="rvf_settings_instroke_width_progress_bar">1.5dp</dimen>
+    <dimen name="rvf_settings_main_lens_view_padding">24dp</dimen>
+
+    <!-- SGI implementation dimension. -->
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="horizontal_line_font_size">40dp</dimen>
+    <dimen name="scroll_box_min_width">80dp</dimen>
+
+    <dimen name="header_height">36dp</dimen>
+    <dimen name="header_first_row_height">32dp</dimen>
+    <dimen name="grid_animation_start_distance">100dp</dimen>
+
+    <dimen name="content_360_icon_width">32dp</dimen>
+    <dimen name="content_360_icon_height">13dp</dimen>
+    <dimen name="content_icon_width">32dp</dimen>
+    <dimen name="content_icon_height">13dp</dimen>
+    <dimen name="content_error_icon_width">21dp</dimen>
+    <dimen name="content_error_icon_height">21dp</dimen>
+    <dimen name="storage_icon_width">13dp</dimen>
+    <dimen name="storage_icon_height">13dp</dimen>
+
+
+    <dimen name="header_text_gap">8dp</dimen>
+    <dimen name="header_padding">10dp</dimen>
+    <dimen name="header_first_padding">6dp</dimen>
+    <dimen name="header_date_text_size">11sp</dimen>
+    <dimen name="header_location_text_size">11sp</dimen>
+    <dimen name="header_text_area_padding">8dp</dimen>
+    <dimen name="header_text_area_min_height">32dp</dimen>
+    <dimen name="header_bottom_padding">7dp</dimen>
+    <dimen name="header_date_left_padding">24dp</dimen>
+    <dimen name="header_location_icon_right_padding">24dp</dimen>
+    <dimen name="header_location_text_right_padding">38dp</dimen>
+    <dimen name="header_checkbox_area_width">68dp</dimen>
+
+    <dimen name="thumbnail_content_type_left_padding">6dp</dimen>
+    <dimen name="thumbnail_content_type_bottom_padding">7dp</dimen>
+    <dimen name="thumbnail_duration_right_bottom_padding">6dp</dimen>
+    <dimen name="thumbnail_storage_content_dist">1dp</dimen>
+
+    <dimen name="visual_scroll_width">6dp</dimen>
+    <dimen name="visual_scroll_height">30dp</dimen>
+
+    <dimen name="visual_scroll_return_button_sz">30dp</dimen>
+
+    <dimen name="visual_scroll_position">9dp</dimen>
+    <dimen name="width_between_scroll_and_data">8dp</dimen>
+
+    <dimen name="data_height_one_line">30sp</dimen>
+    <dimen name="data_height_two_lines">48sp</dimen>
+    <dimen name="data_corner_radius">16sp</dimen>
+
+    <dimen name="text_size">12sp</dimen>
+    <dimen name="width_radius">16sp</dimen>
+
+    <dimen name="auto_scroll_threshold">40dp</dimen>
+
+
+    <dimen name="width_min">56dp</dimen>
+    <dimen name="width_max">250dp</dimen>
+    <!-- Album -->
+    <dimen name="height_bitmap">93dp</dimen>
+    <dimen name="left_align">20dp</dimen>
+    <dimen name="right_align">20dp</dimen>
+    <dimen name="top_align">20dp</dimen>
+    <dimen name="width_between_bitmaps">20dp</dimen>
+    <dimen name="height_between_bitmaps">48dp</dimen>
+    <dimen name="height_bitmap_new">17dp</dimen>
+    <dimen name="text_size_bitmap_new">10dp</dimen>
+    <dimen name="text_size_data">13dp</dimen>
+    <dimen name="text_size_bitmaps_count">10dp</dimen>
+    <dimen name="rectangle_padding_width">6dp</dimen>
+
+    <dimen name="rectangle_corner_radius">4dp</dimen>
+    <dimen name="rectangle_height">16dp</dimen>
+
+    <dimen name="stake_area">1px</dimen>
+    <dimen name="pager_height">160dp</dimen>
+
+    <!-- SGI implementation dimension. end-->
+
+    <dimen name="lvb_title_edittext_maxWidth">310dp</dimen>
+    <dimen name="broadcast_title_portrait_top_margin">183dp</dimen>
+    <dimen name="broadcast_title_landscape_top_margin">63dp</dimen>
+    <dimen name="lvb_ellipsis_width">80dp</dimen>
+
+    <dimen name="scroll_padding">6dp</dimen>
+    <dimen name="home_page_divider_height">1px</dimen>
+
+    <dimen name="chat_msg_font_size">15dp</dimen>
+    <dimen name="chat_user_id_font_size">15dp</dimen>
+
+    <dimen name="toast_popup_offset_y">40dp</dimen>
+    <dimen name="toast_popup_portrait_offset_y">110dp</dimen>
+
+    <dimen name="paddingLeft_seekbar">30dp</dimen>
+    <dimen name="paddingRight_seekbar">30dp</dimen>
+    <dimen name="marginLeft_starttime">30dp</dimen>
+    <dimen name="marginright_endtime">30dp</dimen>
+    <dimen name="marginLeft_btn_rotate">30dp</dimen>
+    <dimen name="marginRight_btn_rotate">30dp</dimen>
+</resources>

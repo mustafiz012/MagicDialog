@@ -1,0 +1,1297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magic Dialog</string>
+    <string name="SS_ENABLE_LOCATION" did="IDS_BR_BODY_ENABLE_LOCATION">Enable Location</string>
+    <string name="SS_LOCATION_M_INFORMATION" did="IDS_BR_BODY_LOCATION_M_INFORMATION">Location</string>
+    <string name="SS_NORMAL_MSPEED" did="IDS_CAM_BODY_NORMAL">Normal</string>
+    <string name="TS_VIVID_BUTTON" did="IDS_CAM_BUTTON_VIVID">Vivid</string>
+    <string name="SS_RESOLUTION" did="IDS_CAM_OPT_RESOLUTION">Resolution</string>
+    <string name="SS_TRIM" did="IDS_CAM_OPT_TRIM">Trim</string>
+    <string name="SS_PRESS_THE_BACK_KEY_AGAIN_TO_RETURN_TO_PREVIOUS_SCREEN" did="IDS_CAM_POP_PRESS_THE_BACK_KEY_AGAIN_TO_RETURN_TO_PREVIOUS_SCREEN">Press the back key again to return to previous screen.</string>
+    <string name="SS_RESUME_SK" did="IDS_CAM_SK_RESUME">Resume</string>
+    <string name="TS_RECEIVING_FAILED_MBODY" did="IDS_CMV_MBODY_RECEIVING_FAILED">Receiving failed</string>
+    <string name="SS_5_MINUTES" did="IDS_COM_BODY_5_MINUTES">5 minutes</string>
+    <string name="SS_CONNECTED_M_STATUS" did="IDS_COM_BODY_CONNECTED_M_STATUS">Connected</string>
+    <string name="SS_SELECT_ALL_ABB" did="IDS_COM_BODY_SELECT_ALL_ABB">Select all</string>
+    <string name="SS_TIME_MDURATION" did="IDS_COM_BODY_TIME">Time</string>
+    <string name="SS_BATTERY_LOW_ABB" did="IDS_COM_HEADER_BATTERY_LOW_ABB">Battery low</string>
+    <string name="SS_1_MINUTE" did="IDS_CST_BODY_1_MINUTE">1 minute</string>
+    <string name="SS_PATH" did="IDS_DLNA_BODY_PATH">Path</string>
+    <string name="SS_SOFTWARE_UPDATE_ABB2" did="IDS_FOTA_BODY_SOFTWARE_UPDATE_ABB2">Software update</string>
+    <string name="SS_WHEN_ROAMING_ABROAD_YOU_CAN_ONLY_DOWNLOAD_UPDATE_VIA_WI_FI_NETWORK_CONNECT_TO_WI_FI_NETWORK_Q" did="IDS_FOTA_BODY_WHEN_ROAMING_ABROAD_YOU_CAN_ONLY_DOWNLOAD_UPDATE_VIA_WI_FI_NETWORK_CONNECT_TO_WI_FI_NETWORK_Q">When roaming abroad, you can only download update via Wi-Fi network. Connect to Wi-Fi network?</string>
+    <string name="SS_WI_FI_NOT_AVAILABLE_TURN_ON_WI_FI_OR_DISABLE_WI_FI_ONLY_USING_MOBILE_NETWORKS_MAY_INCUR_ADDITIONAL_CHARGES" did="IDS_FOTA_POP_WI_FI_NOT_AVAILABLE_TURN_ON_WI_FI_OR_DISABLE_WI_FI_ONLY_USING_MOBILE_NETWORKS_MAY_INCUR_ADDITIONAL_CHARGES">Wi-Fi not available. Turn on Wi-Fi or disable Wi-Fi only. Using mobile networks may incur additional charges.</string>
+    <string name="SS_NO_LOCATION_INFORMATION_ABB" did="IDS_GALLERY_BODY_NO_LOCATION_INFORMATION_ABB">No location information</string>
+    <string name="SS_NOT_ENOUGH_STORAGE_HEADER_ABB" did="IDS_GALLERY_HEADER_NOT_ENOUGH_STORAGE_ABB">Not enough storage</string>
+    <string name="IDS_GALLERY_POP_1_IMAGE_WILL_BE_DELETED" did="IDS_GALLERY_POP_1_IMAGE_WILL_BE_DELETED">1 image will be deleted.</string>
+    <string name="SS_1_VIDEO_WILL_BE_DELETED" did="IDS_GALLERY_POP_1_VIDEO_WILL_BE_DELETED">1 video will be deleted.</string>
+    <string name="SS_PD_IMAGES_WILL_BE_DELETED" did="IDS_GALLERY_POP_PD_IMAGES_WILL_BE_DELETED">%d images will be deleted.</string>
+    <string name="SS_PD_VIDEOS_WILL_BE_DELETED" did="IDS_GALLERY_POP_PD_VIDEOS_WILL_BE_DELETED">%d videos will be deleted.</string>
+    <string name="SS_DETAILS_HEADER" did="IDS_VIDEO_HEADER_DETAILS">Details</string>
+    <string name="TS_RESET_ACBUTTON_ABB2" did="IDS_HS_ACBUTTON_RESET_ABB2">RESET</string>
+    <string name="SS_ACCEPT" did="IDS_IM_BODY_ACCEPT">Accept</string>
+    <string name="SS_ORIENTATION_M_ROTATION" did="IDS_IV_BODY_ORIENTATION_M_ROTATION">Orientation</string>
+    <string name="SS_AVAILABLE_DEVICES_ABB" did="IDS_IV_HEADER_AVAILABLE_DEVICES_ABB">Available devices</string>
+    <string name="SS_FILE_NAME_HEADER" did="IDS_IV_HEADER_FILE_NAME">File name</string>
+    <string name="SS_FORMAT_COMPLETED" did="IDS_MF_POP_FORMAT_COMPLETED">Format completed.</string>
+    <string name="SS_VIDEO" did="IDS_MP_BODY_VIDEO">Video</string>
+    <string name="TS_DOWNLOAD_ACBUTTON_ABB" did="IDS_MSG_ACBUTTON_DOWNLOAD_ABB">DOWNLOAD</string>
+    <string name="TS_ALBUM_BUTTON_ABB2" did="IDS_GALLERY_BUTTON_ALBUM_ABB2">Album</string>
+    <string name="TS_ALL_BUTTON" did="IDS_MUSIC_BUTTON_ALL">All</string>
+    <string name="SS_SELECT_ITEMS" did="IDS_OCR_HEADER_SELECT_ITEMS">Select items</string>
+    <string name="SS_CONNECT" did="IDS_PB_BODY_CONNECT">Connect</string>
+    <string name="SS_FILE_RECEIVED_M_NOUN_ABB" did="IDS_SAS_MBODY_FILE_RECEIVED_M_NOUN_ABB">File received</string>
+    <string name="SS_A_NEW_VERSION_IS_AVAILABLE" did="IDS_SCM_BODY_A_NEW_VERSION_IS_AVAILABLE">A new version is available.</string>
+    <string name="SS_NOTICE_ABB" did="IDS_SCONF_HEADER_NOTICE_ABB">Notice</string>
+    <string name="SS_INSTALL" did="IDS_ST_BODY_INSTALL">Install</string>
+    <string name="SS_30_MINUTES" did="IDS_ST_BODY_30_MINUTES">30 minutes</string>
+    <string name="SS_DATE" did="IDS_ST_BODY_DATE">Date</string>
+    <string name="SS_TOTAL_SPACE_GA" did="IDS_ST_BODY_TOTAL_SPACE">Total space</string>
+    <string name="SS_CONNECTION_ERROR_HEADER" did="IDS_ST_HEADER_CONNECTION_ERROR">Connection error</string>
+    <string name="SS_PAIRED_DEVICE_HEADER_ABB" did="IDS_ST_HEADER_PAIRED_DEVICE_ABB">Paired device</string>
+    <string name="TS_UPDATE_NOW_MBODY" did="IDS_ST_MBODY_UPDATE_NOW">Update now</string>
+    <string name="SS_MAX_M_MODE" did="IDS_ST_OPT_MAX_M_MODE">Max</string>
+    <string name="SS_CHECK_YOUR_NETWORK_CONNECTION_AND_TRY_AGAIN" did="IDS_ST_POP_CHECK_YOUR_NETWORK_CONNECTION_AND_TRY_AGAIN">Check your network connection and try again.</string>
+    <string name="SS_FORMATTING_SD_CARD_ING" did="IDS_ST_POP_FORMATTING_SD_CARD_ING">Formatting SD card\u2026</string>
+    <string name="SS_FORMATTING_ERASE_ALL_DATA_N_CONTINUE_Q" did="IDS_ST_POP_FORMATTING_WILL_ERASE_ALL_DATA_N_CONTINUE_Q">Formatting will erase all data. Continue?</string>
+    <string name="SS_SAVE_YOUR_CHANGES_OR_DISCARD_THEM_Q" did="IDS_ST_POP_SAVE_YOUR_CHANGES_OR_DISCARD_THEM_Q">Save your changes or discard them?</string>
+    <string name="TS_FAILED_TO_RECEIVE_SOME_FILES_TMBODY" did="IDS_ST_TMBODY_FAILED_TO_RECEIVE_SOME_FILES">Failed to receive some files</string>
+    <string name="TS_OPEN_SOURCE_LICENSES_TMBODY" did="IDS_ST_TMBODY_OPEN_SOURCE_LICENSES">Open source licenses</string>
+    <string name="TS_CANCEL_ACBUTTON3" did="IDS_TL_ACBUTTON_CANCEL3">Cancel</string>
+    <string name="TS_DISCARD_BUTTON_ABB3" did="IDS_VDOE_BUTTON_DISCARD_ABB3">Discard</string>
+    <string name="TS_TITLE_NPBODY" did="IDS_VDOE_NPBODY_TITLE">Title</string>
+    <string name="WS_OFF_SBODY" did="WDS_IME_SBODY_OFF">Off</string>
+    <string name="SS_THIS_VIDEO_WILL_BE_DELETED" did="IDS_VIDEO_POP_THIS_VIDEO_WILL_BE_DELETED">This video will be deleted.</string>
+    <string name="SS_AUDIO_CHANNEL" did="IDS_VPL_BODY_AUDIO_CHANNEL">Audio channel</string>
+    <string name="SS_SUPPORTED_M_NOUN" did="IDS_VPL_BODY_SUPPORTED_M_NOUN">Supported</string>
+    <string name="SS_CODECS_HEADER" did="IDS_VPL_HEADER_CODECS">Codecs</string>
+    <string name="SS_FORWARDING_TO_OTHER_DEVICES_HEADER" did="IDS_VPL_HEADER_FORWARDING_TO_OTHER_DEVICES">Forwarding to other devices</string>
+    <string name="SS_PLAY_SPEED" did="IDS_VPL_OPT_PLAY_SPEED">Play speed</string>
+    <string name="SS_PD_ITEMS_WILL_BE_DELETED" did="IDS_VPL_POP_PD_ITEMS_WILL_BE_DELETED">%d items will be deleted.</string>
+    <string name="TS_DONE_ACBUTTON_ABB2" did="IDS_VR_ACBUTTON_DONE_ABB2">DONE</string>
+    <string name="SS_NO_NETWORK_CONNECTION_M_STATUS_SBODY" did="IDS_WIFI_SBODY_NO_NETWORK_CONNECTION_M_STATUS">No network connection</string>
+    <string name="TS_DISCONNECTED_FROM_PS_TPOP" did="IDS_WIFI_TPOP_DISCONNECTED_FROM_PS">Disconnected from %s.</string>
+    <string name="SS_SAVE_OPT" did="IDS_MSG_OPT_SAVE">Save</string>
+    <string name="MSS_LATEST_VERSION" did="MIDS_SM_BODY_LATEST_VERSION">Latest version</string>
+    <string name="MSS_LEARN_MORE" did="IDS_CAM_BUTTON_LEARN_MORE">Learn more</string>
+    <string name="WS_THE_PHONE_DISCONNECTED_FROM_THE_NETWORK_BEFORE_THE_DOWNLOAD_COMPLETED_MSG" did="WDS_FOTA_POP_THE_PHONE_DISCONNECTED_FROM_THE_NETWORK_BEFORE_THE_DOWNLOAD_COMPLETED_MSG">The phone disconnected from the network before the download completed. The download will restart when the phone reconnects to the network.</string>
+    <string name="WS_PAUSE_ACBUTTON_ABB" did="WDS_HEALTH_ACBUTTON_PAUSE_ABB">PAUSE</string>
+    <string name="WS_SCAN_ACBUTTON_ABB" did="WDS_ST_ACBUTTON_SCAN_ABB">SCAN</string>
+    <string name="WS_STOP_ACBUTTON_ABB" did="WDS_ST_ACBUTTON_STOP_ABB">STOP</string>
+    <string name="WS_END_USER_LICENSE_AGREEMENT" did="WDS_STU_BODY_END_USER_LICENSE_AGREEMENT">End User License Agreement</string>
+    <string name="TS_MODE_BUTTON_ABB2" did="IDS_CAM_BUTTON_MODE_ABB">Mode</string>
+    <string name="TS_SETTINGS_ACBUTTON_ABB2" did="IDS_SM_ACBUTTON_SETTINGS_ABB2">SETTINGS</string>
+    <string name="SS_PAUSE2" did="IDS_COM_BODY_PAUSE">Pause</string>
+    <string name="TS_HIDE_ACBUTTON" did="IDS_EMAIL_ACBUTTON_HIDE">HIDE</string>
+    <string name="MSS_UNABLE_TO_OPEN_PS_TAP_SETTINGS_AND_GO_TO_APP_INFO_MSG" did="MIDS_ASP_POP_UNABLE_TO_OPEN_PS_TAP_SETTINGS_AND_GO_TO_APP_INFO_MSG">Unable to open %s. Tap Settings and go to App info &gt; Permissions, then allow the following permission and try again:</string>
+    <string name="MSS_UP_TO_PD_CHARACTERS_AVAILABLE" did="MIDS_IS_POP_UP_TO_PD_CHARACTERS_AVAILABLE">Up to %d characters available.</string>
+    <string name="SS_CONNECTED_TO_PS_SBODY" did="IDS_WMGR_SBODY_CONNECTED_TO_PS">Connected to %s.</string>
+    <string name="SS_CONNECTED_WITH_PS" did="IDS_WIFI_POP_CONNECTED_WITH_PROFILE">Connected with %s.</string>
+    <string name="SS_COPY_COMPLETED" did="IDS_PB_POP_COPYCOMPLETED">Copy completed.</string>
+    <string name="SS_DOWNLOADING_UPDATE_PACKAGE_ING_ABB" did="IDS_SYNCML_BODY_DOWNLOADING_UPDATE_PACKAGE_ING_ABB">Downloading update package\u2026</string>
+    <string name="SS_EXPORTING_VIDEO_ING" did="IDS_VDOE_POP_EXPORTING_VIDEO_ING">Exporting video\u2026</string>
+    <string name="SS_FAILED_TO_COPY_UPDATE_PACKAGE_SBODY" did="IDS_FOTA_SBODY_FAILED_TO_COPY_UPDATE_PACKAGE">Failed to copy update package.</string>
+    <string name="SS_MAXIMUM_NUMBER_OF_ITEMS_HPD_EXCEEDED" did="IDS_GALLERY_POP_MAXIMUM_NUMBER_OF_ITEMS_HPD_EXCEEDED">Maximum number of items (%d) exceeded.</string>
+    <string name="SS_UPDATE_DETAILS_HPS_MB_C" did="IDS_FOTA_BODY_UPDATE_DETAILS_HPS_MB_C">Update details (%s MB):</string>
+    <string name="TS_WI_FI_SETTINGS_BUTTON_ABB" did="IDS_FOTA_BUTTON_WI_FI_SETTINGS_ABB">Wi-Fi settings</string>
+    <string name="WS_CHECKING_FOR_UPDATES_ING" did="WDS_ST_BODY_CHECKING_FOR_UPDATES_ING">Checking for updates\u2026</string>
+    <string name="SS_AGREE_TO_TERMS_OF_THE_P1SS_LEGALPHRASE" did="IDS_WMGR_BODY_AGREE_TO_TERMS_OF_THE_P1SS_LEGALPHRASE">Agree to the terms of the %1$s.</string>
+    <string name="TS_DELETE_BUTTON_ABB2" did="IDS_GALLERY_BUTTON_DELETE_ABB2">Delete</string>
+    <string name="TS_UNABLE_TO_RECORD_VIDEOS_INSERT_SD_CARD_INTO_GEAR_360_THEN_TRY_AGAIN_TPOP" did="IDS_G360M_TPOP_UNABLE_TO_RECORD_VIDEOS_INSERT_SD_CARD_INTO_GEAR_360_THEN_TRY_AGAIN">Unable to record videos. Insert SD card into Gear 360, then try again.</string>
+    <string name="TS_UNABLE_TO_TAKE_PICTURES_INSERT_SD_CARD_INTO_GEAR_360_THEN_TRY_AGAIN_TPOP" did="IDS_G360M_TPOP_UNABLE_TO_TAKE_PICTURES_INSERT_SD_CARD_INTO_GEAR_360_THEN_TRY_AGAIN">Unable to take pictures. Insert SD card into Gear 360, then try again.</string>
+    <string name="SS_SAVE_IMAGE_HEADER_ABB" did="IDS_G360M_HEADER_SAVE_IMAGE_ABB">Save image</string>
+    <string name="SS_SAVE_IMAGES_HEADER_ABB" did="IDS_G360M_HEADER_SAVE_IMAGES_ABB">Save images</string>
+    <string name="SS_SAVE_VIDEO_HEADER_ABB2" did="IDS_G360M_HEADER_SAVE_VIDEO_ABB2">Save video</string>
+    <string name="SS_SAVE_VIDEOS_HEADER_ABB" did="IDS_G360M_HEADER_SAVE_VIDEOS_ABB">Save videos</string>
+    <string name="SS_SAVE_ITEMS_HEADER_ABB" did="IDS_G360M_HEADER_SAVE_ITEMS_ABB">Save items</string>
+    <string name="SS_CONNECT_TO_NEW_GEAR_360_OPT_ABB" did="IDS_G360M_OPT_CONNECT_TO_NEW_GEAR_360_ABB">Connect to new Gear 360</string>
+    <string name="WS_PAIRED_SBODY_M_STATUS_ABB" did="WDS_ST_SBODY_PAIRED_M_STATUS_ABB">Paired</string>
+    <string name="SS_SCANNING_ING_SBODY_ABB" did="IDS_WIFI_SBODY_SCANNING_ING_ABB">Scanning\u2026</string>
+    <string name="TS_MOTION_VIEW_BUTTON_ABB" did="IDS_G360M_BUTTON_MOTION_VIEW_ABB">Motion view</string>
+    <string name="TS_CHANGE_VIEW_BUTTON_ABB2" did="IDS_G360M_BUTTON_CHANGE_VIEW_ABB2">Change view</string>
+    <string name="TS_TIME_LAPSE_BUTTON_ABB2" did="IDS_G360M_BUTTON_TIME_LAPSE_ABB2">Time lapse</string>
+    <string name="TS_BURST_SHOT_BUTTON_ABB" did="IDS_G360M_BUTTON_BURST_SHOT_ABB">Burst shot</string>
+    <string name="TS_INFO_BUTTON_ABB3" did="IDS_G360M_BUTTON_INFO_ABB3">Info</string>
+    <string name="TS_GEAR_360_NOT_CONNECTED_TPOP" did="IDS_G360M_TPOP_GEAR_360_NOT_CONNECTED">Gear 360 not connected.</string>
+    <string name="SS_ENABLE_FRAME_CAPTURE_OPT_ABB" did="IDS_G360M_OPT_ENABLE_FRAME_CAPTURE_ABB">Enable Frame capture</string>
+    <string name="SS_DISABLE_FRAME_CAPTURE_OPT_ABB" did="IDS_G360M_OPT_DISABLE_FRAME_CAPTURE_ABB">Disable Frame capture</string>
+    <string name="SS_PLAYBACK_SPEED_HEADER" did="IDS_G360M_HEADER_PLAYBACK_SPEED">Playback speed</string>
+    <string name="SS_GEAR_360_HEADER" did="IDS_G360M_HEADER_GEAR_360">Gear 360</string>
+    <string name="TS_LOCATION_TAGS_MBODY" did="IDS_G360M_MBODY_LOCATION_TAGS">Location tags</string>
+    <string name="TS_SOUND_AND_LED_TMBODY" did="IDS_G360M_TMBODY_SOUND_AND_LED">Sound and LED</string>
+    <string name="TS_RESET_AND_FORMAT_TMBODY" did="IDS_G360M_TMBODY_RESET_AND_FORMAT">Reset and format</string>
+    <string name="TS_PS_FIRMWARE_VERSION_MBODY" did="IDS_G360M_MBODY_PS_FIRMWARE_VERSION">%s firmware version</string>
+    <string name="TS_GEAR_360_MANAGER_VERSION_MBODY" did="IDS_G360M_MBODY_GEAR_360_MANAGER_VERSION">Gear 360 Manager version</string>
+    <string name="SS_05_SECONDS_OPT" did="IDS_G360M_OPT_05_SECONDS">0.5 seconds</string>
+    <string name="SS_1_SECOND_OPT" did="IDS_G360M_OPT_1_SECOND">1 second</string>
+    <string name="SS_1_POWER_ON_YOUR_GEAR_360" did="IDS_G360M_BODY_1_POWER_ON_YOUR_GEAR_360">1. Power on your Gear 360.</string>
+    <string name="SS_60_SECONDS_OPT" did="IDS_G360M_OPT_60_SECONDS">60 seconds</string>
+    <string name="SS_A_LENS_OR_SENSOR_ERROR_HAS_OCCURRED" did="IDS_G360M_POP_A_LENS_OR_SENSOR_ERROR_HAS_OCCURRED">A lens or sensor error has occurred.</string>
+    <string name="SS_ALL_GEAR_360_SETTINGS_WILL_BE_RESET_TO_THEIR_DEFAULTS" did="IDS_G360M_POP_ALL_GEAR_360_SETTINGS_WILL_BE_RESET_TO_THEIR_DEFAULTS">All Gear 360 settings will be reset to their defaults.</string>
+    <string name="TS_ALL_SETTINGS_RESET_TO_DEFAULTS_TPOP" did="IDS_G360M_TPOP_ALL_SETTINGS_RESET_TO_DEFAULTS">All settings reset to defaults.</string>
+    <string name="SS_AN_ADDITIONAL_FIRMWARE_UPDATE_IS_REQUIRED_TAP_DOWNLOAD_BELOW_TO_DOWNLOAD_MSG" did="IDS_G360M_POP_AN_ADDITIONAL_FIRMWARE_UPDATE_IS_REQUIRED_TAP_DOWNLOAD_BELOW_TO_DOWNLOAD_MSG">An additional firmware update is required. Tap DOWNLOAD below to download the update and automatically copy it to the Gear 360.</string>
+    <string name="SS_BLUETOOTH_IS_TURNED_OFF_ON_YOUR_MOBILE_DEVICE_BLUETOOTH_WILL_BE_TURNED_ON" did="IDS_G360M_POP_BLUETOOTH_IS_TURNED_OFF_ON_YOUR_MOBILE_DEVICE_BLUETOOTH_WILL_BE_TURNED_ON">Bluetooth is turned off on your mobile device. Bluetooth will be turned on.</string>
+    <string name="TS_CANNOT_EDIT_VIDEO_FILE_CORRUPTED_OR_NOT_SUPPORTED_TPOP" did="IDS_G360M_TPOP_CANNOT_EDIT_VIDEO_FILE_CORRUPTED_OR_NOT_SUPPORTED">Cannot edit video. File corrupted or not supported.</string>
+    <string name="SS_CHECK_YOUR_GEAR_360_BLUETOOTH_SETTINGS_AND_TRY_AGAIN" did="IDS_G360M_POP_CHECK_YOUR_GEAR_360_BLUETOOTH_SETTINGS_AND_TRY_AGAIN">Check your Gear 360 Bluetooth settings and try again.</string>
+    <string name="TS_CONNECT_TO_GEAR_360_BUTTON_ABB" did="IDS_G360M_BUTTON_CONNECT_TO_GEAR_360_ABB">Connect to Gear 360</string>
+    <string name="SS_CONNECTION_FAILED_HEADER_ABB" did="IDS_G360M_HEADER_CONNECTION_FAILED_ABB">Connection failed</string>
+    <string name="TS_CONNECTION_SETTINGS_RESET_TO_DEFAULTS_TPOP" did="IDS_G360M_TPOP_CONNECTION_SETTINGS_RESET_TO_DEFAULTS">Connection settings reset to defaults.</string>
+    <string name="SS_COPYING_DOWNLOADED_FILE_TO_GEAR_360_ING" did="IDS_G360M_POP_COPYING_DOWNLOADED_FILE_TO_GEAR_360_ING">Copying downloaded file to Gear 360\u2026</string>
+    <string name="TS_DEVICE_SETTINGS_RESET_TO_DEFAULTS_TPOP" did="IDS_G360M_TPOP_DEVICE_SETTINGS_RESET_TO_DEFAULTS">Device settings reset to defaults.</string>
+    <string name="SS_DISCONNECT_OPT_ABB" did="IDS_G360M_OPT_DISCONNECT_ABB">Disconnect</string>
+    <string name="SS_DISCONNECTED_M_STATUS_SBODY_ABB" did="IDS_G360M_SBODY_DISCONNECTED_M_STATUS_ABB">Disconnected</string>
+    <string name="SS_DOWNLOADING_MAY_RESULT_IN_ADDITIONAL_CHARGES_KEEP_YOUR_MOBILE_DEVICE_AND_GEAR_360_CONNECTED_MSG" did="IDS_G360M_POP_DOWNLOADING_MAY_RESULT_IN_ADDITIONAL_CHARGES_KEEP_YOUR_MOBILE_DEVICE_AND_GEAR_360_CONNECTED_MSG">Downloading may result in additional charges. Keep your mobile device and Gear 360 connected via Bluetooth while the download is being copied to the Gear 360. You will be able to use your mobile device during the download.</string>
+    <string name="SS_ENABLE_PS_TO_CONNECT_TO_YOUR_SAMSUNG_ACCESSORY" did="IDS_G360M_POP_ENABLE_PS_TO_CONNECT_TO_YOUR_SAMSUNG_ACCESSORY">Enable %s to connect to your Samsung accessory.</string>
+    <string name="SS_FAILED_TO_COPY_THE_FIRMWARE_UPDATE_TO_THE_GEAR_360" did="IDS_G360M_POP_FAILED_TO_COPY_THE_FIRMWARE_UPDATE_TO_THE_GEAR_360">Failed to copy the firmware update to the Gear 360.</string>
+    <string name="SS_FAILED_TO_COPY_THE_FIRMWARE_UPDATE_TO_THE_GEAR_360_TAP_OK_TO_TRY_AGAIN" did="IDS_G360M_POP_FAILED_TO_COPY_THE_FIRMWARE_UPDATE_TO_THE_GEAR_360_TAP_OK_TO_TRY_AGAIN">Failed to copy the firmware update to the Gear 360. Tap OK to try again.</string>
+    <string name="TS_FILE_NAME_ALREADY_IN_USE_TPOP" did="IDS_G360M_TPOP_FILE_NAME_ALREADY_IN_USE">File name already in use.</string>
+    <string name="TS_FORMAT_GEAR_360_SD_CARD_TMBODY" did="IDS_G360M_TMBODY_FORMAT_GEAR_360_SD_CARD">Format Gear 360 SD card</string>
+    <string name="TS_GEAR_360_TAB2" did="IDS_G360M_TAB2_GEAR_360">Gear 360</string>
+    <string name="TS_GEAR_360_CURRENTLY_RECORDING_ING_TPOP" did="IDS_G360M_TPOP_GEAR_360_CURRENTLY_RECORDING_ING">Gear 360 currently recording\u2026</string>
+    <string name="TS_GEAR_360_OVERHEATING_IT_WILL_POWER_OFF_TO_COOL_DOWN_TPOP" did="IDS_G360M_TPOP_GEAR_360_OVERHEATING_IT_WILL_POWER_OFF_TO_COOL_DOWN">Gear 360 overheating. It will power off to cool down.</string>
+    <string name="SS_INTERVAL_M_TIME_LAPSE_VIDEO_MODE_HEADER" did="IDS_G360M_HEADER_INTERVAL_M_TIME_LAPSE_VIDEO_MODE">Interval</string>
+    <string name="SS_LARGE_OPT" did="IDS_G360M_OPT_LARGE">Large</string>
+    <string name="TS_LATER_BUTTON_ABB" did="IDS_G360M_BUTTON_LATER_ABB">Later</string>
+    <string name="TS_LATEST_VERSION_INSTALLED_BUTTON_ABB" did="IDS_G360M_BUTTON_LATEST_VERSION_INSTALLED_ABB">Latest version installed</string>
+    <string name="TS_LED_INDICATOR_MBODY" did="IDS_G360M_MBODY_LED_INDICATOR">LED indicator</string>
+    <string name="SS_MAXIMUM_M_RECORDING_TIME_OPT" did="IDS_G360M_OPT_MAXIMUM_M_RECORDING_TIME">Maximum</string>
+    <string name="SS_PICTURE_SIZE_HDUAL_LENS_HEADER" did="IDS_G360M_HEADER_PICTURE_SIZE_HDUAL_LENS">Picture size (dual lens)</string>
+    <string name="SS_RECORD_360_OR_180_TIME_LAPSE_VIDEOS_SET_THE_INTERVAL_BETWEEN_EACH_PICTURE_MSG" did="IDS_G360M_BODY_RECORD_360_OR_180_TIME_LAPSE_VIDEOS_SET_THE_INTERVAL_BETWEEN_EACH_PICTURE_MSG">Record 360° or 180° time lapse videos. Set the interval between each picture, then all pictures will be combined into a time lapse video.</string>
+    <string name="SS_RECORD_360_OR_180_VIDEOS" did="IDS_G360M_BODY_RECORD_360_OR_180_VIDEOS">Record 360° or 180° videos.</string>
+    <string name="SS_RECORD_360_OR_180_VIDEOS_TO_SAVE_TIME_AND_STORAGE_SPACE_SELECT_A_TIME_TO_RECORD_A_VIDEO_MSG" did="IDS_G360M_BODY_RECORD_360_OR_180_VIDEOS_TO_SAVE_TIME_AND_STORAGE_SPACE_SELECT_A_TIME_TO_RECORD_A_VIDEO_MSG">Record 360° or 180° videos. To save time and storage space, select a time to record a video for. Then, when that time has elapsed, the video will continue to be recorded but will be overwritten from the start.</string>
+    <string name="TS_RECORDING_STOPPED_GEAR_360_OVERHEATING_RESUME_RECORDING_AFTER_DEVICE_COOLS_DOWN_TPOP" did="IDS_G360M_TPOP_RECORDING_STOPPED_GEAR_360_OVERHEATING_RESUME_RECORDING_AFTER_DEVICE_COOLS_DOWN">Recording stopped. Gear 360 overheating. Resume recording after device cools down.</string>
+    <string name="SS_RECORDING_TIME_HEADER" did="IDS_G360M_HEADER_RECORDING_TIME">Recording time</string>
+    <string name="TS_RESET_ALL_SETTINGS_TMBODY" did="IDS_G360M_TMBODY_RESET_ALL_SETTINGS">Reset all settings</string>
+    <string name="TS_RESET_DEVICE_SETTINGS_TMBODY" did="IDS_G360M_TMBODY_RESET_DEVICE_SETTINGS">Reset device settings</string>
+    <string name="TS_RESET_GEAR_360_TMBODY" did="IDS_G360M_TMBODY_RESET_GEAR_360">Reset Gear 360</string>
+    <string name="TS_SELECT_YOUR_GEAR_360_NPBODY_ABB" did="IDS_G360M_NPBODY_SELECT_YOUR_GEAR_360_ABB">Select your Gear 360</string>
+    <string name="SS_SMALL_OPT" did="IDS_G360M_OPT_SMALL">Small</string>
+    <string name="SS_TAKE_360_OR_180_PICTURES" did="IDS_G360M_BODY_TAKE_360_OR_180_PICTURES">Take 360° or 180° pictures.</string>
+    <string name="SS_TAP_THE_CAMERA_BUTTON_TO_GO_TO_THE_GEAR_360_VIEWFINDER" did="IDS_G360M_BODY_TAP_THE_CAMERA_BUTTON_TO_GO_TO_THE_GEAR_360_VIEWFINDER">Tap the Camera button to go to the Gear 360 viewfinder.</string>
+    <string name="SS_TAP_THE_GEAR_360_TAB_TO_VIEW_VIDEOS_AND_PICTURES_TAKEN_WITH_AND_SAVED_ON_YOUR_GEAR_360" did="IDS_G360M_BODY_TAP_THE_GEAR_360_TAB_TO_VIEW_VIDEOS_AND_PICTURES_TAKEN_WITH_AND_SAVED_ON_YOUR_GEAR_360">Tap the Gear 360 tab to view videos and pictures taken with and saved on your Gear 360.</string>
+    <string name="SS_TAP_THE_MOBILE_DEVICE_TAB_TO_VIEW_VIDEOS_AND_PICTURES_TAKEN_WITH_YOUR_GEAR_360_THAT_ARE_SAVED_ON_YOUR_MOBILE_DEVICE" did="IDS_G360M_BODY_TAP_THE_MOBILE_DEVICE_TAB_TO_VIEW_VIDEOS_AND_PICTURES_TAKEN_WITH_YOUR_GEAR_360_THAT_ARE_SAVED_ON_YOUR_MOBILE_DEVICE">Tap the Mobile device tab to view videos and pictures taken with your Gear 360 that are saved on your mobile device.</string>
+    <string name="SS_THE_GEAR_360_CONNECTION_SETTINGS_WILL_BE_RESET_TO_THEIR_DEFAULTS" did="IDS_G360M_POP_THE_GEAR_360_CONNECTION_SETTINGS_WILL_BE_RESET_TO_THEIR_DEFAULTS">The Gear 360 connection settings will be reset to their defaults.</string>
+    <string name="SS_THE_GEAR_360_DEVICE_SETTINGS_WILL_BE_RESET_TO_THEIR_DEFAULTS" did="IDS_G360M_POP_THE_GEAR_360_DEVICE_SETTINGS_WILL_BE_RESET_TO_THEIR_DEFAULTS">The Gear 360 device settings will be reset to their defaults.</string>
+    <string name="SS_THE_SD_CARD_IS_CURRENTLY_NOT_COMPATIBLE_WITH_YOUR_GEAR_360_BACK_UP_ANY_FILES_ON_THE_SD_CARD_MSG" did="IDS_G360M_POP_THE_SD_CARD_IS_CURRENTLY_NOT_COMPATIBLE_WITH_YOUR_GEAR_360_BACK_UP_ANY_FILES_ON_THE_SD_CARD_MSG">The SD card is currently not compatible with your Gear 360. Back up any files on the SD card, format the SD card, then try again.</string>
+    <string name="SS_THE_UPDATE_PACKAGE_HAS_BEEN_DOWNLOADED_AND_COPIED_TO_YOUR_GEAR_360_TAP_INSTALL_BELOW_TO_INSTALL_THE_UPDATE" did="IDS_G360M_POP_THE_UPDATE_PACKAGE_HAS_BEEN_DOWNLOADED_AND_COPIED_TO_YOUR_GEAR_360_TAP_INSTALL_BELOW_TO_INSTALL_THE_UPDATE">The update package has been downloaded and copied to your Gear 360. Tap INSTALL below to install the update.</string>
+    <string name="SS_THE_UPDATE_PACKAGE_WILL_BE_INSTALLED_AND_THE_GEAR_360_WILL_RESTART" did="IDS_G360M_POP_THE_UPDATE_PACKAGE_WILL_BE_INSTALLED_AND_THE_GEAR_360_WILL_RESTART">The update package will be installed and the Gear 360 will restart.</string>
+    <string name="SS_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_360_STORAGE_HP1SS_P2SS_NEEDED_DELETE_SOME_ITEMS_AND_TRY_AGAIN" did="IDS_G360M_POP_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_360_STORAGE_HP1SS_P2SS_NEEDED_DELETE_SOME_ITEMS_AND_TRY_AGAIN">There is not enough space in your Gear 360 storage (%1$s %2$s needed). Delete some items and try again.</string>
+    <string name="SS_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_360_STORAGE" did="IDS_G360M_POP_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_360_STORAGE">There is not enough space in your Gear 360 storage.</string>
+    <string name="SS_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_MOBILE_DEVICE_STORAGE_HP1SS_P2SS_NEEDED_DELETE_SOME_ITEMS_AND_TRY_AGAIN" did="IDS_G360M_POP_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_MOBILE_DEVICE_STORAGE_HP1SS_P2SS_NEEDED_DELETE_SOME_ITEMS_AND_TRY_AGAIN">There is not enough space in your mobile device storage (%1$s %2$s needed). Delete some items and try again.</string>
+    <string name="SS_THIS_FUNCTION_WILL_ATTACH_EMBED_AND_STORE_GEOGRAPHICAL_LOCATION_DATA_WITHIN_EACH_PICTURE_MSG" did="IDS_G360M_POP_THIS_FUNCTION_WILL_ATTACH_EMBED_AND_STORE_GEOGRAPHICAL_LOCATION_DATA_WITHIN_EACH_PICTURE_MSG">This function will attach, embed, and store geographical location data within each picture that you take or video that you record. Use caution when you send, share, distribute, transmit, or copy these pictures and videos since they contain information about where the picture or video was taken or recorded.</string>
+    <string name="SS_TURN_ON_BLUETOOTH_HEADER" did="IDS_G360M_HEADER_TURN_ON_BLUETOOTH">Turn on Bluetooth</string>
+    <string name="SS_UNABLE_TO_COPY_THE_FIRMWARE_UPDATE_TO_YOUR_GEAR_360_CONNECT_YOUR_MOBILE_DEVICE_TO_A_CHARGER_MSG" did="IDS_G360M_POP_UNABLE_TO_COPY_THE_FIRMWARE_UPDATE_TO_YOUR_GEAR_360_CONNECT_YOUR_MOBILE_DEVICE_TO_A_CHARGER_MSG">Unable to copy the firmware update to your Gear 360. Connect your mobile device to a charger and recharge the battery to at least %d%% to transfer the firmware update.</string>
+    <string name="SS_UNABLE_TO_RECORD_VID_TAKE_PIC_HEADER_ABB" did="IDS_G360M_HEADER_UNABLE_TO_RECORD_VID_TAKE_PIC_ABB">Unable to record vid/take pic</string>
+    <string name="TS_UPDATE_BUTTON_ABB5" did="IDS_G360M_BUTTON_UPDATE_ABB5">Update</string>
+    <string name="SS_UPDATE_GEAR_360_FIRMWARE_HEADER" did="IDS_G360M_HEADER_UPDATE_GEAR_360_FIRMWARE">Update Gear 360 firmware</string>
+    <string name="SS_VIDEO_SIZE_HDUAL_LENS_HEADER" did="IDS_G360M_HEADER_VIDEO_SIZE_HDUAL_LENS">Video size (dual lens)</string>
+    <string name="SS_VIDEO_SIZE_HSINGLE_LENS_HEADER" did="IDS_G360M_HEADER_VIDEO_SIZE_HSINGLE_LENS">Video size (single lens)</string>
+    <string name="SS_YOUR_GEAR_360_WILL_BE_DISCONNECTED_FROM_YOUR_MOBILE_DEVICE_TO_RECONNECT_BLUETOOTH_MUST_BE_USED" did="IDS_G360M_POP_YOUR_GEAR_360_WILL_BE_DISCONNECTED_FROM_YOUR_MOBILE_DEVICE_TO_RECONNECT_BLUETOOTH_MUST_BE_USED">Your Gear 360 will be disconnected from your mobile device. To reconnect, Bluetooth must be used.</string>
+    <string name="TS_LEGAL_INFORMATION_MBODY_ABB" did="IDS_ST_MBODY_LEGAL_INFORMATION_ABB">Legal information</string>
+    <string name="TS_EXPORT_BUTTON_M_VIDEO_ABB" did="IDS_GALLERY_BUTTON_EXPORT_M_VIDEO_ABB">Export</string>
+    <string name="SS_CONNECTING_TO_PS_ING" did="IDS_G360M_BODY_CONNECTING_TO_PS_ING">Connecting to %s\u2026</string>
+    <string name="SS_TAP_OK_TO_TRY_AGAIN" did="IDS_G360M_POP_TAP_OK_TO_TRY_AGAIN">Tap OK to try again.</string>
+    <string name="SS_OPEN_SOURCE_LICENSES_GA" did="IDS_ST_BODY_OPEN_SOURCE_LICENCES">Open source licences</string>
+    <string name="SS_3_PRESS_THE_OK_KEY_TO_INDICATE_THAT_YOU_WANT_TO_CONNECT_THE_GEAR_360_TO_THE_MOBILE_DEVICE" did="IDS_G360M_BODY_3_PRESS_THE_OK_KEY_TO_INDICATE_THAT_YOU_WANT_TO_CONNECT_THE_GEAR_360_TO_THE_MOBILE_DEVICE">3. Press the OK key to indicate that you want to connect the Gear 360 to the mobile device.</string>
+    <string name="SS_4_SELECT_THE_GEAR_360_YOU_WANT_TO_CONNECT_TO_ON_YOUR_MOBILE_DEVICE_MSG" did="IDS_G360M_BODY_4_SELECT_THE_GEAR_360_YOU_WANT_TO_CONNECT_TO_ON_YOUR_MOBILE_DEVICE_MSG">4. Select the Gear 360 you want to connect to on your mobile device, then check that the number shown above is shown in the Gear 360 Manager app.</string>
+    <string name="SS_PREVIOUS_FRAME" did="IDS_VPL_POP_PREVIOUS_FRAME">Previous frame</string>
+    <string name="SS_NEXT_FRAME" did="IDS_VPL_POP_NEXT_FRAME">Next frame</string>
+    <string name="SS_CAPTURED" did="IDS_CAM_POPUP_CAPTURED">Captured.</string>
+    <string name="SS_LOCATION_IS_DISABLED_TO_EDIT_THE_LOCATION_FOR_THIS_IMAGE_TAP_SETTINGS_THEN_ENABLE_LOCATION" did="IDS_G360M_POP_LOCATION_IS_DISABLED_TO_EDIT_THE_LOCATION_FOR_THIS_IMAGE_TAP_SETTINGS_THEN_ENABLE_LOCATION">Location is disabled. To edit the location for this image, tap SETTINGS, then enable Location.</string>
+    <string name="SS_SAMSUNG_LEGAL" did="IDS_ST_BODY_SAMSUNG_LEGAL">Samsung legal</string>
+    <!-- 2016. 02. 02 -->
+    <string name="SS_RESETTING_ING" did="IDS_CAM_BODY_RESETTING_ING">Resetting\u2026</string>
+    <string name="SS_EXPAND_T_TTS" did="IDS_GALLERY_BODY_EXPAND_T_TTS">Expand</string>
+    <string name="SS_BUTTON_T_TTS" did="IDS_COM_BODY_BUTTON_T_TTS">Button</string>
+    <string name="TS_TRIM_BUTTON" did="IDS_GALLERY_BUTTON_TRIM">Trim</string>
+    <string name="SS_DELETE_OPT_TTS" did="IDS_HS_BODY_DELETE_OPT_TTS">Delete</string>
+    <string name="SS_ROTATE_T_TTS" did="IDS_IMGE_BODY_ROTATE_T_TTS">Rotate</string>
+    <string name="TS_PAUSE_BUTTON_ABB3" did="IDS_CAM_BUTTON_PAUSE_ABB3">Pause</string>
+    <string name="SS_NEXT" did="IDS_CAM_BODY_NEXT">Next</string>
+    <string name="SS_REMOVE_LOCATION_LABEL_TBOPT" did="IDS_GALLERY_TBOPT_REMOVE_LOCATION_LABEL">Remove location label</string>
+    <string name="TS_PLAY_SK" did="IDS_CAM_SK3_PLAY">Play</string>
+    <string name="SS_MORE_OPTIONS" did="IDS_GALLERY_OPT_MORE_OPTIONS">More options</string>
+    <string name="SS_SHUTTER" did="IDS_CAM_BODY_SHUTTER">Shutter</string>
+    <string name="SS_RECORD_OPT" did="IDS_CAM_OPT_RECORD">Record</string>
+    <string name="SS_QUICK_VIEW_TTS" did="IDS_KM_BODY_QUICK_VIEW_TTS">Quick view</string>
+    <string name="SS_STOP_SK_LITE" did="IDS_CAM_SK_STOP_LITE">Stop</string>
+    <string name="SS_AUTO" did="IDS_CAM_BODY_AUTO">Auto</string>
+    <string name="SS_DAYLIGHT" did="IDS_CAM_BODY_DAYLIGHT">Daylight</string>
+    <string name="SS_CLOUDY" did="IDS_CAM_BODY_CLOUDY">Cloudy</string>
+    <string name="SS_FLUORESCENT" did="IDS_CAM_BODY_FLUORESCENT">Fluorescent</string>
+    <string name="SS_AQUA" did="IDS_CAM_BODY_AQUA">Aqua</string>
+    <string name="SS_HDR" did="IDS_CAM_BODY_HDR">HDR</string>
+    <string name="SS_SHARPNESS" did="IDS_CAM_BODY_SHARPNESS">Sharpness</string>
+    <string name="SS_OPEN_QUICK_SETTINGS" did="IDS_CAM_POP_OPEN_QUICK_SETTINGS">Open quick settings</string>
+    <string name="SS_SD_CARD" did="IDS_CAM_BODY_SD_CARD">SD card</string>
+    <string name="SS_BATTERY_TTS" did="IDS_ACCS_BODY_BATTERY_TTS">Battery</string>
+    <string name="SS_USED_SPACE" did="IDS_MF_BODY_MEMORYSTATUS_USED_SPACE">Used space</string>
+    <!-- 2016. 02. 02 - 01 -->
+    <string name="SS_5_SECONDS_OPT" did="IDS_G360M_OPT_5_SECONDS">5 seconds</string>
+    <string name="TS_VIEW_ON_GEAR_VR_BUTTON_ABB" did="IDS_G360M_BUTTON_VIEW_ON_GEAR_VR_ABB">View on Gear VR</string>
+    <string name="TS_NO_SD_CARD_IN_GEAR_360_TPOP" did="IDS_G360M_TPOP_NO_SD_CARD_IN_GEAR_360">No SD card in Gear 360.</string>
+    <string name="TS_NO_ITEMS_SAVED_ON_GEAR_360_TPOP" did="IDS_G360M_TPOP_NO_ITEMS_SAVED_ON_GEAR_360">No items saved on Gear 360.</string>
+    <string name="TS_ISO_SENSITIVITY_LIMIT_MBODY" did="IDS_G360M_MBODY_ISO_SENSITIVITY_LIMIT">ISO sensitivity limit</string>
+    <string name="SS_SAVE_VIDEOS_TO_SHARE_HEADER_ABB" did="IDS_G360M_HEADER_SAVE_VIDEOS_TO_SHARE_ABB">Save videos to share</string>
+    <string name="SS_SAVE_IMAGES_TO_SHARE_HEADER_ABB" did="IDS_G360M_HEADER_SAVE_IMAGES_TO_SHARE_ABB">Save images to share</string>
+    <string name="SS_INSERT_DEVICE_INTO_GEAR_VR_HEADER_ABB" did="IDS_G360M_HEADER_INSERT_DEVICE_INTO_GEAR_VR_ABB">Insert device into Gear VR</string>
+    <string name="SS_RECORD_VIDEOS_WITH_THE_SCREEN_TURNED_OFF_TO_SAVE_POWER_WHEN_YOU_TAP_THE_SCREEN_THE_VIEWFINDER_WILL_APPEAR" did="IDS_G360M_BODY_RECORD_VIDEOS_WITH_THE_SCREEN_TURNED_OFF_TO_SAVE_POWER_WHEN_YOU_TAP_THE_SCREEN_THE_VIEWFINDER_WILL_APPEAR">Record videos with the screen turned off to save power. When you tap the screen, the viewfinder will appear.</string>
+    <!-- 2016. 02. 03 -->
+    <string name="SS_LOADING_ING" did="IDS_CAM_BODY_LOADING">Loading\u2026</string>
+    <string name="SS_THE_LATEST_VERSION_IS_ALREADY_INSTALLED" did="IDS_G360M_POP_THE_LATEST_VERSION_IS_ALREADY_INSTALLED">The latest version is already installed.</string>
+    <!-- 2016. 02. 03 - 01 -->
+    <string name="SS_TO_VIEW_YOUR_IMAGES_AND_VIDEOS_ON_YOUR_GEAR_VR_INSERT_YOUR_MOBILE_DEVICE_INTO_YOUR_GEAR_VR" did="IDS_G360M_POP_TO_VIEW_YOUR_IMAGES_AND_VIDEOS_ON_YOUR_GEAR_VR_INSERT_YOUR_MOBILE_DEVICE_INTO_YOUR_GEAR_VR">To view your images and videos on your Gear VR, insert your mobile device into your Gear VR.</string>
+    <string name="SS_SHOW_THE_STATUS_OF_THE_GEAR_360_VIA_THE_LED_INDICATOR_SBODY" did="IDS_G360M_SBODY_SHOW_THE_STATUS_OF_THE_GEAR_360_VIA_THE_LED_INDICATOR">Show the status of the Gear 360 via the LED indicator.</string>
+    <!-- 2016. 02. 04 -->
+    <string name="SS_REMOVE_WIND_NOISE_FROM_RECORDED_VIDEOS_SBODY" did="IDS_G360M_SBODY_REMOVE_WIND_NOISE_FROM_RECORDED_VIDEOS">Remove wind noise from recorded videos.</string>
+    <string name="TS_MAXIMUM_NUMBER_OF_DISPLAYED_ITEMS_HPD_EXCEEDED_TPOP" did="IDS_G360M_TPOP_MAXIMUM_NUMBER_OF_DISPLAYED_ITEMS_HPD_EXCEEDED">Maximum number of displayed items (%d) exceeded.</string>
+    <!-- 2016. 02. 10 -->
+    <string name="SS_WHITE_BALANCE" did="IDS_COM_BODY_WHITE_BALANCE">White balance</string>
+    <string name="SS_MINUTE" did="IDS_COM_BODY_MINUTE">Minute</string>
+    <string name="SS_MINUTES" did="IDS_COM_BODY_MINUTES">Minutes</string>
+    <string name="SS_SECOND" did="IDS_ST_POP_SECOND">Second</string>
+    <string name="SS_VOLUME_M_SOUND" did="IDS_ST_BODY_VOLUME">Volume</string>
+    <string name="SS_SEEK_CONTROL" did="IDS_ST_BODY_SEEK_CONTROL">Seek control</string>
+    <string name="SS_PREVIOUS" did="IDS_COM_BODY_PREVIOUS">Previous</string>
+    <string name="SS_30_SECONDS_OPT" did="IDS_G360M_OPT_30_SECONDS">30 seconds</string>
+    <string name="SS_2_SECONDS_OPT" did="IDS_G360M_OPT_2_SECONDS">2 seconds</string>
+    <string name="SS_10_SECONDS_OPT" did="IDS_G360M_OPT_10_SECONDS">10 seconds</string>
+    <string name="SS_THIS_VIDEO_HAS_NOT_BEEN_EXPORTED_EXPORT_OR_DISCARD_THE_VIDEO_Q" did="IDS_G360M_POP_THIS_VIDEO_HAS_NOT_BEEN_EXPORTED_EXPORT_OR_DISCARD_THE_VIDEO_Q">This video has not been exported. Export or discard the video?</string>
+    <string name="SS_CAPTURING_ING" did="IDS_CAM_POP_CAPTURING">Capturing\u2026</string>
+    <string name="SS_CANCELLING" did="IDS_COM_POP_CANCELLING_ING">Cancelling\u2026</string>
+    <string name="SS_SEARCH_LOCATION_HEADER" did="IDS_ST_HEADER_SEARCH_LOCATION">Search location</string>
+    <string name="SS_UNABLE_TO_PLAY_DURING_CALL" did="IDS_TDMB_BODY_UNABLE_TO_PLAY_DURING_CALL">Unable to play during call.</string>
+    <string name="SS_UNSUPPORTED_RESOLUTION" did="IDS_COM_POP_UNSUPPORTED_RESOLUTION">Unsupported resolution.</string>
+    <string name="SS_TRIMMING_CANCELLED" did="IDS_VPL_POP_TRIMMING_CANCELLED">Trimming cancelled.</string>
+    <string name="SS_SELECT_MULTIPLE" did="IDS_CAM_BODY_SELECT_MULTIPLE">Select multiple</string>
+    <!-- 2016. 02. 11 -->
+    <string name="SS_INVALID_CHARACTERS" did="IDS_COM_POP_INVALID_CHARACTERS">Invalid characters.</string>
+    <string name="SS_AUTO_UPDATE_ABB" did="IDS_ST_BODY_AUTO_UPDATE_ABB">Auto update</string>
+    <string name="SS_CHECK_FOR_UPDATES_ABB" did="IDS_ST_BODY_CHECK_FOR_UPDATES_ABB">Check for updates</string>
+    <string name="SS_CHECK_FOR_UPDATES_AUTOMATICALLY_ABB" did="IDS_ST_BODY_CHECK_FOR_UPDATES_AUTOMATICALLY_ABB">Check for updates automatically.</string>
+    <string name="SS_WIFI_ONLY" did="IDS_ST_BODY_WIFI_ONLY">Wi-Fi only</string>
+    <string name="SS_CANCEL_DOWNLOAD_OPT_ABB" did="IDS_FOTA_OPT_CANCEL_DOWNLOAD_ABB">Cancel download</string>
+    <string name="SS_DOWNLOAD_FAILED" did="IDS_COM_POP_DOWNLOAD_FAILED">Download failed.</string>
+    <!-- 2016. 02. 11 - 01 -->
+    <string name="SS_YOU_CAN_SELECT_UP_TO_PD_ITEMS" did="IDS_VIDEO_POP_YOU_CAN_SELECT_UP_TO_PD_ITEMS">You can select up to %d items.</string>
+    <string name="SS_DELETE_ITEMS_HEADER_ABB" did="IDS_GALLERY_HEADER_DELETE_ITEMS_ABB">Delete items</string>
+    <string name="SS_DELETE_VIDEOS_HEADER_ABB" did="IDS_GALLERY_HEADER_DELETE_VIDEOS_ABB">Delete videos</string>
+    <string name="SS_DELETE_IMAGES_HEADER_ABB" did="IDS_GALLERY_HEADER_DELETE_IMAGES_ABB">Delete images</string>
+    <!-- 2016. 02. 13 -->
+    <string name="SS_TIMER_ABB" did="IDS_CAM_HEADER_TIMER_ABB">Timer</string>
+    <string name="SS_INCANDESCENT" did="IDS_CAM_OPT_WHITEBALANCE_INCANDESCENT">Incandescent</string>
+    <string name="SS_60_MINUTES" did="IDS_ST_BODY_60_MINUTES">60 minutes</string>
+    <!-- 2016. 02. 15 -->
+    <string name="SS_USER_MANUAL" did="IDS_COM_BODY_USER_MANUAL">User manual</string>
+    <!-- 2016. 02. 15 - 01 -->
+    <string name="SS_EXIT" did="IDS_ST_POP_EXIT">Exit</string>
+    <string name="TS_P1SS_SAVED_IN_P2SS_TPOP" did="IDS_EMAIL_TPOP_P1SS_SAVED_IN_P2SS">%1$s saved in %2$s.</string>
+    <string name="SS_CANNOT_PLAY_VIDEO_HEADER_ABB" did="IDS_VIDEO_HEADER_CANNOT_PLAY_VIDEO_ABB">Cannot play video</string>
+    <string name="TS_CONFIRM_BUTTON" did="IDS_ST_BUTTON_CONFIRM">Confirm</string>
+    <string name="SS_SELECT_OPT" did="IDS_GALLERY_OPT_SELECT">Select</string>
+    <string name="TS_DESELECT_ALL_BUTTON_ABB2" did="IDS_GALLERY_BUTTON_DESELECT_ALL_ABB2">Deselect all</string>
+    <string name="SS_MENU" did="IDS_ST_OPT_MENU">Menu</string>
+    <string name="SS_NAVIGATE_UP_T_TTS" did="IDS_PB_BODY_NAVIGATE_UP_T_TTS">Navigate up</string>
+    <string name="SS_SELECTED_OPT_TTS" did="IDS_ACCS_OPT_SELECTED_TTS">Selected</string>
+    <string name="SS_EXPOSURE_VALUE_T_TTS" did="IDS_CAM_OPT_EXPOSURE_VALUE_T_TTS">Exposure value</string>
+    <!-- 2016. 02. 15 - 02 -->
+    <string name="SS_DUAL_VIEW_TBBODY" did="IDS_G360M_TBBODY_DUAL_VIEW">Dual view</string>
+    <string name="SS_PANORAMIC_VIEW_TBBODY" did="IDS_G360M_TBBODY_PANORAMIC_VIEW">Panoramic view</string>
+    <string name="SS_RESIZE_SAVED_VIDEOS_HEADER_ABB" did="IDS_G360M_HEADER_RESIZE_SAVED_VIDEOS_ABB">Resize saved videos</string>
+    <string name="SS_VIDEOS_RECORDED_IN_3840_X_1920_RESOLUTION_ARE_SAVED_IN_A_LOWER_RESOLUTION_ON_YOUR_DEVICE_MSG" did="IDS_G360M_POP_VIDEOS_RECORDED_IN_3840_X_1920_RESOLUTION_ARE_SAVED_IN_A_LOWER_RESOLUTION_ON_YOUR_DEVICE_MSG">Videos recorded in 3840 x 1920 resolution are saved in a lower resolution on your device. Use the PC software provided to save videos in their original resolution.</string>
+    <string name="SS_2_PRESS_AND_HOLD_THE_CONNECTION_KEY_ON_YOUR_GEAR_360_TO_MAKE_YOUR_GEAR_360_AVAILABLE_FOR_CONNECTION" did="IDS_G360M_BODY_2_PRESS_AND_HOLD_THE_CONNECTION_KEY_ON_YOUR_GEAR_360_TO_MAKE_YOUR_GEAR_360_AVAILABLE_FOR_CONNECTION">2. Press and hold the Connection key on your Gear 360 to make your Gear 360 available for connection.</string>
+    <!-- 2016. 02. 16 -->
+    <string name="SS_SWITCH_LENS_TBOPT" did="IDS_G360M_TBOPT_SWITCH_LENS">Switch lens</string>
+    <string name="SS_SAVE_ITEMS_TO_SHARE_HEADER_ABB" did="IDS_G360M_HEADER_SAVE_ITEMS_TO_SHARE_ABB">Save items to share</string>
+    <!-- 2016. 02. 17 -->
+    <string name="TS_COPYING_OF_UPDATE_TO_GEAR_360_STOPPED_GEAR_360_OVERHEATING_RESUME_COPYING_AFTER_DEVICE_COOLS_DOWN_TPOP" did="IDS_G360M_TPOP_COPYING_OF_UPDATE_TO_GEAR_360_STOPPED_GEAR_360_OVERHEATING_RESUME_COPYING_AFTER_DEVICE_COOLS_DOWN">Copying of update to Gear 360 stopped. Gear 360 overheating. Resume copying after device cools down.</string>
+    <!-- 2016. 02. 17 - 01 -->
+    <string name="SS_CHANGING_TO_LIVE_VIEW_ING" did="IDS_G360M_POP_CHANGING_TO_LIVE_VIEW_ING">Changing to live view\u2026</string>
+    <!-- 2016. 02. 18 -->
+    <string name="TS_VIEW_BUTTON_ABB2" did="IDS_ST_BUTTON_VIEW_ABB2">View</string>
+    <string name="SS_SHOW_SK" did="IDS_ST_SK_SHOW">Show</string>
+    <!-- 2016. 02. 24 -->
+    <string name="SS_ATTACH_EMBED_AND_STORE_GEOGRAPHICAL_LOCATION_DATA_WITHIN_EACH_PICTURE_AND_VIDEO_SBODY" did="IDS_CAM_SBODY_ATTACH_EMBED_AND_STORE_GEOGRAPHICAL_LOCATION_DATA_WITHIN_EACH_PICTURE_AND_VIDEO">Attach, embed, and store geographical location data within each picture and video.</string>
+    <string name="SS_SET_THE_SOUND_VOLUME_AND_WHETHER_TO_USE_THE_LED_INDICATOR_SBODY" did="IDS_G360M_SBODY_SET_THE_SOUND_VOLUME_AND_WHETHER_TO_USE_THE_LED_INDICATOR">Set the sound volume and whether to use the LED indicator.</string>
+    <string name="SS_BATTERY_STATUS_GA" did="IDS_ST_BODY_BATTERY_STATUS">Battery status</string>
+    <string name="SS_FORMAT_THE_SD_CARD_IN_YOUR_GEAR_360_THIS_WILL_ERASE_ALL_DATA_ON_THE_SD_CARD_SBODY" did="IDS_G360M_SBODY_FORMAT_THE_SD_CARD_IN_YOUR_GEAR_360_THIS_WILL_ERASE_ALL_DATA_ON_THE_SD_CARD">Format the SD card in your Gear 360. This will erase all data on the SD card.</string>
+    <string name="SS_RESET_GEAR_360_DEVICE_SETTINGS_CONNECTION_SETTINGS_OR_BOTH_SBODY" did="IDS_G360M_SBODY_RESET_GEAR_360_DEVICE_SETTINGS_CONNECTION_SETTINGS_OR_BOTH">Reset Gear 360 device settings, connection settings, or both.</string>
+    <string name="SS_RESET_YOUR_DEVICE_SETTINGS_TO_THEIR_DEFAULTS_SBODY" did="IDS_G360M_SBODY_RESET_YOUR_DEVICE_SETTINGS_TO_THEIR_DEFAULTS">Reset your device settings to their defaults.</string>
+    <string name="TS_UNABLE_TO_VIEW_GEAR_360_TAB_WHILE_RECORDING_VIDEO_TPOP" did="IDS_G360M_TPOP_UNABLE_TO_VIEW_GEAR_360_TAB_WHILE_RECORDING_VIDEO">Unable to view Gear 360 tab while recording video.</string>
+    <string name="SS_DISCONNECT_YOUR_GEAR_360_FROM_YOUR_PC_AND_TRY_AGAIN" did="IDS_G360M_POP_DISCONNECT_YOUR_GEAR_360_FROM_YOUR_PC_AND_TRY_AGAIN">Disconnect your Gear 360 from your PC and try again.</string>
+    <!-- 2016. 02. 26 -->
+    <string name="SS_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_DEVICE_STORAGE_MSG" did="IDS_STORYALBUM_POP_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_DEVICE_STORAGE_MSG">There is not enough space in your device storage. Delete some items and try again.</string>
+    <!-- 2016. 02. 26 - 01 -->
+    <string name="SS_RESET_YOUR_CONNECTION_SETTINGS_TO_THEIR_DEFAULTS_SBODY" did="IDS_G360M_SBODY_RESET_YOUR_CONNECTION_SETTINGS_TO_THEIR_DEFAULTS">Reset your connection settings to their defaults.</string>
+    <string name="SS_CURRENT_LOCATION" did="IDS_PB_BODY_CURRENT_LOCATION">Current location</string>
+    <!-- 2016. 03. 02 -->
+    <string name="SS_DOWNLOAD_COMPLETED" did="IDS_COM_POP_DOWNLOAD_COMPLETED">Download completed.</string>
+    <string name="TS_UNABLE_TO_VIEW_GEAR_360_TAB_OR_USE_VIEWFINDER_WHILE_COPYING_FIRMWARE_UPDATE_TPOP" did="IDS_G360M_TPOP_UNABLE_TO_VIEW_GEAR_360_TAB_OR_USE_VIEWFINDER_WHILE_COPYING_FIRMWARE_UPDATE">Unable to view Gear 360 tab or use viewfinder while copying firmware update.</string>
+    <string name="SS_UNABLE_TO_UPDATE_THE_SOFTWARE_A_NETWORK_OR_SERVER_ERROR_OCCURRED_TRY_AGAIN_LATER" did="IDS_FOTA_POP_UNABLE_TO_UPDATE_THE_SOFTWARE_A_NETWORK_OR_SERVER_ERROR_OCCURRED_TRY_AGAIN_LATER">Unable to update the software. A network or server error occurred. Try again later.</string>
+    <string name="WS_PROCESSING_ING" did="WDS_CALL_POP_PROCESSING_ING">Processing\u2026</string>
+    <!-- 2016. 03. 04 -->
+    <string name="SS_TO_ENABLE_LOCATION_TAGS_MAKE_SURE_THE_LOCATING_METHOD_IN_SETTINGS_PRIVACY_AND_SAFETY_LOCATION_IS_SET_TO_GPS_WI_FI_AND_MOBILE_NETWORKS_OR_WI_FI_AND_MOBILE_NETWORKS" did="IDS_CAM_POP_TO_ENABLE_LOCATION_TAGS_MAKE_SURE_THE_LOCATING_METHOD_IN_SETTINGS_PRIVACY_AND_SAFETY_LOCATION_IS_SET_TO_GPS_WI_FI_AND_MOBILE_NETWORKS_OR_WI_FI_AND_MOBILE_NETWORKS">To enable Location tags, make sure the Locating method in Settings &gt; Privacy and safety &gt; Location is set to GPS, Wi-Fi, and mobile networks or Wi-Fi and mobile networks.</string>
+    <string name="SS_WI_FI_NETWORKS" did="IDS_ST_BODY_WI_FI_NETWORKS">Wi-Fi networks</string>
+    <!-- 2016. 03. 07 -->
+    <string name="SS_INSTALLING_PS_ING" did="IDS_DLINK_BODY_INSTALLING_PS_ING">Installing %s\u2026</string>
+    <string name="WS_SAMSUNG_ACCESSORY_SERVICE_M_APPLICATION_NAME_HEADER" did="WDS_WMGR_HEADER_SAMSUNG_ACCESSORY_SERVICE_M_APPLICATION_NAME">Samsung Accessory Service</string>
+    <!-- 2016. 03. 08 -->
+    <string name="SS_PD_MINUTES" did="IDS_ST_BODY_PD_MINUTES">%d minutes</string>
+    <string name="SS_I_AGREE_TO_THE_USE_OF_PS" did="IDS_G360M_BODY_I_AGREE_TO_THE_USE_OF_PS">I agree to the use of %s.</string>
+    <!-- 2016. 03. 10 -->
+    <string name="SS_ERROR_OCCURRED_TRY_AGAIN" did="IDS_MF_POP_ERROR_OCCURRED_TRY_AGAIN">Error occurred. Try again.</string>
+    <string name="SS_UNABLE_TO_DOWNLOAD_THE_GEAR_360_FIRMWARE_UPDATE_TO_YOUR_MOBILE_DEVICE_CONNECT_YOUR_MOBILE_DEVICE_MSG" did="IDS_G360M_POP_UNABLE_TO_DOWNLOAD_THE_GEAR_360_FIRMWARE_UPDATE_TO_YOUR_MOBILE_DEVICE_CONNECT_YOUR_MOBILE_DEVICE_MSG">Unable to download the Gear 360 firmware update to your mobile device. Connect your mobile device to a charger and recharge the battery to at least %d%% to download the firmware update.</string>
+    <!-- 2016. 03. 15 -->
+    <string name="TS_OK_BUTTON_ABB5" did="IDS_HELP_BUTTON_OK_ABB5">OK</string>
+    <!-- 2016. 03. 17 -->
+    <string name="SS_SOFTWARE_UPDATES_ARE_AVAILABLE_SBODY" did="IDS_FOTA_SBODY_SOFTWARE_UPDATES_ARE_AVAILABLE">Software updates are available.</string>
+    <string name="SS_THE_LATEST_SOFTWARE_UPDATE_IS_READY_TO_BE_INSTALLED" did="IDS_ST_BODY_THE_LATEST_SOFTWARE_UPDATE_IS_READY_TO_BE_INSTALLED">The latest software update is ready to be installed.</string>
+    <!-- 2016. 03. 20 -->
+    <string name="SS_SINGLE_LENS_C_REAR" did="IDS_G360M_BODY_SINGLE_LENS_C_REAR">Single lens: rear</string>
+    <string name="SS_SINGLE_LENS_C_FRONT" did="IDS_G360M_BODY_SINGLE_LENS_C_FRONT">Single lens: front</string>
+    <string name="SS_DUAL_LENS" did="IDS_G360M_BODY_DUAL_LENS">Dual lens</string>
+    <string name="SS_ORIGINAL_VIDEO_OPT" did="IDS_G360M_OPT_ORIGINAL_VIDEO">Original video</string>
+    <string name="TS_SAVING_VIDEO_IN_GEAR_360_ING_TPOP" did="IDS_G360M_TPOP_SAVING_VIDEO_IN_GEAR_360_ING">Saving video in Gear 360\u2026</string>
+    <!-- 2016. 03. 23 -->
+    <string name="SS_VIEW_GEAR_360_VIDEOS_AND_PICTURES_THAT_HAVE_BEEN_TRANSFERRED_TO_YOUR_MOBILE_DEVICE_ABB" did="IDS_G360M_BODY_VIEW_GEAR_360_VIDEOS_AND_PICTURES_THAT_HAVE_BEEN_TRANSFERRED_TO_YOUR_MOBILE_DEVICE_ABB">View Gear 360 videos and pictures that have been transferred to your mobile device.</string>
+    <string name="SS_VIEW_VIDEOS_AND_PICTURES_TAKEN_WITH_YOUR_GEAR_360_AND_SAVED_ON_ITS_SD_CARD_ABB" did="IDS_G360M_BODY_VIEW_VIDEOS_AND_PICTURES_TAKEN_WITH_YOUR_GEAR_360_AND_SAVED_ON_ITS_SD_CARD_ABB">View videos and pictures taken with your Gear 360 and saved on its SD card.</string>
+    <string name="SS_NOT_CHARGING_MBODY" did="IDS_ST_MBODY_NOT_CHARGING">Not charging</string>
+    <string name="SS_2_PRESS_AND_HOLD_THE_CONNECTION_KEY" did="IDS_G360M_BODY_2_PRESS_AND_HOLD_THE_CONNECTION_KEY">2. Press and hold the Connection key.</string>
+    <string name="SS_PRESS_THE_BACK_KEY_AGAIN_TO_CLOSE_THE_APP" did="IDS_CAM_POP_PRESS_THE_BACK_KEY_AGAIN_TO_CLOSE_THE_APP">Press the back key again to close the app.</string>
+    <!-- 2016. 03. 24 -->
+    <string name="TS_NO_ITEMS_NPBODY" did="IDS_GALLERY_NPBODY_NO_ITEMS">No items</string>
+    <string name="SS_HAPPROX_PS_LC_ABB" did="IDS_VDOE_BODY_HAPPROX_PS_LC_ABB">(approx. %s)</string>
+    <!-- 2016. 03. 25 -->
+    <string name="SS_AUTO_M_ISO_ABB" did="IDS_CAM_BODY_AUTO_M_ISO_ABB">Auto</string>
+    <!-- 2016. 03. 29 -->
+    <string name="SS_FORMAT_MVERB" did="IDS_COM_BODY_FORMAT">Format</string>
+    <string name="SS_SIZE" did="IDS_VIDEO_BODY_SIZE">Size</string>
+    <string name="SS_DOWNLOADING_ING" did="IDS_COM_POP_DOWNLOADING">Downloading\u2026</string>
+    <string name="SS_NOT_SELECTED_T_TTS" did="IDS_ACCS_BODY_NOT_SELECTED_T_TTS">Not selected</string>
+    <!-- 2016. 03. 30 -->
+    <string name="SS_360_DEGREE_VIEW_TBOPT" did="IDS_G360M_TBOPT_360_DEGREE_VIEW">360-degree view</string>
+    <string name="TS_UNABLE_TO_VIEW_GEAR_360_TAB_WHILE_TAKING_PICTURES_OR_RECORDING_VIDEO_ON_GEAR_360_TPOP" did="IDS_G360M_TPOP_UNABLE_TO_VIEW_GEAR_360_TAB_WHILE_TAKING_PICTURES_OR_RECORDING_VIDEO_ON_GEAR_360">Unable to view Gear 360 tab while taking pictures or recording video on Gear 360.</string>
+    <!-- 2016. 03. 31 -->
+    <string name="TS_360_VIEW_BUTTON_ABB" did="IDS_G360M_BUTTON_360_VIEW_ABB">360° view</string>
+    <string name="TS_DUAL_VIEW_BUTTON_ABB2" did="IDS_G360M_BUTTON_DUAL_VIEW_ABB2">Dual view</string>
+    <string name="SS_DURING_THE_INSTALLATION_YOU_CANNOT_USE_YOUR_GEAR_360_THE_GEAR_360_SETTINGS_WILL_REVERT_TO_THEIR_DEFAULTS_AND_WILL_NEED_TO_BE_RECONFIGURED_MSG" did="IDS_G360M_BODY_DURING_THE_INSTALLATION_YOU_CANNOT_USE_YOUR_GEAR_360_THE_GEAR_360_SETTINGS_WILL_REVERT_TO_THEIR_DEFAULTS_AND_WILL_NEED_TO_BE_RECONFIGURED_MSG">During the installation, you cannot use your Gear 360. The Gear 360 settings will revert to their defaults and will need to be reconfigured after installation. After the installation, your data should be preserved, but we recommend that you back up important data before installation to avoid unexpected data loss.</string>
+    <string name="TS_PANORAMIC_VIEW_BUTTON_ABB" did="IDS_G360M_BUTTON_PANORAMIC_VIEW_ABB">Panoramic view</string>
+    <!-- 2016. 04. 05 -->
+    <string name="SS_FORMAT_FAILED" did="IDS_ST_POP_FORMAT_FAILED">Format failed.</string>
+    <string name="TS_FAILED_TO_RESET_TPOP" did="IDS_HEALTH_TPOP_FAILED_TO_RESET">Failed to reset.</string>
+    <!-- 2016. 04. 06 -->
+    <string name="WS_FRONT_MBODY" did="WDS_G360M_MBODY_FRONT">Front</string>
+    <string name="WS_REAR_MBODY" did="WDS_G360M_MBODY_REAR">Rear</string>
+    <string name="SS_A_NETWORK_ERROR_HAS_OCCURRED" did="IDS_ST_POP_A_NETWORK_ERROR_HAS_OCCURRED">A network error has occurred.</string>
+    <!-- 2016. 04. 06 - 01 -->
+    <string name="SS_PHOTO_M_DEFAULTFILENAME" did="IDS_CAM_BODY_PHOTO">Photo</string>
+    <!-- 2016. 04. 07 -->
+    <string name="TS_PREVIEW_NOT_SUPPORTED_IN_TIME_LAPSE_MODE_NPBODY" did="IDS_G360M_NPBODY_PREVIEW_NOT_SUPPORTED_IN_TIME_LAPSE_MODE">Preview not supported in Time lapse mode</string>
+    <string name="SS_SMALL_THUMBNAILS_OPT" did="IDS_G360M_OPT_SMALL_THUMBNAILS">Small thumbnails</string>
+    <string name="SS_LARGE_THUMBNAILS_OPT" did="IDS_G360M_OPT_LARGE_THUMBNAILS">Large thumbnails</string>
+    <string name="TS_SKIP_BUTTON_ABB2" did="IDS_HELP_BUTTON_SKIP_ABB2">Skip</string>
+    <string name="SS_VIEW_AS" did="IDS_MF_OPT_VIEW_AS">View as</string>
+    <string name="SS_VIEW_AS_ABB" did="IDS_MF_HEADER_VIEW_AS_ABB">View as</string>
+    <!-- 2016. 04. 11 -->
+    <string name="TS_RESET_VIEW_BUTTON_ABB" did="IDS_G360M_BUTTON_RESET_VIEW_ABB">Reset view</string>
+    <!-- 2016. 04. 15 -->
+    <string name="TS_CHARGING_MBODY" did="IDS_ST_MBODY_CHARGING">Charging</string>
+    <string name="SS_INSERT_AN_SD_CARD_INTO_YOUR_GEAR_360_THEN_TRY_AGAIN" did="IDS_G360M_POP_INSERT_AN_SD_CARD_INTO_YOUR_GEAR_360_THEN_TRY_AGAIN">Insert an SD card into your Gear 360, then try again.</string>
+    <string name="TS_CANNOT_EDIT_VIDEO_FILE_NOT_SUPPORTED_OR_CORRUPTED_TPOP" did="IDS_VDOE_TPOP_CANNOT_EDIT_VIDEO_FILE_NOT_SUPPORTED_OR_CORRUPTED">Cannot edit video. File not supported or corrupted.</string>
+    <!-- 2016. 04. 18 -->
+    <string name="TS_RECORDING_STOPPED_GEAR_360_SD_CARD_TOO_SLOW_TPOP" did="IDS_G360M_TPOP_RECORDING_STOPPED_GEAR_360_SD_CARD_TOO_SLOW">Recording stopped. Gear 360 SD card too slow.</string>
+    <string name="SS_UNABLE_TO_UPDATE_GEAR_360_FIRMWARE_HEADER_ABB" did="IDS_G360M_HEADER_UNABLE_TO_UPDATE_GEAR_360_FIRMWARE_ABB">Unable to update Gear 360 firmware</string>
+    <!-- 2016. 05. 02 -->
+    <string name="SS_HIGH_M_VOLUME_SBODY" did="IDS_G360M_SBODY_HIGH_M_VOLUME">High</string>
+    <string name="SS_MEDIUM_M_VOLUME_SBODY" did="IDS_G360M_SBODY_MEDIUM_M_VOLUME">Medium</string>
+    <string name="SS_LOW_M_VOLUME_SBODY" did="IDS_G360M_SBODY_LOW_M_VOLUME">Low</string>
+    <!-- 2016. 05. 10 -->
+    <string name="SS_ZOOM_IN_OR_OUT_HEADER_ABB" did="IDS_G360M_HEADER_ZOOM_IN_OR_OUT_ABB">Zoom in or out</string>
+    <string name="SS_PINCH_THE_SCREEN_TO_ZOOM_OUT_FROM_360_VIDEOS_OR_PICTURES_SPREAD_YOUR_FINGERS_APART_TO_ZOOM_IN_ABB" did="IDS_G360M_BODY_PINCH_THE_SCREEN_TO_ZOOM_OUT_FROM_360_VIDEOS_OR_PICTURES_SPREAD_YOUR_FINGERS_APART_TO_ZOOM_IN_ABB">Pinch the screen to zoom out from 360° videos or pictures. Spread your fingers apart to zoom in.</string>
+    <!-- 2016. 05. 17 -->
+    <string name="SS_PS_AND_PD_MORE_M_NUMBER" did="IDS_COM_POP_PS_AND_PD_MORE_M_NUMBER_GA">%1$s and %2$d more</string>
+    <!-- 2016. 05. 19 -->
+    <string name="SS_PDX_M_SPEED" did="IDS_STUDIO_OPT_PDX_M_SPEED">%dx</string>
+    <!-- 2016. 05. 20 -->
+    <string name="SS_UNABLE_TO_COPY_THE_FIRMWARE_UPDATE_TO_YOUR_GEAR_360_CONNECT_YOUR_GEAR_360_TO_A_CHARGER_AND_RECHARGE_THE_BATTERY_TO_AT_LEAST_PDP_THEN_MSG" did="IDS_G360M_POP_UNABLE_TO_COPY_THE_FIRMWARE_UPDATE_TO_YOUR_GEAR_360_CONNECT_YOUR_GEAR_360_TO_A_CHARGER_AND_RECHARGE_THE_BATTERY_TO_AT_LEAST_PDP_THEN_MSG">Unable to copy the firmware update to your Gear 360. Connect your Gear 360 to a charger and recharge the battery to at least %d%%, then tap CHECK FOR UPDATES to download and/or transfer the update.</string>
+    <!-- 2016. 05. 30 -->
+    <string name="SS_DEFAULT_PLAYBACK_DIRECTION_OPT_ABB" did="IDS_G360M_OPT_DEFAULT_PLAYBACK_DIRECTION_ABB">Default playback direction</string>
+    <string name="SS_SELECT_WHETHER_TO_USE_THE_FRONT_LENS_OR_THE_REAR_LENS_BY_DEFAULT_WHEN_PLAYING_360_VIDEOS_OR_VIEWING_360_PICTURES" did="IDS_G360M_BODY_SELECT_WHETHER_TO_USE_THE_FRONT_LENS_OR_THE_REAR_LENS_BY_DEFAULT_WHEN_PLAYING_360_VIDEOS_OR_VIEWING_360_PICTURES">Select whether to use the front lens or the rear lens by default when playing 360° videos or viewing 360° pictures.</string>
+    <string name="SS_REAR_OPT" did="IDS_G360M_OPT_REAR">Rear</string>
+    <string name="SS_FRONT_OPT" did="IDS_G360M_OPT_FRONT">Front</string>
+    <!-- 2016. 05. 31 -->
+    <string name="SS_STORAGE_LOCATION_ABB" did="IDS_CAM_HEADER_STORAGE_LOCATION_ABB">Storage location</string>
+    <string name="SS_SD_CARD_OPT" did="IDS_CAM_OPT_SD_CARD">SD card</string>
+    <string name="SS_DEVICE_ABB_M_MEMORY" did="IDS_CAM_OPT_DEVICE_ABB_M_MEMORY">Device</string>
+    <!-- 2016. 06. 02 -->
+    <string name="SS_MOVE_TO_DEVICE_OPT" did="IDS_DTV_OPT_MOVE_TO_DEVICE">Move to device</string>
+    <string name="SS_COPY_TO_DEVICE" did="IDS_MSGF_OPT_COPY_TO_DEVICE">Copy to device</string>
+    <string name="SS_MOVE_TO_SD_CARD_OPT" did="IDS_DTV_OPT_MOVE_TO_SD_CARD">Move to SD card</string>
+    <string name="SS_COPY_TO_SD_CARD_OPT" did="IDS_MSG_OPT_COPY_TO_SD_CARD">Copy to SD card</string>
+    <string name="TS_LOCATION_DISABLED_NTO_USE_LOCATION_TAGS_ENABLE_LOCATION_IN_QUICK_SETTINGS_PANEL_TPOP" did="IDS_CAM_TPOP_LOCATION_DISABLED_NTO_USE_LOCATION_TAGS_ENABLE_LOCATION_IN_QUICK_SETTINGS_PANEL">Location disabled.\nTo use Location tags, enable Location in quick settings panel.</string>
+    <!-- 2016. 06. 20 -->
+    <string name="SS_AVAILABLE_SPACE_GA" did="IDS_ST_BODY_AVAILABLE_SPACE">Available space</string>
+    <!-- 2016. 06. 30 -->
+    <string name="SS_RESET_ALL_SETTINGS_TO_THEIR_DEFAULTS_SBODY" did="IDS_G360M_SBODY_RESET_ALL_SETTINGS_TO_THEIR_DEFAULTS">Reset all settings to their defaults.</string>
+    <!-- 2016. 07. 05 -->
+    <string name="TS_MORE_BUTTON_ABB2" did="IDS_COM_BUTTON_MORE_ABB2">More</string>
+    <!-- 2016. 07. 11 -->
+    <string name="TS_STRETCHED_VIEW_BUTTON_ABB" did="IDS_G360M_BUTTON_STRETCHED_VIEW_ABB">Stretched view</string>
+    <string name="TS_ROUND_VIEW_BUTTON_ABB" did="IDS_G360M_BUTTON_ROUND_VIEW_ABB">Round view</string>
+    <string name="TS_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SELECTED_HPD_EXCEEDED_TPOP" did="IDS_GALLERY_TPOP_MAXIMUM_NUMBER_OF_ITEMS_THAT_CAN_BE_SELECTED_HPD_EXCEEDED">Maximum number of items that can be selected (%d) exceeded.</string>
+    <!-- 2016. 08. 30 -->
+    <string name="SS_CONTACT_US_OPT" did="IDS_SF_OPT_CONTACT_US">Contact us</string>
+    <string name="SS_MORE_DETAILS_HEADER" did="IDS_GALLERY_HEADER_MORE_DETAILS">More details</string>
+    <!-- 2016. 08. 31 -->
+    <string name="SS_MY_DEVICE_M_STORAGE_OPT" did="IDS_MF_OPT_MY_DEVICE_M_STORAGE">My device</string>
+    <string name="SS_STEREO" did="IDS_MUSIC_BODY_STEREO">Stereo</string>
+    <string name="SS_MONO_M_SOUND_TYPE" did="IDS_FM_POP_MONO_M_SOUND_TYPE">Mono</string>
+    <!-- 2016. 09. 27 -->
+    <string name="TS_ON_BUTTON_ABB_M_TURNED_ON" did="IDS_ST_BUTTON_ON_ABB_M_TURNED_ON">On</string>
+    <string name="TS_OFF_BUTTON_ABB_M_TURNED_OFF" did="IDS_ST_BUTTON_OFF_ABB_M_TURNED_OFF">Off</string>
+    <!-- 2016. 10. 29 -->
+    <string name="TS_THIS_APP_DOES_NOT_SUPPORT_MULTI_WINDOW_TPOP" did="IDS_TASKMGR_TPOP_THIS_APP_DOES_NOT_SUPPORT_MULTI_WINDOW">This app does not support Multi window.</string>
+    <!-- 2016. 11. 26 -->
+    <string name="SS_MOVE_TO_KNOX_OPT" did="IDS_GALLERY_OPT_MOVE_TO_KNOX">Move to Knox</string>
+    <string name="SS_MOVE_TO_SECURE_FOLDER_OPT" did="IDS_SFOLDER_OPT_MOVE_TO_SECURE_FOLDER">Move to Secure Folder</string>
+    <string name="SS_SAVE_AS_STANDARD_VIDEO_OPT_ABB" did="IDS_G360M_OPT_SAVE_AS_STANDARD_VIDEO_ABB">Save as standard video</string>
+    <string name="SS_SAVE_AS_STANDARD_PICTURE_OPT_ABB" did="IDS_G360M_OPT_SAVE_AS_STANDARD_PICTURE_ABB">Save as standard picture</string>
+    <!-- 2016. 12. 07 -->
+    <string name="SS_CHANGE_VIEW_TYPE_OPT_ABB" did="IDS_STORYALBUM_OPT_CHANGE_VIEW_TYPE_ABB">Change view type</string>
+    <string name="MTS_AUTO_DIM_MBODY" did="MIDS_LVB_MBODY_AUTO_DIM">Auto dim</string>
+    <string name="MSS_DIMS_THE_BRIGHTNESS_IF_YOU_BROADCAST_FOR_MORE_THAN_PD_MINUTES_MSG" did="MIDS_LVB_SBODY_DIMS_THE_BRIGHTNESS_IF_YOU_BROADCAST_FOR_MORE_THAN_PD_MINUTES_MSG">Dims the brightness if you broadcast for more than %d minutes without touching the screen to save battery power.</string>
+    <string name="MTS_AUTO_SAVE_TMBODY" did="MIDS_LVB_TMBODY_AUTO_SAVE">Auto save</string>
+    <string name="MSS_AUTO_SAVE_YOUR_VIDEO_TO_GALLERY_WHEN_YOUR_BROADCAST_HAS_STOPPED_SBODY" did="MIDS_LVB_SBODY_AUTO_SAVE_YOUR_VIDEO_TO_GALLERY_WHEN_YOUR_BROADCAST_HAS_STOPPED">Auto save your video to Gallery when your broadcast has stopped.</string>
+    <string name="MSS_ADD_TBOPT" did="MIDS_LVB_TBOPT_ADD">Add</string>
+    <string name="MTS_1_INVITATION_SENT_TPOP" did="MIDS_LVB_TPOP_1_INVITATION_SENT">1 invitation sent.</string>
+    <string name="MTS_PD_INVITATIONS_SENT_TPOP" did="MIDS_LVB_TPOP_PD_INVITATIONS_SENT">%d invitations sent.</string>
+    <string name="MTS_FAILED_TO_SEND_MESSAGE_TPOP" did="MIDS_LVB_TPOP_FAILED_TO_SEND_MESSAGE">Failed to send message.</string>
+    <string name="MTS_FAILED_TO_SEND_MESSAGES_TPOP" did="MIDS_LVB_TPOP_FAILED_TO_SEND_MESSAGES">Failed to send messages.</string>
+    <string name="MSS_ADD_FROM_CONTACTS_TBOPT" did="MIDS_LVB_TBOPT_ADD_FROM_CONTACTS">Add from Contacts</string>
+    <string name="MTS_ENTER_RECIPIENTS_NPBODY" did="MIDS_LVB_NPBODY_ENTER_RECIPIENTS">Enter recipients</string>
+    <string name="MTS_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED_TPOP" did="MIDS_LVB_TPOP_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED">Maximum number of characters reached.</string>
+    <string name="MTS_DUPLICATE_RECIPIENT_ENTERED_TPOP" did="MIDS_LVB_TPOP_DUPLICATE_RECIPIENT_ENTERED">Duplicate recipient entered.</string>
+    <string name="MTS_MAXIMUM_NUMBER_OF_RECIPIENTS_HPD_REACHED_TPOP" did="MIDS_LVB_TPOP_MAXIMUM_NUMBER_OF_RECIPIENTS_HPD_REACHED">Maximum number of recipients (%d) reached.</string>
+    <string name="MSS_INVALID_RECIPIENT_NUMBER_HEADER_ABB" did="MIDS_LVB_HEADER_INVALID_RECIPIENT_NUMBER_ABB">Invalid recipient number</string>
+    <string name="MSS_UNABLE_TO_ADD_A_RECIPIENT_THE_RECIPIENTS_NUMBER_IS_INVALID" did="MIDS_LVB_POP_UNABLE_TO_ADD_A_RECIPIENT_THE_RECIPIENTS_NUMBER_IS_INVALID">Unable to add a recipient. The recipient\'s number is invalid.</string>
+    <string name="MTS_PD_INVITATIONS_WILL_BE_SENT_VIA_SMS_WHEN_BROADCAST_STARTS_TPOP" did="MIDS_LVB_TPOP_PD_INVITATIONS_WILL_BE_SENT_VIA_SMS_WHEN_BROADCAST_STARTS">%d invitations will be sent via SMS when broadcast starts.</string>
+    <string name="MSS_YOU_ARE_INVITED_TO_MY_BROADCAST_ABB" did="MIDS_LVB_BODY_YOU_ARE_INVITED_TO_MY_BROADCAST_ABB">You are invited to my broadcast.</string>
+    <!-- 2016. 12. 08 -->
+    <string name="TS_SCAN_AGAIN_SK2" did="IDS_WIFI_SK2_SCAN_AGAIN">Scan again</string>
+    <!-- 2016. 12. 17 -->
+    <string name="SS_PD_PERCENT_TTS" did="IDS_HEALTH_OPT_PD_PERCENT_TTS">%d percent</string>
+    <string name="SS_MORE_OPTIONS_TTS" did="IDS_BR_BODY_MORE_OPTIONS_TTS">More options</string>
+    <string name="SS_EXPANDABLE_LIST_TTS" did="IDS_HEALTH_BODY_EXPANDABLE_LIST_TTS">Expandable list</string>
+    <string name="SS_DOUBLE_TAP_TO_EXPAND_THE_LIST_T_TTS" did="IDS_ACCS_BODY_DOUBLE_TAP_TO_EXPAND_THE_LIST_T_TTS">Double tap to expand the list.</string>
+    <string name="SS_DOUBLE_TAP_TO_COLLAPSE_THE_LIST_T_TTS" did="IDS_ACCS_BODY_DOUBLE_TAP_TO_COLLAPSE_THE_LIST_T_TTS">Double tap to collapse the list.</string>
+    <string name="SS_HEADER_OPT_T_TTS" did="IDS_ST_OPT_HEADER_T_TTS">Header</string>
+    <string name="SS_DOUBLE_TAP_TO_VIEW_TTS" did="IDS_PB_BODY_DOUBLE_TAP_TO_VIEW_TTS">Double tap to view.</string>
+    <string name="SS_AUTO_M_WHITE_BALANCE" did="IDS_CAM_BODY_AUTO_M_WHITE_BALANCE">Auto</string>
+    <string name="SS_CLOUDY_TBOPT" did="IDS_CAM_TBOPT_CLOUDY">Cloudy</string>
+    <string name="SS_DAYLIGHT_TBOPT" did="IDS_CAM_TBOPT_DAYLIGHT">Daylight</string>
+    <string name="SS_FLUORESCENT_TBOPT" did="IDS_CAM_TBOPT_FLUORESCENT">Fluorescent</string>
+    <string name="SS_INCANDESCENT_TBOPT" did="IDS_CAM_TBOPT_INCANDESCENT">Incandescent</string>
+    <string name="SS_CHANGE_VIEW_OPT_TTS" did="IDS_HEALTH_OPT_CHANGE_VIEW_TTS">Change view</string>
+    <string name="SS_CAMERA_MODE" did="IDS_CAM_BODY_CAMERA_MODE">Camera mode</string>
+    <string name="SS_RECORD_M_VIDEO_OPT_TTS" did="IDS_KM_OPT_RECORD_M_VIDEO_TTS">Record</string>
+    <string name="SS_MINUS" did="IDS_PB_BODY_MINUS">Minus</string>
+    <string name="SS_PLUS" did="IDS_PB_BODY_PLUS">Plus</string>
+    <string name="SS_DONE" did="IDS_COM_POP_DONE">Done</string>
+    <string name="SS_INVITE" did="IDS_PB_BODY_INVITE">Invite</string>
+    <string name="MSS_ACCESS_VIA_LINK_ONLY_SBODY" did="MIDS_LVB_SBODY_ACCESS_VIA_LINK_ONLY">Access via link only</string>
+    <string name="MSS_BROADCAST_THUMBNAIL_TBOPT" did="MIDS_LVB_TBOPT_BROADCAST_THUMBNAIL">Broadcast thumbnail</string>
+    <string name="MSS_REMOVE_TBOPT" did="MIDS_LVB_TBOPT_REMOVE">Remove</string>
+    <string name="MTS_INVITE_BUTTON_ABB" did="MIDS_LVB_BUTTON_INVITE_ABB">Invite</string>
+    <string name="MTS_ACCESS_VIA_LINK_ONLY_MBODY" did="MIDS_LVB_MBODY_ACCESS_VIA_LINK_ONLY">Access via link only</string>
+    <string name="MSS_MAKE_YOUR_VIDEO_PUBLIC_ON_YOUTUBE_FOR_EVERYONE_TO_WATCH_SBODY" did="MIDS_LVB_SBODY_MAKE_YOUR_VIDEO_PUBLIC_ON_YOUTUBE_FOR_EVERYONE_TO_WATCH">Make your video public on YouTube for everyone to watch.</string>
+    <string name="MSS_TERMS_OF_SERVICE_ABB" did="MIDS_LVB_HEADER_TERMS_OF_SERVICE_ABB">Terms of Service</string>
+    <!-- 2016. 12. 25 -->
+    <string name="SS_MANUAL_M_SETTING_ABB" did="IDS_CAM_BODY_MANUAL_M_SETTING_ABB">Manual</string>
+    <string name="SS_CAMERA_HEADER" did="IDS_GALLERY_HEADER_CAMERA">Camera</string>
+    <!-- 2016. 12. 28 -->
+    <string name="SS_ABOUT_PS_HEADER" did="IDS_IDLE_HEADER_ABOUT_PS">About %s</string>
+    <!-- 2017. 1. 2 -->
+    <string name="MSS_PUBLIC_OPT_M_ORDINARYPEOPLE" did="MIDS_LVB_OPT_PUBLIC_M_ORDINARYPEOPLE">Public</string>
+    <!-- 2017. 1. 9 -->
+    <string name="DREAM_TURN_ON_LOCATION_TAGS_Q_PHEADER" did="DREAM_CAM_PHEADER_TURN_ON_LOCATION_TAGS_Q">Turn on Location tags?</string>
+    <string name="DREAM_LOCATION_WILL_ALSO_BE_TURNED_ON_AND_THE_LOCATING_METHOD_WILL_BE_SET_TO_GPS_WI_FI_AND_MOBILE_NETWORKS" did="DREAM_CAM_POP_LOCATION_WILL_ALSO_BE_TURNED_ON_AND_THE_LOCATING_METHOD_WILL_BE_SET_TO_GPS_WI_FI_AND_MOBILE_NETWORKS">Location will also be turned on and the Locating method will be set to GPS, Wi-Fi, and mobile networks.</string>
+    <!-- 2017. 1. 15 -->
+    <string name="DREAM_NOTHING_TO_SAVE_TPOP" did="DREAM_GALLERY_TPOP_NOTHING_TO_SAVE">Nothing to save.</string>
+    <string name="DREAM_CANT_SAVE_DETAILS_TITLE_FIELD_EMPTY_TPOP" did="DREAM_GALLERY_TPOP_CANT_SAVE_DETAILS_TITLE_FIELD_EMPTY">Can\'t save details. Title field empty.</string>
+    <string name="DREAM_VERSION_PS" did="DREAM_REMINDER_BODY_VERSION_PS">Version %s</string>
+    <!-- 2017. 1. 20 -->
+    <string name="SS_GB" did="IDS_ST_BODY_GB">GB</string>
+    <string name="SS_MB" did="IDS_ST_BODY_MB">MB</string>
+    <string name="SS_KB" did="IDS_ST_BODY_KB">KB</string>
+    <string name="SS_PS_GB" did="IDS_ST_BODY_PS_GB">%s GB</string>
+    <string name="SS_PS_MB" did="IDS_ST_BODY_PS_MB">%s MB</string>
+    <!-- 2017. 1. 21 -->
+    <string name="SS_PD_GB_FREE_M_NOUN_ABB" did="IDS_ST_BODY_PD_GB_FREE_M_NOUN_ABB">%d GB free</string>
+    <string name="MSS_DISCLAIMER" did="MIDS_LVB_BODY_DISCLAIMER">Disclaimer</string>
+    <!-- 2017. 1. 25 -->
+    <string name="DREAM_YOUR_PICTURES_AND_VIDEOS_WILL_NOW_CONTAIN_INFORMATION_ABOUT_WHERE_THEY_WERE_TAKEN_OR_RECORDED_SO_BE_CAREFUL_WHEN_SHARING_THEM" did="DREAM_CAM_POP_YOUR_PICTURES_AND_VIDEOS_WILL_NOW_CONTAIN_INFORMATION_ABOUT_WHERE_THEY_WERE_TAKEN_OR_RECORDED_SO_BE_CAREFUL_WHEN_SHARING_THEM">Your pictures and videos will now contain information about where they were taken or recorded, so be careful when sharing them.</string>
+    <string name="SS_TO_USE_LOCATION_TAGS_THE_FOLLOWING_SETTINGS_WILL_BE_CHANGED_C" did="IDS_CAM_POP_TO_USE_LOCATION_TAGS_THE_FOLLOWING_SETTINGS_WILL_BE_CHANGED_C">To use Location tags, the following settings will be changed:</string>
+    <string name="DREAM_THE_LOCATING_METHOD_WILL_BE_SET_TO_GPS_WI_FI_AND_MOBILE_NETWORKS" did="DREAM_CAM_POP_THE_LOCATING_METHOD_WILL_BE_SET_TO_GPS_WI_FI_AND_MOBILE_NETWORKS">The Locating method will be set to GPS, Wi-Fi, and mobile networks.</string>
+    <string name="TS_IMPROVE_LOCATION_ACCURACY_MBODY_CHN" did="IDS_FMD_MBODY_IMPROVE_LOCATION_ACCURACY_CHN">Improve location accuracy</string>
+    <string name="SS_TO_USE_LOCATION_TAGS_MAKE_SURE_LOCATING_METHOD_IS_SET_TO_GPS_WI_FI_AND_MOBILE_NETWORKS_OR_WI_FI_AND_MOBILE_NETWORKS" did="IDS_CAM_POP_TO_USE_LOCATION_TAGS_MAKE_SURE_LOCATING_METHOD_IS_SET_TO_GPS_WI_FI_AND_MOBILE_NETWORKS_OR_WI_FI_AND_MOBILE_NETWORKS">To use Location tags, make sure Locating method is set to GPS, Wi-Fi, and mobile networks, or Wi-Fi and mobile networks.</string>
+    <string name="DREAM_LOCATION_TURNED_OFF_NTO_USE_LOCATION_TAGS_TURN_ON_LOCATION_IN_THE_QUICK_SETTINGS_PANEL_TPOP" did="DREAM_CAM_TPOP_LOCATION_TURNED_OFF_NTO_USE_LOCATION_TAGS_TURN_ON_LOCATION_IN_THE_QUICK_SETTINGS_PANEL">Location turned off.\nTo use location tags, turn on Location in the quick settings panel.</string>
+    <!-- 2017. 1. 27 -->
+    <string name="SS_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_DEVICE_STORAGE_THE_DEFAULT_STORAGE_LOCATION_WILL_BE_CHANGED_TO_YOUR_SD_CARD" did="IDS_VR_POP_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_DEVICE_STORAGE_THE_DEFAULT_STORAGE_LOCATION_WILL_BE_CHANGED_TO_YOUR_SD_CARD">There is not enough space in your device storage. The default storage location will be changed to your SD card.</string>
+    <string name="SS_THERE_IS_NOT_ENOUGH_SPACE_ON_YOUR_SD_CARD_THE_DEFAULT_STORAGE_LOCATION_WILL_BE_CHANGED_TO_YOUR_DEVICE_STORAGE" did="IDS_VR_POP_THERE_IS_NOT_ENOUGH_SPACE_ON_YOUR_SD_CARD_THE_DEFAULT_STORAGE_LOCATION_WILL_BE_CHANGED_TO_YOUR_DEVICE_STORAGE">There is not enough space on your SD card. The default storage location will be changed to your device storage.</string>
+    <string name="SS_SD_CARD_REMOVED" did="IDS_MUSIC_POP_SD_CARD_REMOVED">SD card removed.</string>
+    <string name="DREAM_MY_PHONE" did="DREAM_NFC_POP_MY_PHONE">My phone</string>
+    <string name="DREAM_INTERNAL_STORAGE_SBODY" did="DREAM_CAM_SBODY_INTERNAL_STORAGE">Internal storage</string>
+    <string name="SS_SORT_BY_HEADER" did="IDS_GALLERY_HEADER_SORT_BY">Sort by</string>
+    <string name="DREAM_SAVING_VIDEO_ING" did="DREAM_VDOE_POP_SAVING_VIDEO_ING">Saving video\u2026</string>
+    <string name="DREAM_DELETE_VIDEO_Q" did="DREAM_GALLERY_POP_DELETE_VIDEO_Q">Delete video?</string>
+    <string name="SS_TYPE" did="IDS_COM_BODY_TYPE">Type</string>
+    <!-- 2017. 1. 29 -->
+    <string name="SS_USED" did="IDS_ST_POP_USED">Used</string>
+    <string name="SS_TOTAL" did="IDS_ST_BODY_TOTAL">Total</string>
+    <string name="MSS_YOUTUBE_ACCOUNT_MBODY_ABB" did="MIDS_GB_MBODY_YOUTUBE_ACCOUNT_ABB">YouTube account</string>
+    <string name="SS_FACEBOOK_ACCOUNT" did="IDS_ST_BODY_FACEBOOK_ACCOUNT">Facebook account</string>
+    <string name="MSS_SHARE_YOUR_LINK_WITH_THE_ONLY_PEOPLE_WHO_CAN_WATCH_YOUR_BROADCAST_SBODY" did="MIDS_LVB_SBODY_SHARE_YOUR_LINK_WITH_THE_ONLY_PEOPLE_WHO_CAN_WATCH_YOUR_BROADCAST">Share your link with the only people who can watch your broadcast.</string>
+    <string name="MTS_PRIVACY_MBODY" did="MIDS_LVB_MBODY_PRIVACY">Privacy</string>
+    <string name="MSS_CREATE_SHORTCUT_ON_HOME_SCREEN_OPT" did="MIDS_LVB_OPT_CREATE_SHORTCUT_ON_HOME_SCREEN">Create shortcut on home screen</string>
+    <string name="SS_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED_TBBODY" did="IDS_ACCS_TBBODY_MAXIMUM_NUMBER_OF_CHARACTERS_REACHED">Maximum number of characters reached.</string>
+    <string name="MTS_CHARACTER_NOT_SUPPORTED_TPOP" did="MIDS_LVB_TPOP_CHARACTER_NOT_SUPPORTED">Character not supported.</string>
+    <string name="MSS_WELCOME_TO_PS" did="MIDS_LVB_BODY_WELCOME_TO_PS">Welcome to %s</string>
+    <string name="SS_MAXIMUM_RECORDING_TIME_REACHED" did="IDS_CAM_POP_MAXIMUM_RECORDING_TIME_REACHED">Maximum recording time reached.</string>
+    <string name="MTS_MAXIMUM_FILE_SIZE_REACHED_VIDEO_WILL_BE_SAVED_AND_NEW_VIDEO_WILL_BE_STARTED_TPOP" did="MIDS_LVB_TPOP_MAXIMUM_FILE_SIZE_REACHED_VIDEO_WILL_BE_SAVED_AND_NEW_VIDEO_WILL_BE_STARTED">Maximum file size reached. Video will be saved and new video will be started.</string>
+    <string name="MTS_MAXIMUM_RECORDING_TIME_REACHED_VIDEO_WILL_BE_SAVED_AND_BROADCAST_WILL_CONTINUE_TPOP" did="MIDS_LVB_TPOP_MAXIMUM_RECORDING_TIME_REACHED_VIDEO_WILL_BE_SAVED_AND_BROADCAST_WILL_CONTINUE">Maximum recording time reached. Video will be saved and broadcast will continue.</string>
+    <string name="MTS_DISABLE_AUTO_SAVE_BUTTON" did="MIDS_LVB_BUTTON_DISABLE_AUTO_SAVE">Disable Auto save</string>
+    <string name="SS_INSERT_MEMORY_CARD_TO_USE_CAMERA" did="IDS_CAM_POP_INSERT_MEMORY_CARD_TO_USE_CAMERA">Insert memory card to use Camera.</string>
+    <string name="MSS_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_DEVICE_STORAGE_MSG3" did="MIDS_LVB_POP_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_DEVICE_STORAGE_MSG3">There is not enough space in your device storage. Tap Disable Auto save to continue to broadcast without saving your video.</string>
+    <string name="MSS_NOT_ENOUGH_MEMORY_HEADER_ABB" did="MIDS_LVB_HEADER_NOT_ENOUGH_MEMORY_ABB">Not enough memory</string>
+    <string name="MTS_CHANGE_CHANNEL_BUTTON_ABB2" did="MIDS_LVB_BUTTON_CHANGE_CHANNEL_ABB2">Change channel</string>
+    <string name="MSS_SIGN_IN_TO_YOUTUBE_HEADER_ABB" did="MIDS_LVB_HEADER_SIGN_IN_TO_YOUTUBE">Sign in to YouTube</string>
+    <string name="MSS_TO_USE_LIVE_BROADCAST_SIGN_IN_TO_YOUTUBE_TO_VERIFY_YOUR_ACCOUNT" did="MIDS_LVB_POP_TO_USE_LIVE_BROADCAST_SIGN_IN_TO_YOUTUBE_TO_VERIFY_YOUR_ACCOUNT">To use Live Broadcast, sign in to YouTube to verify your account.</string>
+    <string name="MTS_SIGN_IN_BUTTON" did="MIDS_LVB_BUTTON_SIGN_IN">Sign in</string>
+    <string name="MTS_YOUTUBE_CHANNEL_MBODY" did="MIDS_LVB_MBODY_YOUTUBE_CHANNEL">YouTube channel</string>
+    <string name="MSS_SHARE_VIA_HEADER" did="MIDS_LVB_HEADER_SHARE_VIA">Share via</string>
+    <string name="MTS_SIGN_OUT_MBODY" did="MIDS_LVB_MBODY_SIGN_OUT">Sign out</string>
+    <string name="MSS_BROADCAST_PAUSED_SBODY_ABB" did="MIDS_LVB_SBODY_BROADCAST_PAUSED_ABB">Broadcast paused</string>
+    <string name="MSS_YOUR_BROADCAST_HAS_BEEN_INTERRUPTED_TAP_RESUME_TO_CONTINUE_YOUR_BROADCAST" did="MIDS_LVB_POP_YOUR_BROADCAST_HAS_BEEN_INTERRUPTED_TAP_RESUME_TO_CONTINUE_YOUR_BROADCAST">Your broadcast has been interrupted. Tap Resume to continue your broadcast.</string>
+    <string name="MTS_RESUME_BUTTON" did="MIDS_LVB_BUTTON_RESUME">Resume</string>
+    <string name="MTS_LATER_BUTTON_ABB" did="MIDS_LVB_BUTTON_LATER_ABB">Later</string>
+    <string name="MTS_RETRY_BUTTON" did="MIDS_LVB_BUTTON_RETRY">Retry</string>
+    <string name="MSS_NETWORK_ERROR_HEADER_ABB" did="MIDS_LVB_HEADER_NETWORK_ERROR_ABB">Network error</string>
+    <string name="MSS_A_NETWORK_ERROR_HAS_OCCURRED_CHECK_YOUR_NETWORK_CONNECTION" did="MIDS_LVB_POP_A_NETWORK_ERROR_HAS_OCCURRED_CHECK_YOUR_NETWORK_CONNECTION">A network error has occurred. Check your network connection.</string>
+    <string name="MSS_CHECK_NETWORK_CONNECTION_HEADER_ABB" did="MIDS_LVB_HEADER_CHECK_NETWORK_CONNECTION_ABB">Check network connection</string>
+    <string name="MSS_DEVICE_TIME_ERROR_HEADER_ABB" did="MIDS_LVB_HEADER_DEVICE_TIME_ERROR_ABB">Device time error</string>
+    <string name="MSS_THE_DEVICE_TIME_AND_SERVER_TIME_DO_NOT_MATCH_GO_TO_SETTINGS_DATE_AND_TIME_THEN_ENABLE_AUTOMATIC_AND_TRY_AGAIN" did="MIDS_LVB_POP_THE_DEVICE_TIME_AND_SERVER_TIME_DO_NOT_MATCH_GO_TO_SETTINGS_DATE_AND_TIME_THEN_ENABLE_AUTOMATIC_AND_TRY_AGAIN">The device time and server time do not match. Go to Settings &gt; Date and time, then enable Automatic and try again.</string>
+    <string name="MSS_YOUR_NETWORK_CONNECTION_IS_WEAK_CHECK_YOUR_NETWORK_CONNECTION_AND_TRY_AGAIN" did="MIDS_LVB_POP_YOUR_NETWORK_CONNECTION_IS_WEAK_CHECK_YOUR_NETWORK_CONNECTION_AND_TRY_AGAIN">Your network connection is weak. Check your network connection and try again.</string>
+    <string name="MSS_LIKES" did="MIDS_LVB_BODY_LIKES">Likes</string>
+    <string name="MSS_DISLIKES" did="MIDS_LVB_BODY_DISLIKES">Dislikes</string>
+    <string name="MSS_VIEWERS" did="MIDS_LVB_BODY_VIEWERS">Viewers</string>
+    <string name="MSS_FACEBOOK_OPT" did="MIDS_LVB_OPT_FACEBOOK">Facebook</string>
+    <string name="SS_UNABLE_TO_CONNECT_TO_MOBILE_NETWORKS_WHILE_FLIGHT_MODE_IS_ENABLED_CONNECT_TO_A_WI_FI_NETWORK_INSTEAD_OR_DISABLE_FLIGHT_MODE_AND_TRY_AGAIN" did="IDS_IDLE_POP_UNABLE_TO_CONNECT_TO_MOBILE_NETWORKS_WHILE_FLIGHT_MODE_IS_ENABLED_CONNECT_TO_A_WI_FI_NETWORK_INSTEAD_OR_DISABLE_FLIGHT_MODE_AND_TRY_AGAIN">Unable to connect to mobile networks while Flight mode is enabled. Connect to a Wi-Fi network instead, or disable Flight mode and try again.</string>
+    <string name="MTS_BROADCAST_STOPPED_TPOP" did="MIDS_LVB_TPOP_BROADCAST_STOPPED">Broadcast stopped.</string>
+    <string name="MTS_BROADCAST_STOPPED_VIDEO_SAVED_TPOP" did="MIDS_LVB_TPOP_BROADCAST_STOPPED_VIDEO_SAVED">Broadcast stopped. Video saved.</string>
+    <string name="TS_SELECT_RECIPIENT_FROM_LIST_TPOP" did="IDS_MSG_TPOP_SELECT_RECIPIENT_FROM_LIST">Select recipient from list.</string>
+    <string name="MSS_DURATION" did="MIDS_LVB_BODY_DURATION">Duration</string>
+    <string name="MSS_CHAT_ROOM" did="MIDS_CHATON_HEADER_CHAT_ROOM">Chat room</string>
+    <string name="MTS_CLOSE_CHAT_ROOM_BUTTON" did="MIDS_CHATON_BUTTON_CLOSE_CHAT_ROOM">Close chat room</string>
+    <string name="MTS_DO_NOT_AGREE_BUTTON_ABB" did="MIDS_LVB_BUTTON_DO_NOT_AGREE_ABB">Do not agree</string>
+    <string name="MTS_CANCEL_BUTTON_ABB4" did="MIDS_LVB_BUTTON_CANCEL_ABB4">Cancel</string>
+    <string name="MTS_AGREE_BUTTON" did="MIDS_LVB_BUTTON_AGREE">Agree</string>
+    <string name="MSS_YOUTUBE" did="MIDS_YSM_BODY_YOUTUBE">YouTube</string>
+    <string name="MTS_OK_BUTTON" did="MIDS_LVB_BUTTON_OK">OK</string>
+    <string name="MTS_STOP_BUTTON" did="MIDS_LVB_BUTTON_STOP">Stop</string>
+    <string name="SS_PDP_M_PERCENT" did="IDS_ST_BODY_PDP_M_PERCENT">%d%%</string>
+    <!-- 2017. 2. 9 -->
+    <string name="SS_MEMORY_CARD" did="IDS_CAM_OPT_MEMORY_CARD">Memory card</string>
+    <string name="SS_NO_LOCATION_ABB" did="IDS_COM_BODY_NO_LOCATION_ABB">No location</string>
+    <string name="MTS_DISAGREE_BUTTON" did="MIDS_LVB_BUTTON_DISAGREE">Disagree</string>
+    <string name="DREAM_SAVE_VIDEO_Q_PHEADER" did="DREAM_VDOE_PHEADER_SAVE_VIDEO_Q">Save video?</string>
+    <!-- 2017. 2. 10 -->
+    <string name="DREAM_NOT_ENOUGH_SPACE_PHEADER" did="DREAM_G360M_PHEADER_NOT_ENOUGH_SPACE">Not enough space</string>
+    <string name="DREAM_CHECK_BOX_TBOPT" did="DREAM_G360M_TBOPT_CHECK_BOX">Check box</string>
+    <string name="DREAM_TURN_ON_BLUETOOTH_Q_PHEADER" did="DREAM_G360M_PHEADER_TURN_ON_BLUETOOTH_Q">Turn on Bluetooth?</string>
+    <string name="DREAM_TURN_ON_LOCATION_PHEADER" did="DREAM_G360M_PHEADER_TURN_ON_LOCATION">Turn on Location</string>
+    <string name="DREAM_OPEN_SOURCE_LICENSES_OPT" did="DREAM_G360M_OPT_OPEN_SOURCE_LICENSES">Open source licenses</string>
+    <string name="DREAM_UPDATE_GEAR_360_APP_Q_PHEADER" did="DREAM_G360M_PHEADER_UPDATE_GEAR_360_APP_Q">Update Gear 360 App?</string>
+    <string name="DREAM_RETRY_BUTTON22" did="DREAM_G360M_BUTTON_RETRY_22">Retry</string>
+    <string name="DREAM_STOP_BUTTON22" did="DREAM_G360M_BUTTON_STOP_22">Stop</string>
+    <string name="DREAM_TURN_ON_BUTTON22" did="DREAM_G360M_BUTTON_TURN_ON_22">Turn on</string>
+    <string name="DREAM_INSERT_YOUR_PHONE_INTO_YOUR_GEAR_VR" did="DREAM_G360M_BODY_INSERT_YOUR_PHONE_INTO_YOUR_GEAR_VR">Insert your phone into your Gear VR.</string>
+    <string name="DREAM_TAP_HERE_TO_DOWNLOAD_THE_LATEST_UPDATE_SBODY" did="DREAM_G360M_SBODY_TAP_HERE_TO_DOWNLOAD_THE_LATEST_UPDATE">Tap here to download the latest update.</string>
+    <string name="DREAM_UPDATE_READY_TO_INSTALL_SBODY" did="DREAM_G360M_SBODY_UPDATE_READY_TO_INSTALL">Update ready to install</string>
+    <string name="DREAM_RESET_YOUR_GEAR_360S_CONNECTION_SETTINGS_TO_THEIR_DEFAULTS_SBODY" did="DREAM_G360M_SBODY_RESET_YOUR_GEAR_360S_CONNECTION_SETTINGS_TO_THEIR_DEFAULTS">Reset your Gear 360\'s connection settings to their defaults.</string>
+    <string name="DREAM_RESET_YOUR_GEAR_360S_DEVICE_SETTINGS_TO_THEIR_DEFAULTS_SBODY" did="DREAM_G360M_SBODY_RESET_YOUR_GEAR_360S_DEVICE_SETTINGS_TO_THEIR_DEFAULTS">Reset your Gear 360\'s device settings to their defaults.</string>
+    <string name="DREAM_RESET_YOUR_GEAR_360_TO_ITS_DEFAULT_SETTINGS_SBODY" did="DREAM_G360M_SBODY_RESET_YOUR_GEAR_360_TO_ITS_DEFAULT_SETTINGS">Reset your Gear 360 to its default settings.</string>
+    <string name="DREAM_RESET_THE_SETTINGS_ON_YOUR_GEAR_360_SBODY" did="DREAM_G360M_SBODY_RESET_THE_SETTINGS_ON_YOUR_GEAR_360">Reset the settings on your Gear 360.</string>
+    <string name="DREAM_USE_THE_LED_INDICATOR_TO_SHOW_THE_STATUS_OF_THE_GEAR_360_SBODY" did="DREAM_G360M_SBODY_USE_THE_LED_INDICATOR_TO_SHOW_THE_STATUS_OF_THE_GEAR_360">Use the LED indicator to show the status of the Gear 360.</string>
+    <string name="DREAM_UNSTABLE_NETWORK_CONNECTION_PHEADER" did="DREAM_G360M_PHEADER_UNSTABLE_NETWORK_CONNECTION">Unstable network connection</string>
+    <string name="DREAM_INSTALL_GEAR_360_UPDATE_Q_PHEADER" did="DREAM_G360M_PHEADER_INSTALL_GEAR_360_UPDATE_Q">Install Gear 360 update?</string>
+    <string name="DREAM_TAP_HERE_TO_INSTALL_THE_UPDATE_SBODY" did="DREAM_G360M_SBODY_TAP_HERE_TO_INSTALL_THE_UPDATE">Tap here to install the update.</string>
+    <string name="DREAM_UPDATE_USING_WI_FI_Q_PHEADER" did="DREAM_G360M_PHEADER_UPDATE_USING_WI_FI_Q">Update using Wi-Fi?</string>
+    <string name="DREAM_STOP_DOWNLOADING_UPDATE_Q_PHEADER" did="DREAM_G360M_PHEADER_STOP_DOWNLOADING_UPDATE_Q">Stop downloading update?</string>
+    <string name="DREAM_STITCHING_PICTURES_TOGETHER_ING_PHEADER" did="DREAM_G360M_PHEADER_STITCHING_PICTURES_TOGETHER_ING">Stitching pictures together\u2026</string>
+    <string name="DREAM_SAVING_PICTURE_ING_PHEADER" did="DREAM_G360M_PHEADER_SAVING_PICTURE_ING">Saving picture\u2026</string>
+    <string name="DREAM_NO_LOCATION_INFORMATION_NPBODY" did="DREAM_G360M_NPBODY_NO_LOCATION_INFORMATION">No location information</string>
+    <string name="DREAM_SAVING_VIDEO_ING_PHEADER" did="DREAM_G360M_PHEADER_SAVING_VIDEO_ING">Saving video\u2026</string>
+    <string name="DREAM_SD_CARD_SBODY" did="DREAM_G360M_SBODY_SD_CARD">SD card</string>
+    <string name="DREAM_STITCHING_VIDEOS_TOGETHER_ING_PHEADER" did="DREAM_G360M_PHEADER_STITCHING_VIDEOS_TOGETHER_ING">Stitching videos together\u2026</string>
+    <string name="DREAM_INVITE_VIEWERS_Q_PHEADER" did="DREAM_G360M_PHEADER_INVITE_VIEWERS_Q">Invite viewers?</string>
+    <string name="DREAM_SIGN_IN_TO_YOUTUBE_Q_PHEADER" did="DREAM_G360M_PHEADER_SIGN_IN_TO_YOUTUBE_Q">Sign in to YouTube?</string>
+    <string name="DREAM_SAVE_BATTERY_LIFE_BY_DIMMING_THE_SCREEN_AUTOMATICALLY_IF_YOU_BROADCAST_FOR_MORE_THAN_5_MINUTES_WITHOUT_TOUCHING_THE_SCREEN_SBODY" did="DREAM_G360M_SBODY_SAVE_BATTERY_LIFE_BY_DIMMING_THE_SCREEN_AUTOMATICALLY_IF_YOU_BROADCAST_FOR_MORE_THAN_5_MINUTES_WITHOUT_TOUCHING_THE_SCREEN">Save battery life by dimming the screen automatically if you broadcast for more than 5 minutes without touching the screen.</string>
+    <string name="DREAM_ONLY_SHARE_YOUR_BROADCAST_WITH_PEOPLE_WHO_RECEIVE_A_LINK_TO_IT_SBODY" did="DREAM_G360M_SBODY_ONLY_SHARE_YOUR_BROADCAST_WITH_PEOPLE_WHO_RECEIVE_A_LINK_TO_IT">Only share your broadcast with people who receive a link to it.</string>
+    <string name="DREAM_SHARE_YOUR_BROADCAST_WITH_EVERYONE_SBODY" did="DREAM_G360M_SBODY_SHARE_YOUR_BROADCAST_WITH_EVERYONE">Share your broadcast with everyone.</string>
+    <string name="DREAM_TURN_OFF_AUTO_SAVE_Q_PHEADER" did="DREAM_G360M_PHEADER_TURN_OFF_AUTO_SAVE_Q">Turn off Auto save?</string>
+    <string name="DREAM_TAP_HERE_TO_RESUME_YOUR_BROADCAST_SBODY" did="DREAM_G360M_SBODY_TAP_HERE_TO_RESUME_YOUR_BROADCAST">Tap here to resume your broadcast.</string>
+    <string name="DREAM_RESUME_BROADCAST_Q_PHEADER" did="DREAM_G360M_PHEADER_RESUME_BROADCAST_Q">Resume broadcast?</string>
+    <string name="DREAM_NO_PICTURES_OR_VIDEOS_NPBODY" did="DREAM_G360M_NPBODY_NO_PICTURES_OR_VIDEOS">No pictures or videos</string>
+    <string name="DREAM_SHARE_LARGE_FILES_EASILY_WITH_YOUR_CONTACTS_SBODY" did="DREAM_G360M_SBODY_SHARE_LARGE_FILES_EASILY_WITH_YOUR_CONTACTS">Share large files easily with your contacts.</string>
+    <string name="DREAM_LINK_REQUIRED_TO_ACCESS_NPBODY" did="DREAM_G360M_NPBODY_LINK_REQUIRED_TO_ACCESS">Link required to access</string>
+    <string name="DREAM_VIEW_YOUR_PICTURES_AND_VIDEOS_SBODY" did="DREAM_G360M_SBODY_VIEW_YOUR_PICTURES_AND_VIDEOS">View your pictures and videos.</string>
+    <string name="DREAM_TAP_HERE_TO_UPDATE_TO_THE_LATEST_VERSION_SBODY" did="DREAM_G360M_SBODY_TAP_HERE_TO_UPDATE_TO_THE_LATEST_VERSION">Tap here to update to the latest version.</string>
+    <string name="DREAM_TAP_HERE_TO_MANAGE_YOUR_GEAR_360_SBODY" did="DREAM_G360M_SBODY_TAP_HERE_TO_MANAGE_YOUR_GEAR_360">Tap here to manage your Gear 360.</string>
+    <string name="DREAM_SAVING_PICTURES_ING_PHEADER" did="DREAM_G360M_PHEADER_SAVING_PICTURES_ING">Saving pictures\u2026</string>
+    <string name="DREAM_PATH_C_PS" did="DREAM_G360M_BODY_PATH_C_PS">Path: %s</string>
+    <string name="DREAM_LIVE_BROADCAST_HEADER" did="DREAM_G360M_HEADER_LIVE_BROADCAST">Live broadcast</string>
+    <string name="DREAM_PRESS_AND_HOLD_THE_MENU_KEY" did="DREAM_G360M_BODY_PRESS_AND_HOLD_THE_MENU_KEY">Press and hold the Menu key.</string>
+    <string name="DREAM_ORIENTATION_C_PS" did="DREAM_G360M_BODY_ORIENTATION_C_PS">Orientation: %s</string>
+    <string name="DREAM_SCANNING_FOR_GEAR_360_ING" did="DREAM_G360M_BODY_SCANNING_FOR_GEAR_360_ING">Scanning for Gear 360\u2026</string>
+    <string name="DREAM_RESOLUTION_C_PS" did="DREAM_G360M_BODY_RESOLUTION_C_PS">Resolution: %s</string>
+    <string name="DREAM_PINCH_THE_SCREEN_TO_ZOOM_OUT_SPREAD_YOUR_FINGERS_APART_TO_ZOOM_IN" did="DREAM_G360M_BODY_PINCH_THE_SCREEN_TO_ZOOM_OUT_SPREAD_YOUR_FINGERS_APART_TO_ZOOM_IN">Pinch the screen to zoom out. Spread your fingers apart to zoom in.</string>
+    <string name="DREAM_ON_YOUR_PHONE_SELECT_THE_GEAR_360_YOU_WANT_TO_MSG" did="DREAM_G360M_BODY_ON_YOUR_PHONE_SELECT_THE_GEAR_360_YOU_WANT_TO_MSG">"On your phone, select the Gear 360 you want to connect to. Then confirm that the number shown on the Gear 360 matches the number shown in the Gear 360 App."</string>
+    <string name="DREAM_ON_YOUR_TABLET_SELECT_THE_GEAR_360_YOU_WANT_TO_MSG" did="DREAM_G360M_BODY_ON_YOUR_TABLET_SELECT_THE_GEAR_360_YOU_WANT_TO_MSG">"On your tablet, select the Gear 360 you want to connect to. Then confirm that the number shown on the Gear 360 matches the number shown in the Gear 360 App."</string>
+    <string name="DREAM_PAIRED_HEADER" did="DREAM_G360M_HEADER_PAIRED">Paired</string>
+    <string name="DREAM_IMMERSE_YOURSELF_WITH_THE_GEAR_VR_HEADER" did="DREAM_G360M_HEADER_IMMERSE_YOURSELF_WITH_THE_GEAR_VR">Immerse yourself with the Gear VR</string>
+    <string name="DREAM_PRIVATE" did="DREAM_G360M_BODY_PRIVATE">Private</string>
+    <string name="DREAM_CONTROL_YOUR_GEAR_360_HEADER" did="DREAM_G360M_HEADER_CONTROL_YOUR_GEAR_360">Control your Gear 360</string>
+    <string name="DREAM_RESOLUTION_C_P1SS_HP2SS_FPS" did="DREAM_G360M_BODY_RESOLUTION_C_P1SS_HP2SS_FPS">Resolution: %1$s (%2$s fps)</string>
+    <string name="DREAM_MOTION_VIEW_BUTTON22" did="DREAM_G360M_BUTTON_MOTION_VIEW_22">Motion view</string>
+    <string name="DREAM_RECORDING_VIDEOS_WITH_THE_SCREEN_TURNED_OFF_SAVES_BATTERY_POWER_JUST_TAP_THE_SCREEN_TO_SEE_THE_PREVIEW_AGAIN" did="DREAM_G360M_BODY_RECORDING_VIDEOS_WITH_THE_SCREEN_TURNED_OFF_SAVES_BATTERY_POWER_JUST_TAP_THE_SCREEN_TO_SEE_THE_PREVIEW_AGAIN">Recording videos with the screen turned off saves battery power. Just tap the screen to see the preview again.</string>
+    <string name="DREAM_CAPTURE_AND_VIEW_360_PICTURES_AND_VIDEOS_DIRECTLY_FROM_YOUR_PHONE_USE_THE_LIVE_PREVIEW_TO_MAKE_SURE_YOU_ALWAYS_GET_THE_BEST_ANGLE" did="DREAM_G360M_BODY_CAPTURE_AND_VIEW_360_PICTURES_AND_VIDEOS_DIRECTLY_FROM_YOUR_PHONE_USE_THE_LIVE_PREVIEW_TO_MAKE_SURE_YOU_ALWAYS_GET_THE_BEST_ANGLE">Capture and view 360° pictures and videos directly from your phone. Use the live preview to make sure you always get the best angle.</string>
+    <string name="DREAM_CAPTURE_AND_VIEW_360_PICTURES_AND_VIDEOS_DIRECTLY_FROM_YOUR_TABLET_USE_THE_LIVE_PREVIEW_TO_MAKE_SURE_YOU_ALWAYS_GET_THE_BEST_ANGLE" did="DREAM_G360M_BODY_CAPTURE_AND_VIEW_360_PICTURES_AND_VIDEOS_DIRECTLY_FROM_YOUR_TABLET_USE_THE_LIVE_PREVIEW_TO_MAKE_SURE_YOU_ALWAYS_GET_THE_BEST_ANGLE">Capture and view 360° pictures and videos directly from your tablet. Use the live preview to make sure you always get the best angle.</string>
+    <string name="DREAM_LIVE_BROADCAST_YOUR_360_VIDEOS_TO_THE_WORLD" did="DREAM_G360M_BODY_LIVE_BROADCAST_YOUR_360_VIDEOS_TO_THE_WORLD">Live broadcast your 360° videos to the world.</string>
+    <string name="DREAM_PUT_YOURSELF_OUT_THERE_BY_LIVE_BROADCASTING_YOUR_EXPERIENCES_TO_YOUR_FRIENDS" did="DREAM_G360M_BODY_PUT_YOURSELF_OUT_THERE_BY_LIVE_BROADCASTING_YOUR_EXPERIENCES_TO_YOUR_FRIENDS">Put yourself out there by live broadcasting your experiences to your friends.</string>
+    <string name="DREAM_PRESS_THE_OK_KEY_TO_CONFIRM_THAT_YOU_WANT_TO_CONNECT_YOUR_GEAR_360_TO_YOUR_PHONE" did="DREAM_G360M_BODY_PRESS_THE_OK_KEY_TO_CONFIRM_THAT_YOU_WANT_TO_CONNECT_YOUR_GEAR_360_TO_YOUR_PHONE">Press the OK key to confirm that you want to connect your Gear 360 to your phone.</string>
+    <string name="DREAM_PRESS_THE_OK_KEY_TO_CONFIRM_THAT_YOU_WANT_TO_CONNECT_YOUR_GEAR_360_TO_YOUR_TABLET" did="DREAM_G360M_BODY_PRESS_THE_OK_KEY_TO_CONFIRM_THAT_YOU_WANT_TO_CONNECT_YOUR_GEAR_360_TO_YOUR_TABLET">Press the OK key to confirm that you want to connect your Gear 360 to your tablet.</string>
+    <string name="DREAM_TURN_ON_YOUR_GEAR_360" did="DREAM_G360M_BODY_TURN_ON_YOUR_GEAR_360">Turn on your Gear 360.</string>
+    <string name="DREAM_THE_GEAR_360_APP_LETS_YOU_GET_THE_MOST_OUT_OF_YOUR_GEAR_360" did="DREAM_G360M_BODY_THE_GEAR_360_APP_LETS_YOU_GET_THE_MOST_OUT_OF_YOUR_GEAR_360">The Gear 360 App lets you get the most out of your Gear 360.</string>
+    <string name="DREAM_THE_GEAR_360_APP_HELPS_YOU_GET_THE_MOST_OUT_OF_YOUR_GEAR_360" did="DREAM_G360M_BODY_THE_GEAR_360_APP_HELPS_YOU_GET_THE_MOST_OUT_OF_YOUR_GEAR_360">The Gear 360 App helps you get the most out of your Gear 360.</string>
+    <string name="DREAM_SELECT_WHICH_SOCIAL_NETWORKS_YOU_WANT_TO_SHARE_YOUR_360_LIVE_BROADCASTS_ON" did="DREAM_G360M_BODY_SELECT_WHICH_SOCIAL_NETWORKS_YOU_WANT_TO_SHARE_YOUR_360_LIVE_BROADCASTS_ON">Select which social networks you want to share your 360 live broadcasts on.</string>
+    <string name="DREAM_SHARE_A_LINK_TO_YOUR_LIVE_BROADCAST_WITH_YOUR_FRIENDS_AND_FAMILY_RECIPIENTS_WILL_RECEIVE_A_LINK_TO_THE_BROADCAST_BY_TEXT_MESSAGE" did="DREAM_G360M_BODY_SHARE_A_LINK_TO_YOUR_LIVE_BROADCAST_WITH_YOUR_FRIENDS_AND_FAMILY_RECIPIENTS_WILL_RECEIVE_A_LINK_TO_THE_BROADCAST_BY_TEXT_MESSAGE">Share a link to your Live broadcast with your friends and family. Recipients will receive a link to the broadcast by text message.</string>
+    <string name="DREAM_THIS_SERVICE_PROVIDES_YOU_WITH_A_PERSONAL_360_LIVE_BROADCASTING_SERVICE_CONNECTED_TO_YOUTUBE_LIVE_MSG" did="DREAM_G360M_BODY_THIS_SERVICE_PROVIDES_YOU_WITH_A_PERSONAL_360_LIVE_BROADCASTING_SERVICE_CONNECTED_TO_YOUTUBE_LIVE_MSG">"This service provides you with a personal 360 live broadcasting service connected to YouTube Live. By using this service, you certify that you own all rights to the content or that you are authorized by the owner to make the content public."</string>
+    <string name="DREAM_VIDEO_LOOPING" did="DREAM_G360M_BODY_VIDEO_LOOPING">Video looping</string>
+    <string name="DREAM_WHITE_BALANCE_C_PS" did="DREAM_G360M_BODY_WHITE_BALANCE_C_PS">White balance: %s</string>
+    <string name="DREAM_SIZE_C_PS" did="DREAM_G360M_BODY_SIZE_C_PS">Size: %s</string>
+    <string name="DREAM_TITLE_C_PS" did="DREAM_G360M_BODY_TITLE_C_PS">Title: %s</string>
+    <string name="DREAM_TAKE_PICTURES_OR_RECORD_VIDEOS_WITH_YOUR_GEAR_360_TO_VIEW_THEM_HERE" did="DREAM_G360M_BODY_TAKE_PICTURES_OR_RECORD_VIDEOS_WITH_YOUR_GEAR_360_TO_VIEW_THEM_HERE">Take pictures or record videos with your Gear 360 to view them here.</string>
+    <string name="DREAM_SWIPE_THE_SCREEN_TO_MOVE_AROUND_YOUR_360_PICTURES_AND_VIDEOS" did="DREAM_G360M_BODY_SWIPE_THE_SCREEN_TO_MOVE_AROUND_YOUR_360_PICTURES_AND_VIDEOS">Swipe the screen to move around your 360° pictures and videos.</string>
+    <string name="DREAM_TURN_ON_YOUR_GEAR_360_THEN_PRESS_AND_HOLD_THE_MENU_KEY_TO_MAKE_IT_DETECTABLE" did="DREAM_G360M_BODY_TURN_ON_YOUR_GEAR_360_THEN_PRESS_AND_HOLD_THE_MENU_KEY_TO_MAKE_IT_DETECTABLE">"Turn on your Gear 360, then press and hold the Menu key to make it detectable."</string>
+    <string name="DREAM_TO_USE_THE_GEAR_360_APP_YOU_MUST_READ_AND_AGREE_TO_THE_FOLLOWING_TERMS_OF_SERVICE" did="DREAM_G360M_BODY_TO_USE_THE_GEAR_360_APP_YOU_MUST_READ_AND_AGREE_TO_THE_FOLLOWING_TERMS_OF_SERVICE">"To use the Gear 360 App, you must read and agree to the following terms of service."</string>
+    <string name="DREAM_RECIPIENT_ALREADY_ADDED_TPOP" did="DREAM_G360M_TPOP_RECIPIENT_ALREADY_ADDED">Recipient already added.</string>
+    <string name="DREAM_TRY_AGAIN_LATER" did="DREAM_G360M_POP_TRY_AGAIN_LATER">Try again later.</string>
+    <string name="DREAM_MOVING_ITEMS_TO_PS_ING" did="DREAM_G360M_POP_MOVING_ITEMS_TO_PS_ING">Moving items to %s\u2026</string>
+    <string name="DREAM_YOU_CANT_USE_YOUR_GEAR_360_WHILE_THE_UPDATE_IS_BEING_INSTALLED_YOUR_GEAR_360_SETTINGS_MAY_REVERT_TO_THEIR_DEFAULTS_INSTALLING_THIS_UPDATE_SHOULDNT_AFFECT_YOUR_DATA_MSG" did="DREAM_G360M_POP_YOU_CANT_USE_YOUR_GEAR_360_WHILE_THE_UPDATE_IS_BEING_INSTALLED_YOUR_GEAR_360_SETTINGS_MAY_REVERT_TO_THEIR_DEFAULTS_INSTALLING_THIS_UPDATE_SHOULDNT_AFFECT_YOUR_DATA_MSG">"You can\'t use your Gear 360 while the update is being installed. Your Gear 360 settings may revert to their defaults. Installing this update shouldn\'t affect your data, but we recommend that you back up important data before installing this update to avoid unexpected data loss."</string>
+    <string name="DREAM_UPDATING_GEAR_360_ING_TMBODY" did="DREAM_G360M_TMBODY_UPDATING_GEAR_360_ING">Updating Gear 360\u2026</string>
+    <string name="DREAM_UPDATE_COPIED_TO_GEAR_360_TMBODY" did="DREAM_G360M_TMBODY_UPDATE_COPIED_TO_GEAR_360">Update copied to Gear 360</string>
+    <string name="DREAM_PD_PICTURES_SAVED_TPOP" did="DREAM_G360M_TPOP_PD_PICTURES_SAVED">%d pictures saved.</string>
+    <string name="DREAM_YOU_CAN_INVITE_VIEWERS_TO_YOUR_BROADCAST_BY_SENDING_THEM_A_LINK" did="DREAM_G360M_POP_YOU_CAN_INVITE_VIEWERS_TO_YOUR_BROADCAST_BY_SENDING_THEM_A_LINK">You can invite viewers to your broadcast by sending them a link.</string>
+    <string name="DREAM_YOUR_BROADCAST_IS_CURRENTLY_PAUSED" did="DREAM_G360M_POP_YOUR_BROADCAST_IS_CURRENTLY_PAUSED">Your broadcast is currently paused.</string>
+    <string name="DREAM_UPDATING_GEAR_360_APP_ING" did="DREAM_G360M_POP_UPDATING_GEAR_360_APP_ING">Updating Gear 360 App\u2026</string>
+    <string name="DREAM_YOUR_GEAR_360_WILL_BE_DISCONNECTED_FROM_YOUR_PHONE" did="DREAM_G360M_POP_YOUR_GEAR_360_WILL_BE_DISCONNECTED_FROM_YOUR_PHONE">Your Gear 360 will be disconnected from your phone.</string>
+    <string name="DREAM_PD_PICTURES_MOVED_TPOP" did="DREAM_G360M_TPOP_PD_PICTURES_MOVED">%d pictures moved.</string>
+    <string name="DREAM_PD_PICTURES_COPIED_TPOP" did="DREAM_G360M_TPOP_PD_PICTURES_COPIED">%d pictures copied.</string>
+    <string name="DREAM_PD_VIDEOS_MOVED_TPOP" did="DREAM_G360M_TPOP_PD_VIDEOS_MOVED">%d videos moved.</string>
+    <string name="DREAM_PD_VIDEOS_COPIED_TPOP" did="DREAM_G360M_TPOP_PD_VIDEOS_COPIED">%d videos copied.</string>
+    <string name="DREAM_VIDEO_MOVED_TPOP" did="DREAM_G360M_TPOP_VIDEO_MOVED">Video moved.</string>
+    <string name="DREAM_VIDEO_COPIED_TPOP" did="DREAM_G360M_TPOP_VIDEO_COPIED">Video copied.</string>
+    <string name="DREAM_THE_UPDATE_WASNT_COPIED_TO_YOUR_GEAR_360" did="DREAM_G360M_POP_THE_UPDATE_WASNT_COPIED_TO_YOUR_GEAR_360">The update wasn\'t copied to your Gear 360.</string>
+    <string name="DREAM_PICTURE_COPIED_TPOP" did="DREAM_G360M_TPOP_PICTURE_COPIED">Picture copied.</string>
+    <string name="DREAM_TO_DOWNLOAD_UPDATES_WHILE_ROAMING_YOUR_PHONE_NEEDS_TO_BE_CONNECTED_TO_A_WI_FI_NETWORK" did="DREAM_G360M_POP_TO_DOWNLOAD_UPDATES_WHILE_ROAMING_YOUR_PHONE_NEEDS_TO_BE_CONNECTED_TO_A_WI_FI_NETWORK">"To download updates while roaming, your phone needs to be connected to a Wi-Fi network."</string>
+    <string name="DREAM_YOUR_PHONE_DISCONNECTED_FROM_THE_NETWORK_BEFORE_THE_UPDATE_WAS_DOWNLOADED_PHONE_MSG" did="DREAM_G360M_POP_YOUR_PHONE_DISCONNECTED_FROM_THE_NETWORK_BEFORE_THE_UPDATE_WAS_DOWNLOADED_PHONE_MSG">Your phone disconnected from the network before the update was downloaded. The rest of the update will be downloaded the next time your phone connects to a network.</string>
+    <string name="DREAM_YOUR_TABLET_DISCONNECTED_FROM_THE_NETWORK_BEFORE_THE_UPDATE_WAS_DOWNLOADED_TABLET_MSG" did="DREAM_G360M_POP_YOUR_TABLET_DISCONNECTED_FROM_THE_NETWORK_BEFORE_THE_UPDATE_WAS_DOWNLOADED_TABLET_MSG">Your tablet disconnected from the network before the update was downloaded. The rest of the update will be downloaded the next time your tablet connects to a network.</string>
+    <string name="DREAM_THERE_ISNT_ENOUGH_SPACE_ON_YOUR_PHONE_TO_SAVE_THIS_UPDATE_HPS_MB_DELETE_SOME_ITEMS_AND_TRY_AGAIN" did="DREAM_G360M_POP_THERE_ISNT_ENOUGH_SPACE_ON_YOUR_PHONE_TO_SAVE_THIS_UPDATE_HPS_MB_DELETE_SOME_ITEMS_AND_TRY_AGAIN">There isn\'t enough space on your phone to save this update (%s MB). Delete some items and try again.</string>
+    <string name="DREAM_THERE_ISNT_ENOUGH_SPACE_ON_YOUR_TABLET_TO_SAVE_THIS_UPDATE_HPS_MB_DELETE_SOME_ITEMS_AND_TRY_AGAIN" did="DREAM_G360M_POP_THERE_ISNT_ENOUGH_SPACE_ON_YOUR_TABLET_TO_SAVE_THIS_UPDATE_HPS_MB_DELETE_SOME_ITEMS_AND_TRY_AGAIN">There isn\'t enough space on your tablet to save this update (%s MB). Delete some items and try again.</string>
+    <string name="DREAM_THERE_ISNT_ENOUGH_SPACE_ON_YOUR_GEAR_360_TO_SAVE_THIS_UPDATE_HPS_MB_DELETE_SOME_ITEMS_AND_TRY_AGAIN" did="DREAM_G360M_POP_THERE_ISNT_ENOUGH_SPACE_ON_YOUR_GEAR_360_TO_SAVE_THIS_UPDATE_HPS_MB_DELETE_SOME_ITEMS_AND_TRY_AGAIN">There isn\'t enough space on your Gear 360 to save this update (%s MB). Delete some items and try again.</string>
+    <string name="DREAM_PICTURE_TMBODY" did="DREAM_G360M_TMBODY_PICTURE">Picture</string>
+    <string name="DREAM_TIME_LAPSE_VIDEO_TMBODY" did="DREAM_G360M_TMBODY_TIME_LAPSE_VIDEO">Time lapse video</string>
+    <string name="DREAM_PREPARING_TO_RECORD_VIDEO_ING_TMBODY" did="DREAM_G360M_TMBODY_PREPARING_TO_RECORD_VIDEO_ING">Preparing to record video\u2026</string>
+    <string name="DREAM_UPDATE_AVAILABLE_FOR_GEAR_360_TMBODY" did="DREAM_G360M_TMBODY_UPDATE_AVAILABLE_FOR_GEAR_360">Update available for Gear 360</string>
+    <string name="DREAM_PICTURE_MOVED_TPOP" did="DREAM_G360M_TPOP_PICTURE_MOVED">Picture moved.</string>
+    <string name="DREAM_RESET_AND_FORMAT_GEAR_360_TMBODY" did="DREAM_G360M_TMBODY_RESET_AND_FORMAT_GEAR_360">Reset and format Gear 360</string>
+    <string name="DREAM_STORAGE_SPACE_TMBODY" did="DREAM_G360M_TMBODY_STORAGE_SPACE">Storage space</string>
+    <string name="DREAM_TURN_OFF_AFTER_TMBODY" did="DREAM_G360M_TMBODY_TURN_OFF_AFTER">Turn off after</string>
+    <string name="DREAM_TO_CONNECT_TO_YOUR_GEAR_360_WI_FI_DIRECT_NEEDS_TO_BE_TURNED_ON_WI_FI_WILL_BE_TURNED_ON_AUTOMATICALLY_WHEN_YOU_OPEN_THE_GEAR_360_APP" did="DREAM_G360M_POP_TO_CONNECT_TO_YOUR_GEAR_360_WI_FI_DIRECT_NEEDS_TO_BE_TURNED_ON_WI_FI_WILL_BE_TURNED_ON_AUTOMATICALLY_WHEN_YOU_OPEN_THE_GEAR_360_APP">"To connect to your Gear 360, Wi-Fi Direct needs to be turned on. Wi-Fi will be turned on automatically when you open the Gear 360 App."</string>
+    <string name="DREAM_YOUR_TABLET_WILL_BE_PAIRED_WITH_YOUR_GEAR_360" did="DREAM_G360M_POP_YOUR_TABLET_WILL_BE_PAIRED_WITH_YOUR_GEAR_360">Your tablet will be paired with your Gear 360.</string>
+    <string name="DREAM_YOUR_PHONE_WILL_BE_PAIRED_WITH_YOUR_GEAR_360" did="DREAM_G360M_POP_YOUR_PHONE_WILL_BE_PAIRED_WITH_YOUR_GEAR_360">Your phone will be paired with your Gear 360.</string>
+    <string name="DREAM_TO_USE_THE_GEAR_360_APP_YOU_NEED_TO_UPDATE_IT_FIRST_AFTER_ITS_UPDATED_RECONNECT_YOUR_GEAR_360_TO_YOUR_TABLET" did="DREAM_G360M_POP_TO_USE_THE_GEAR_360_APP_YOU_NEED_TO_UPDATE_IT_FIRST_AFTER_ITS_UPDATED_RECONNECT_YOUR_GEAR_360_TO_YOUR_TABLET">"To use the Gear 360 App, you need to update it first. After it\'s updated, reconnect your Gear 360 to your tablet."</string>
+    <string name="DREAM_TO_USE_THE_GEAR_360_APP_YOU_NEED_TO_UPDATE_IT_FIRST_AFTER_ITS_UPDATED_RECONNECT_YOUR_GEAR_360_TO_YOUR_PHONE" did="DREAM_G360M_POP_TO_USE_THE_GEAR_360_APP_YOU_NEED_TO_UPDATE_IT_FIRST_AFTER_ITS_UPDATED_RECONNECT_YOUR_GEAR_360_TO_YOUR_PHONE">"To use the Gear 360 App, you need to update it first. After it\'s updated, reconnect your Gear 360 to your phone."</string>
+    <string name="DREAM_NEW_UPDATE_AVAILABLE_TMBODY" did="DREAM_G360M_TMBODY_NEW_UPDATE_AVAILABLE">New update available</string>
+    <string name="DREAM_TO_CONNECT_TO_YOUR_GEAR_360_BLUETOOTH_NEEDS_TO_BE_TURNED_ON" did="DREAM_G360M_POP_TO_CONNECT_TO_YOUR_GEAR_360_BLUETOOTH_NEEDS_TO_BE_TURNED_ON">"To connect to your Gear 360, Bluetooth needs to be turned on."</string>
+    <string name="DREAM_THIS_APP_MIGHT_NOT_BE_COMPATIBLE_WITH_YOUR_TABLET" did="DREAM_G360M_POP_THIS_APP_MIGHT_NOT_BE_COMPATIBLE_WITH_YOUR_TABLET">This app might not be compatible with your tablet.</string>
+    <string name="DREAM_THIS_APP_MIGHT_NOT_BE_COMPATIBLE_WITH_YOUR_PHONE" did="DREAM_G360M_POP_THIS_APP_MIGHT_NOT_BE_COMPATIBLE_WITH_YOUR_PHONE">This app might not be compatible with your phone.</string>
+    <string name="DREAM_YOUR_SYSTEM_SOFTWARE_HAS_BEEN_MODIFIED_IN_AN_UNAUTHORIZED_WAY" did="DREAM_G360M_POP_YOUR_SYSTEM_SOFTWARE_HAS_BEEN_MODIFIED_IN_AN_UNAUTHORIZED_WAY">Your system software has been modified in an unauthorized way.</string>
+    <string name="DREAM_RESET_YOUR_GEAR_360S_CONNECTION_SETTINGS_Q" did="DREAM_G360M_POP_RESET_YOUR_GEAR_360S_CONNECTION_SETTINGS_Q">Reset your Gear 360\'s connection settings?</string>
+    <string name="DREAM_PICTURE_SAVED_TPOP" did="DREAM_G360M_TPOP_PICTURE_SAVED">Picture saved.</string>
+    <string name="DREAM_SAVING_ITEMS_FROM_PS_ING" did="DREAM_G360M_POP_SAVING_ITEMS_FROM_PS_ING">Saving items from %s\u2026</string>
+    <string name="DREAM_TO_EDIT_THE_LOCATION_FOR_THIS_PICTURE_LOCATION_MUST_BE_TURNED_ON_IN_SETTINGS" did="DREAM_G360M_POP_TO_EDIT_THE_LOCATION_FOR_THIS_PICTURE_LOCATION_MUST_BE_TURNED_ON_IN_SETTINGS">"To edit the location for this picture, Location must be turned on in Settings."</string>
+    <string name="DREAM_TO_USE_360_LIVE_BROADCAST_SIGN_IN_TO_YOUTUBE" did="DREAM_G360M_POP_TO_USE_360_LIVE_BROADCAST_SIGN_IN_TO_YOUTUBE">"To use 360 Live broadcast, sign in to YouTube."</string>
+    <string name="DREAM_SHARE_A_LINK_TO_YOUR_LIVE_BROADCAST_WITH_YOUR_FRIENDS_AND_FAMILY_JUST_ADD_A_MESSAGE_TO_YOUR_POST_AND_SELECT_A_SOCIAL_NETWORK" did="DREAM_G360M_POP_SHARE_A_LINK_TO_YOUR_LIVE_BROADCAST_WITH_YOUR_FRIENDS_AND_FAMILY_JUST_ADD_A_MESSAGE_TO_YOUR_POST_AND_SELECT_A_SOCIAL_NETWORK">Share a link to your Live broadcast with your friends and family. Just add a message to your post and select a social network.</string>
+    <string name="DREAM_STOPPING_LIVE_BROADCAST_ING_TPOP" did="DREAM_G360M_TPOP_STOPPING_LIVE_BROADCAST_ING">Stopping Live broadcast\u2026</string>
+    <string name="DREAM_THE_RECIPIENTS_PHONE_NUMBER_ISNT_VALID" did="DREAM_G360M_POP_THE_RECIPIENTS_PHONE_NUMBER_ISNT_VALID">The recipient\'s phone number isn\'t valid.</string>
+    <string name="DREAM_SOCIAL_NETWORK_SETTINGS_TMBODY" did="DREAM_G360M_TMBODY_SOCIAL_NETWORK_SETTINGS">Social network settings</string>
+    <string name="DREAM_THERE_ISNT_ENOUGH_SPACE_ON_YOUR_PHONE_TO_SAVE_THIS_BROADCAST_TO_CONTINUE_BROADCASTING_YOU_NEED_TO_TURN_OFF_AUTO_SAVE" did="DREAM_G360M_POP_THERE_ISNT_ENOUGH_SPACE_ON_YOUR_PHONE_TO_SAVE_THIS_BROADCAST_TO_CONTINUE_BROADCASTING_YOU_NEED_TO_TURN_OFF_AUTO_SAVE">"There isn\'t enough space on your phone to save this broadcast. To continue broadcasting, you need to turn off Auto save."</string>
+    <string name="DREAM_THERE_ISNT_ENOUGH_SPACE_ON_YOUR_TABLET_TO_SAVE_THIS_BROADCAST_TO_CONTINUE_BROADCASTING_YOU_NEED_TO_TURN_OFF_AUTO_SAVE" did="DREAM_G360M_POP_THERE_ISNT_ENOUGH_SPACE_ON_YOUR_TABLET_TO_SAVE_THIS_BROADCAST_TO_CONTINUE_BROADCASTING_YOU_NEED_TO_TURN_OFF_AUTO_SAVE">"There isn\'t enough space on your tablet to save this broadcast. To continue broadcasting, you need to turn off Auto save."</string>
+    <string name="DREAM_YOUR_NETWORK_CONNECTION_IS_UNSTABLE_CHECK_YOUR_NETWORK_CONNECTION_AND_TRY_AGAIN" did="DREAM_G360M_POP_YOUR_NETWORK_CONNECTION_IS_UNSTABLE_CHECK_YOUR_NETWORK_CONNECTION_AND_TRY_AGAIN">Your network connection is unstable. Check your network connection and try again.</string>
+    <string name="DREAM_SD_CARD_FORMATTED_TPOP" did="DREAM_G360M_TPOP_SD_CARD_FORMATTED">SD card formatted.</string>
+    <string name="DREAM_THIS_WILL_ERASE_ALL_OF_THE_DATA_ON_THE_CARD" did="DREAM_G360M_POP_THIS_WILL_ERASE_ALL_OF_THE_DATA_ON_THE_CARD">This will erase all of the data on the card.</string>
+    <string name="DREAM_RESET_CONNECTION_SETTINGS_TMBODY" did="DREAM_G360M_TMBODY_RESET_CONNECTION_SETTINGS">Reset connection settings</string>
+    <string name="DREAM_RESET_ALL_GEAR_360_SETTINGS_Q" did="DREAM_G360M_POP_RESET_ALL_GEAR_360_SETTINGS_Q">Reset all Gear 360 settings?</string>
+    <string name="DREAM_RESET_YOUR_GEAR_360S_DEVICE_SETTINGS_Q" did="DREAM_G360M_POP_RESET_YOUR_GEAR_360S_DEVICE_SETTINGS_Q">Reset your Gear 360\'s device settings?</string>
+    <string name="DREAM_MOVE_VIDEO_Q" did="DREAM_G360M_POP_MOVE_VIDEO_Q">Move video?</string>
+    <string name="DREAM_GEAR_360_OVERHEATING_CANT_COPY_UPDATE_RESUME_COPYING_AFTER_GEAR_360_COOLS_DOWN_TPOP" did="DREAM_G360M_TPOP_GEAR_360_OVERHEATING_CANT_COPY_UPDATE_RESUME_COPYING_AFTER_GEAR_360_COOLS_DOWN">Gear 360 overheating. Can\'t copy update. Resume copying after Gear 360 cools down.</string>
+    <string name="DREAM_LIVE_BROADCAST_PAUSED_TMBODY" did="DREAM_G360M_TMBODY_LIVE_BROADCAST_PAUSED">Live broadcast paused</string>
+    <string name="DREAM_MOVE_PD_VIDEOS_Q" did="DREAM_G360M_POP_MOVE_PD_VIDEOS_Q">Move %d videos?</string>
+    <string name="DREAM_MOVE_PICTURE_Q" did="DREAM_G360M_POP_MOVE_PICTURE_Q">Move picture?</string>
+    <string name="DREAM_MOVE_PD_PICTURES_Q" did="DREAM_G360M_POP_MOVE_PD_PICTURES_Q">Move %d pictures?</string>
+    <string name="DREAM_YOUTUBE_ACCOUNT_TMBODY" did="DREAM_G360M_TMBODY_YOUTUBE_ACCOUNT">YouTube account</string>
+    <string name="DREAM_SOME_OF_THE_GEAR_360S_FOUND_CANT_BE_CONNECTED_TO_YOUR_PHONE_UPDATE_THE_GEAR_360_APP_THEN_TRY_AGAIN" did="DREAM_G360M_POP_SOME_OF_THE_GEAR_360S_FOUND_CANT_BE_CONNECTED_TO_YOUR_PHONE_UPDATE_THE_GEAR_360_APP_THEN_TRY_AGAIN">"Some of the Gear 360s found can\'t be connected to your phone. Update the Gear 360 App, then try again."</string>
+    <string name="DREAM_MOVE_PD_ITEMS_Q" did="DREAM_G360M_POP_MOVE_PD_ITEMS_Q">Move %d items?</string>
+    <string name="DREAM_ITEMS_COPIED_TPOP" did="DREAM_G360M_TPOP_ITEMS_COPIED">Items copied.</string>
+    <string name="DREAM_LOADING_GEAR_360_APP_ING" did="DREAM_G360M_POP_LOADING_GEAR_360_APP_ING">Loading Gear 360 App\u2026</string>
+    <string name="DREAM_THE_SD_CARD_IN_YOUR_GEAR_360_CANT_BE_USED_BACK_UP_ANY_FILES_ON_THE_SD_CARD_FORMAT_THE_SD_CARD_THEN_TRY_AGAIN" did="DREAM_G360M_POP_THE_SD_CARD_IN_YOUR_GEAR_360_CANT_BE_USED_BACK_UP_ANY_FILES_ON_THE_SD_CARD_FORMAT_THE_SD_CARD_THEN_TRY_AGAIN">"The SD card in your Gear 360 can\'t be used. Back up any files on the SD card, format the SD card, then try again."</string>
+    <string name="DREAM_INSTALLING_UPDATE_ING" did="DREAM_G360M_POP_INSTALLING_UPDATE_ING">Installing update\u2026</string>
+    <string name="DREAM_ITEMS_MOVED_TPOP" did="DREAM_G360M_TPOP_ITEMS_MOVED">Items moved.</string>
+    <string name="DREAM_LIVE_BROADCAST_SETTINGS_TMBODY" did="DREAM_G360M_TMBODY_LIVE_BROADCAST_SETTINGS">Live broadcast settings</string>
+    <string name="DREAM_NETWORK_CONNECTION_UNSTABLE_VIDEO_QUALITY_MAY_BE_AFFECTED_TPOP" did="DREAM_G360M_TPOP_NETWORK_CONNECTION_UNSTABLE_VIDEO_QUALITY_MAY_BE_AFFECTED">Network connection unstable. Video quality may be affected.</string>
+    <string name="DREAM_SAMSUNG_GEAR_360" did="DREAM_G360M_BODY_SAMSUNG_GEAR_360">Samsung Gear 360</string>
+    <string name="DREAM_CANT_OPEN_GEAR_360_APP_PHEADER" did="DREAM_G360M_PHEADER_CANT_OPEN_GEAR_360_APP">Can\'t open Gear 360 App</string>
+    <string name="DREAM_A_NEW_VERSION_OF_THE_GEAR_360_APP_IS_AVAILABLE" did="DREAM_G360M_POP_A_NEW_VERSION_OF_THE_GEAR_360_APP_IS_AVAILABLE">A new version of the Gear 360 App is available.</string>
+    <string name="DREAM_GEAR_360_APP_TMBODY" did="DREAM_G360M_TMBODY_GEAR_360_APP">Gear 360 App</string>
+    <string name="DREAM_CONNECTED_TO_NEW_GEAR_360_HPS_TMBODY" did="DREAM_G360M_TMBODY_CONNECTED_TO_NEW_GEAR_360_HPS">Connected to new Gear 360 (%s)</string>
+    <string name="DREAM_CONNECTED_TO_GEAR_360_HPS_TMBODY" did="DREAM_G360M_TMBODY_CONNECTED_TO_GEAR_360_HPS">Connected to Gear 360 (%s)</string>
+    <string name="DREAM_TAP_HERE_TO_MANAGE_YOUR_NEW_GEAR_360_SBODY" did="DREAM_G360M_SBODY_TAP_HERE_TO_MANAGE_YOUR_NEW_GEAR_360">Tap here to manage your new Gear 360.</string>
+    <string name="DREAM_DISCONNECTED_FROM_GEAR_360_HPS_TMBODY" did="DREAM_G360M_TMBODY_DISCONNECTED_FROM_GEAR_360_HPS">Disconnected from Gear 360 (%s)</string>
+    <string name="DREAM_DOWNLOADING_UPDATE_ING" did="DREAM_G360M_POP_DOWNLOADING_UPDATE_ING">Downloading update\u2026</string>
+    <string name="DREAM_DISCONNECTING_FROM_GEAR_360_ING" did="DREAM_G360M_POP_DISCONNECTING_FROM_GEAR_360_ING">Disconnecting from Gear 360\u2026</string>
+    <string name="DREAM_GET_THE_MOST_OUT_OF_YOUR_GEAR_360_BY_INSTALLING_THE_PS" did="DREAM_G360M_BODY_GET_THE_MOST_OUT_OF_YOUR_GEAR_360_BY_INSTALLING_THE_PS">Get the most out of your Gear 360 by installing the %s.</string>
+    <string name="DREAM_DOWNLOADING_GEAR_360_APP_ING_NHP1SS_MB_P2SS_MB" did="DREAM_G360M_BODY_DOWNLOADING_GEAR_360_APP_ING_NHP1SS_MB_P2SS_MB">Downloading Gear 360 App\u2026\n(%1$s MB/%2$s MB)</string>
+    <string name="DREAM_CONFIRM_THAT_PS_IS_SHOWN_ON_YOUR_GEAR_360_THEN_TAP_CONNECT" did="DREAM_G360M_POP_CONFIRM_THAT_PS_IS_SHOWN_ON_YOUR_GEAR_360_THEN_TAP_CONNECT">"Confirm that %s is shown on your Gear 360, then tap CONNECT."</string>
+    <string name="DREAM_CONNECTING_TO_GEAR_360_ING" did="DREAM_G360M_POP_CONNECTING_TO_GEAR_360_ING">Connecting to Gear 360\u2026</string>
+    <string name="DREAM_COULDNT_PAIR_WITH_GEAR_360_HPS_MAKE_SURE_THAT_ITS_READY_TO_PAIR_TPOP" did="DREAM_G360M_TPOP_COULDNT_PAIR_WITH_GEAR_360_HPS_MAKE_SURE_THAT_ITS_READY_TO_PAIR">Couldn\'t pair with Gear 360 (%s). Make sure that it\'s ready to pair.</string>
+    <string name="DREAM_CONNECT_TO_GEAR_360_Q_PHEADER" did="DREAM_G360M_PHEADER_CONNECT_TO_GEAR_360_Q">Connect to Gear 360?</string>
+    <string name="DREAM_COULDNT_CONNECT_TO_GEAR_360" did="DREAM_G360M_POP_COULDNT_CONNECT_TO_GEAR_360">Couldn\'t connect to Gear 360.</string>
+    <string name="DREAM_I_AGREE_TO_THE_TERMS_OF_THE_END_USER_LICENSE_AGREEMENT" did="DREAM_G360M_BODY_I_AGREE_TO_THE_TERMS_OF_THE_END_USER_LICENSE_AGREEMENT">I agree to the terms of the End User License Agreement.</string>
+    <string name="DREAM_I_AGREE_TO_ALLOW_THE_USE_OF_WI_FI_NETWORKS" did="DREAM_G360M_BODY_I_AGREE_TO_ALLOW_THE_USE_OF_WI_FI_NETWORKS">I agree to allow the use of Wi-Fi networks.</string>
+    <string name="DREAM_GEAR_360_APP_USES_WI_FI_DIRECT_PHEADER" did="DREAM_G360M_PHEADER_GEAR_360_APP_USES_WI_FI_DIRECT">Gear 360 App uses Wi-Fi Direct</string>
+    <string name="DREAM_CONNECT_TO_YOUR_360_CAMERA_SBODY" did="DREAM_G360M_SBODY_CONNECT_TO_YOUR_360_CAMERA">Connect to your 360 camera.</string>
+    <string name="DREAM_BROADCAST_YOURSELF_LIVE_SBODY" did="DREAM_G360M_SBODY_BROADCAST_YOURSELF_LIVE">Broadcast yourself live.</string>
+    <string name="DREAM_CONTROL_THE_VOLUME_AND_LED_INDICATOR_ON_YOUR_GEAR_360_SBODY" did="DREAM_G360M_SBODY_CONTROL_THE_VOLUME_AND_LED_INDICATOR_ON_YOUR_GEAR_360">Control the volume and LED indicator on your Gear 360.</string>
+    <string name="DREAM_FIRMWARE_VERSION_TMBODY" did="DREAM_G360M_TMBODY_FIRMWARE_VERSION">Firmware version</string>
+    <string name="DREAM_DISCONNECT_FROM_GEAR_360_OPT_ABB" did="DREAM_G360M_OPT_DISCONNECT_FROM_GEAR_360_ABB">Disconnect from Gear 360</string>
+    <string name="DREAM_DISCONNECT_FROM_GEAR_360_Q_PHEADER" did="DREAM_G360M_PHEADER_DISCONNECT_FROM_GEAR_360_Q">Disconnect from Gear 360?</string>
+    <string name="DREAM_CONNECTED_TO_GEAR_360_HEADER" did="DREAM_G360M_HEADER_CONNECTED_TO_GEAR_360">Connected to Gear 360</string>
+    <string name="DREAM_CONNECT_TO_NEW_GEAR_360_HEADER" did="DREAM_G360M_HEADER_CONNECT_TO_NEW_GEAR_360">Connect to new Gear 360</string>
+    <string name="DREAM_CANT_CONNECT_TO_GEAR_360_PHONE_BATTERY_TOO_LOW_TPOP" did="DREAM_G360M_TPOP_CANT_CONNECT_TO_GEAR_360_PHONE_BATTERY_TOO_LOW">Can\'t connect to Gear 360. Phone battery too low.</string>
+    <string name="DREAM_CANT_CONNECT_TO_GEAR_360_TABLET_BATTERY_TOO_LOW_TPOP" did="DREAM_G360M_TPOP_CANT_CONNECT_TO_GEAR_360_TABLET_BATTERY_TOO_LOW">Can\'t connect to Gear 360. Tablet battery too low.</string>
+    <string name="DREAM_AFTER_YOU_SAVE_PICTURES_OR_VIDEOS_FROM_YOUR_GEAR_360_TO_YOUR_PHONE_THEYLL_APPEAR_HERE" did="DREAM_G360M_BODY_AFTER_YOU_SAVE_PICTURES_OR_VIDEOS_FROM_YOUR_GEAR_360_TO_YOUR_PHONE_THEYLL_APPEAR_HERE">"After you save pictures or videos from your Gear 360 to your phone, they\'ll appear here."</string>
+    <string name="DREAM_AFTER_YOU_SAVE_PICTURES_OR_VIDEOS_FROM_YOUR_GEAR_360_TO_YOUR_TABLET_THEYLL_APPEAR_HERE" did="DREAM_G360M_BODY_AFTER_YOU_SAVE_PICTURES_OR_VIDEOS_FROM_YOUR_GEAR_360_TO_YOUR_TABLET_THEYLL_APPEAR_HERE">"After you save pictures or videos from your Gear 360 to your tablet, they\'ll appear here."</string>
+    <string name="DREAM_CANT_SHOW_MORE_THAN_PD_ITEMS_TPOP" did="DREAM_G360M_TPOP_CANT_SHOW_MORE_THAN_PD_ITEMS">Can\'t show more than %d items.</string>
+    <string name="DREAM_DELETING_ITEM_ING" did="DREAM_G360M_POP_DELETING_ITEM_ING">Deleting item\u2026</string>
+    <string name="DREAM_DELETING_ITEMS_ING" did="DREAM_G360M_POP_DELETING_ITEMS_ING">Deleting items\u2026</string>
+    <string name="DREAM_DELETE_PD_PICTURES_Q" did="DREAM_G360M_POP_DELETE_PD_PICTURES_Q">Delete %d pictures?</string>
+    <string name="DREAM_DELETE_PICTURE_Q" did="DREAM_G360M_POP_DELETE_PICTURE_Q">Delete picture?</string>
+    <string name="DREAM_COMPRESSING_VIDEO_ING" did="DREAM_G360M_POP_COMPRESSING_VIDEO_ING">Compressing video\u2026</string>
+    <string name="DREAM_COPY_PD_ITEMS_Q" did="DREAM_G360M_POP_COPY_PD_ITEMS_Q">Copy %d items?</string>
+    <string name="DREAM_COPY_PD_PICTURES_Q" did="DREAM_G360M_POP_COPY_PD_PICTURES_Q">Copy %d pictures?</string>
+    <string name="DREAM_COPY_PICTURE_Q" did="DREAM_G360M_POP_COPY_PICTURE_Q">Copy picture?</string>
+    <string name="DREAM_COPY_PD_VIDEOS_Q" did="DREAM_G360M_POP_COPY_PD_VIDEOS_Q">Copy %d videos?</string>
+    <string name="DREAM_COPY_VIDEO_Q" did="DREAM_G360M_POP_COPY_VIDEO_Q">Copy video?</string>
+    <string name="DREAM_PS_IS_ALREADY_BEING_USED_AS_A_FILE_NAME_IN_THE_DESTINATION_FOLDER" did="DREAM_G360M_POP_PS_IS_ALREADY_BEING_USED_AS_A_FILE_NAME_IN_THE_DESTINATION_FOLDER">%s is already being used as a file name in the destination folder.</string>
+    <string name="DREAM_CAMERA_C_PS" did="DREAM_G360M_BODY_CAMERA_C_PS">Camera: %s</string>
+    <string name="DREAM_CODECS_C_PS" did="DREAM_G360M_BODY_CODECS_C_PS">Codecs: %s</string>
+    <string name="DREAM_AUDIO_CHANNEL_C_PS" did="DREAM_G360M_BODY_AUDIO_CHANNEL_C_PS">Audio channel: %s</string>
+    <string name="DREAM_CAPTURE_FRAME_OPT_ABB" did="DREAM_G360M_OPT_CAPTURE_FRAME_ABB">Capture frame</string>
+    <string name="DREAM_4096_X_2048_HAPPROX_PD_GB_OPT_ABB" did="DREAM_G360M_OPT_4096_X_2048_HAPPROX_PD_GB_ABB">4096 x 2048 (approx. %d GB)</string>
+    <string name="DREAM_FILE_SAVED_SBODY" did="DREAM_G360M_SBODY_FILE_SAVED">File saved.</string>
+    <string name="DREAM_COULDNT_DOWNLOAD_PD_FILES_SBODY" did="DREAM_G360M_SBODY_COULDNT_DOWNLOAD_PD_FILES">Couldn\'t download %d files.</string>
+    <string name="DREAM_COULDNT_DOWNLOAD_FILE_SBODY" did="DREAM_G360M_SBODY_COULDNT_DOWNLOAD_FILE">Couldn\'t download file.</string>
+    <string name="DREAM_FILE_EXPORTED_SBODY" did="DREAM_G360M_SBODY_FILE_EXPORTED">File exported.</string>
+    <string name="DREAM_CORRECT_THE_ANGLE_OF_YOUR_PICTURES_AND_VIDEOS_AFTER_YOUVE_TAKEN_OR_RECORDED_THEM_SBODY" did="DREAM_G360M_SBODY_CORRECT_THE_ANGLE_OF_YOUR_PICTURES_AND_VIDEOS_AFTER_YOUVE_TAKEN_OR_RECORDED_THEM">Correct the angle of your pictures and videos after you\'ve taken or recorded them.</string>
+    <string name="DREAM_FADE_IN_AND_OUT_OF_VIDEOS_TMBODY" did="DREAM_G360M_TMBODY_FADE_IN_AND_OUT_OF_VIDEOS">Fade in and out of videos</string>
+    <string name="DREAM_GRADUALLY_FADE_IN_AND_OUT_OF_YOUR_VIDEOS_SBODY" did="DREAM_G360M_SBODY_GRADUALLY_FADE_IN_AND_OUT_OF_YOUR_VIDEOS">Gradually fade in and out of your videos.</string>
+    <string name="DREAM_YOUR_360_PICTURES_AND_VIDEOS_WILL_BE_SAVED_TO_YOUR_SD_CARD_FROM_NOW_ON" did="DREAM_G360M_POP_YOUR_360_PICTURES_AND_VIDEOS_WILL_BE_SAVED_TO_YOUR_SD_CARD_FROM_NOW_ON">Your 360° pictures and videos will be saved to your SD card from now on.</string>
+    <string name="DREAM_YOUR_360_PICTURES_AND_VIDEOS_WILL_BE_SAVED_TO_YOUR_INTERNAL_STORAGE_FROM_NOW_ON" did="DREAM_G360M_POP_YOUR_360_PICTURES_AND_VIDEOS_WILL_BE_SAVED_TO_YOUR_INTERNAL_STORAGE_FROM_NOW_ON">Your 360° pictures and videos will be saved to your internal storage from now on.</string>
+    <string name="DREAM_DELETE_SOME_ITEMS_AND_TRY_AGAIN" did="DREAM_G360M_POP_DELETE_SOME_ITEMS_AND_TRY_AGAIN">Delete some items and try again.</string>
+    <string name="DREAM_COULDNT_MOVE_PD_ITEMS_TPOP" did="DREAM_G360M_TPOP_COULDNT_MOVE_PD_ITEMS">Couldn\'t move %d items.</string>
+    <string name="DREAM_COULDNT_COPY_PICTURES_TPOP" did="DREAM_G360M_TPOP_COULDNT_COPY_PICTURES">Couldn\'t copy pictures.</string>
+    <string name="DREAM_COULDNT_MOVE_PD_PICTURES_TPOP" did="DREAM_G360M_TPOP_COULDNT_MOVE_PD_PICTURES">Couldn\'t move %d pictures.</string>
+    <string name="DREAM_COULDNT_COPY_VIDEOS_TPOP" did="DREAM_G360M_TPOP_COULDNT_COPY_VIDEOS">Couldn\'t copy videos.</string>
+    <string name="DREAM_COULDNT_MOVE_PD_VIDEOS_TPOP" did="DREAM_G360M_TPOP_COULDNT_MOVE_PD_VIDEOS">Couldn\'t move %d videos.</string>
+    <string name="DREAM_COULDNT_COPY_PICTURE_TPOP" did="DREAM_G360M_TPOP_COULDNT_COPY_PICTURE">Couldn\'t copy picture.</string>
+    <string name="DREAM_COULDNT_MOVE_PICTURE_TPOP" did="DREAM_G360M_TPOP_COULDNT_MOVE_PICTURE">Couldn\'t move picture.</string>
+    <string name="DREAM_COULDNT_COPY_VIDEO_TPOP" did="DREAM_G360M_TPOP_COULDNT_COPY_VIDEO">Couldn\'t copy video.</string>
+    <string name="DREAM_COULDNT_MOVE_VIDEO_TPOP" did="DREAM_G360M_TPOP_COULDNT_MOVE_VIDEO">Couldn\'t move video.</string>
+    <string name="DREAM_CANT_SHOW_THE_PREVIEW_IN_TIME_LAPSE_MODE" did="DREAM_G360M_BODY_CANT_SHOW_THE_PREVIEW_IN_TIME_LAPSE_MODE">Can\'t show the preview in Time lapse mode.</string>
+    <string name="DREAM_ATTACH_YOUR_GEAR_360_TO_A_TRIPOD_OR_MOUNT_BEFORE_YOU_TAKE_A_PICTURE" did="DREAM_G360M_BODY_ATTACH_YOUR_GEAR_360_TO_A_TRIPOD_OR_MOUNT_BEFORE_YOU_TAKE_A_PICTURE">Attach your Gear 360 to a tripod or mount before you take a picture.</string>
+    <string name="DREAM_CANT_RECORD_VIDEOS_INSERT_SD_CARD_INTO_GEAR_360_THEN_TRY_AGAIN_TPOP" did="DREAM_G360M_TPOP_CANT_RECORD_VIDEOS_INSERT_SD_CARD_INTO_GEAR_360_THEN_TRY_AGAIN">"Can\'t record videos. Insert SD card into Gear 360, then try again."</string>
+    <string name="DREAM_CANT_TAKE_PICTURES_INSERT_SD_CARD_INTO_GEAR_360_THEN_TRY_AGAIN_TPOP" did="DREAM_G360M_TPOP_CANT_TAKE_PICTURES_INSERT_SD_CARD_INTO_GEAR_360_THEN_TRY_AGAIN">"Can\'t take pictures. Insert SD card into Gear 360, then try again."</string>
+    <string name="DREAM_DELETE_SOME_FILES_FROM_YOUR_GEAR_360_STORAGE_AND_TRY_AGAIN" did="DREAM_G360M_POP_DELETE_SOME_FILES_FROM_YOUR_GEAR_360_STORAGE_AND_TRY_AGAIN">Delete some files from your Gear 360 storage and try again.</string>
+    <string name="DREAM_CANT_RECORD_VIDEOS_OR_TAKE_PICTURES_PHEADER" did="DREAM_G360M_PHEADER_CANT_RECORD_VIDEOS_OR_TAKE_PICTURES">Can\'t record videos or take pictures</string>
+    <string name="DREAM_I_HAVE_READ_THE_DISCLAIMER_ABOVE_AND_AGREE_TO_IT" did="DREAM_G360M_BODY_I_HAVE_READ_THE_DISCLAIMER_ABOVE_AND_AGREE_TO_IT">I have read the disclaimer above and agree to it.</string>
+    <string name="DREAM_CHECK_OUT_YOUR_360_BROADCAST_ON_YOUTUBE_LONGER_BROADCASTS_MIGHT_TAKE_MORE_TIME_TO_UPLOAD" did="DREAM_G360M_BODY_CHECK_OUT_YOUR_360_BROADCAST_ON_YOUTUBE_LONGER_BROADCASTS_MIGHT_TAKE_MORE_TIME_TO_UPLOAD">Check out your 360 broadcast on YouTube. Longer broadcasts might take more time to upload.</string>
+    <string name="DREAM_BROADCAST_ON_SOCIAL_NETWORKS_PHEADER" did="DREAM_G360M_PHEADER_BROADCAST_ON_SOCIAL_NETWORKS">Broadcast on social networks</string>
+    <string name="DREAM_BROADCAST_SHARED_ON_SOCIAL_NETWORK_TPOP" did="DREAM_G360M_TPOP_BROADCAST_SHARED_ON_SOCIAL_NETWORK">Broadcast shared on social network.</string>
+    <string name="DREAM_PD_INVITATIONS_SENT_BROADCAST_SHARED_ON_SOCIAL_NETWORK_TPOP" did="DREAM_G360M_TPOP_PD_INVITATIONS_SENT_BROADCAST_SHARED_ON_SOCIAL_NETWORK">%d invitations sent. Broadcast shared on social network.</string>
+    <string name="DREAM_COULDNT_SEND_MESSAGES_TRY_AGAIN_TPOP" did="DREAM_G360M_TPOP_COULDNT_SEND_MESSAGES_TRY_AGAIN">Couldn\'t send messages. Try again.</string>
+    <string name="DREAM_COULDNT_SEND_MESSAGE_OR_SHARE_BROADCAST_ON_SOCIAL_NETWORK_TRY_AGAIN_TPOP" did="DREAM_G360M_TPOP_COULDNT_SEND_MESSAGE_OR_SHARE_BROADCAST_ON_SOCIAL_NETWORK_TRY_AGAIN">Couldn\'t send message or share broadcast on social network. Try again.</string>
+    <string name="DREAM_COULDNT_SEND_MESSAGES_OR_SHARE_BROADCAST_ON_SOCIAL_NETWORK_TRY_AGAIN_TPOP" did="DREAM_G360M_TPOP_COULDNT_SEND_MESSAGES_OR_SHARE_BROADCAST_ON_SOCIAL_NETWORK_TRY_AGAIN">Couldn\'t send messages or share broadcast on social network. Try again.</string>
+    <string name="DREAM_COULDNT_SHARE_BROADCAST_ON_SOCIAL_NETWORK_TRY_AGAIN_TPOP" did="DREAM_G360M_TPOP_COULDNT_SHARE_BROADCAST_ON_SOCIAL_NETWORK_TRY_AGAIN">Couldn\'t share broadcast on social network. Try again.</string>
+    <string name="DREAM_AUTOMATICALLY_SAVE_YOUR_BROADCAST_IN_GALLERY_AFTER_YOU_STOP_RECORDING_SBODY" did="DREAM_G360M_SBODY_AUTOMATICALLY_SAVE_YOUR_BROADCAST_IN_GALLERY_AFTER_YOU_STOP_RECORDING">Automatically save your broadcast in Gallery after you stop recording.</string>
+    <string name="DREAM_1920_X_1080_OPT_ABB" did="DREAM_G360M_OPT_1920_X_1080_ABB">1920 x 1080</string>
+    <string name="DREAM_1280_X_720_OPT_ABB" did="DREAM_G360M_OPT_1280_X_720_ABB">1280 x 720</string>
+    <string name="DREAM_DONT_SHARE_YOUR_BROADCAST_SBODY" did="DREAM_G360M_SBODY_DONT_SHARE_YOUR_BROADCAST">Don\'t share your broadcast.</string>
+    <string name="DREAM_EVERYONE_SBODY" did="DREAM_G360M_SBODY_EVERYONE">Everyone</string>
+    <string name="DREAM_CANT_RECORD_FOR_MORE_THAN_PS_RECORDING_SAVED_AND_BROADCAST_WILL_CONTINUE_TPOP" did="DREAM_G360M_TPOP_CANT_RECORD_FOR_MORE_THAN_PS_RECORDING_SAVED_AND_BROADCAST_WILL_CONTINUE">Can\'t record for more than %s. Recording saved and broadcast will continue.</string>
+    <string name="DREAM_CANT_SAVE_RECORDING_LARGER_THAN_PS_RECORDING_SAVED_AND_NEW_RECORDING_WILL_START_TPOP" did="DREAM_G360M_TPOP_CANT_SAVE_RECORDING_LARGER_THAN_PS_RECORDING_SAVED_AND_NEW_RECORDING_WILL_START">Can\'t save recording larger than %s. Recording saved and new recording will start.</string>
+    <string name="DREAM_ABOUT_GEAR_360_APP_TMBODY" did="DREAM_G360M_TMBODY_ABOUT_GEAR_360_APP">About Gear 360 App</string>
+    <string name="DREAM_CAMERA_SETTINGS_TMBODY" did="DREAM_G360M_TMBODY_CAMERA_SETTINGS">Camera settings</string>
+    <string name="DREAM_GALLERY_SETTINGS_TMBODY" did="DREAM_G360M_TMBODY_GALLERY_SETTINGS">Gallery settings</string>
+    <string name="DREAM_FORMAT_SD_CARD_Q_PHEADER" did="DREAM_G360M_PHEADER_FORMAT_SD_CARD_Q">Format SD card?</string>
+    <string name="DREAM_ALL_SETTINGS_RESET_TPOP" did="DREAM_G360M_TPOP_ALL_SETTINGS_RESET">All settings reset.</string>
+    <string name="DREAM_DEVICE_SETTINGS_RESET_TPOP" did="DREAM_G360M_TPOP_DEVICE_SETTINGS_RESET">Device settings reset.</string>
+    <string name="DREAM_CONNECTION_SETTINGS_RESET_TPOP" did="DREAM_G360M_TPOP_CONNECTION_SETTINGS_RESET">Connection settings reset.</string>
+    <string name="DREAM_DOWNLOAD_GEAR_360_UPDATE_Q_PHEADER" did="DREAM_G360M_PHEADER_DOWNLOAD_GEAR_360_UPDATE_Q">Download Gear 360 update?</string>
+    <string name="DREAM_DOWNLOADING_THIS_UPDATE_MAY_RESULT_IN_ADDITIONAL_CHARGES_KEEP_YOUR_PHONE_AND_GEAR_360_CONNECTED_PHONE_MSG" did="DREAM_G360M_POP_DOWNLOADING_THIS_UPDATE_MAY_RESULT_IN_ADDITIONAL_CHARGES_KEEP_YOUR_PHONE_AND_GEAR_360_CONNECTED_PHONE_MSG">Downloading this update may result in additional charges. Keep your phone and Gear 360 connected using Bluetooth while the update is being copied to the Gear 360. You can continue using your phone while updating your Gear 360.</string>
+    <string name="DREAM_DOWNLOADING_THIS_UPDATE_MAY_RESULT_IN_ADDITIONAL_CHARGES_KEEP_YOUR_PHONE_AND_GEAR_360_CONNECTED_TABLET_MSG" did="DREAM_G360M_POP_DOWNLOADING_THIS_UPDATE_MAY_RESULT_IN_ADDITIONAL_CHARGES_KEEP_YOUR_PHONE_AND_GEAR_360_CONNECTED_TABLET_MSG">Downloading this update may result in additional charges. Keep your tablet and Gear 360 connected using Bluetooth while the update is being copied to the Gear 360. You can continue using your tablet while updating your Gear 360.</string>
+    <string name="DREAM_DOWNLOADING_GEAR_360_UPDATE_ING_TMBODY" did="DREAM_G360M_TMBODY_DOWNLOADING_GEAR_360_UPDATE_ING">Downloading Gear 360 update\u2026</string>
+    <string name="DREAM_CANT_CONNECT_TO_GEAR_360_PHEADER" did="DREAM_G360M_PHEADER_CANT_CONNECT_TO_GEAR_360">Can\'t connect to Gear 360</string>
+    <string name="DREAM_A_NEW_VERSION_OF_THE_GEAR_360_APP_IS_BEING_DOWNLOADED_TAP_STOP_TO_CLOSE_THE_GEAR_360_APP_AND_STOP_THE_DOWNLOAD" did="DREAM_G360M_POP_A_NEW_VERSION_OF_THE_GEAR_360_APP_IS_BEING_DOWNLOADED_TAP_STOP_TO_CLOSE_THE_GEAR_360_APP_AND_STOP_THE_DOWNLOAD">A new version of the Gear 360 App is being downloaded. Tap STOP to close the Gear 360 App and stop the download.</string>
+    <string name="DREAM_COULDNT_COPY_UPDATE_TO_GEAR_360_PHEADER" did="DREAM_G360M_PHEADER_COULDNT_COPY_UPDATE_TO_GEAR_360">Couldn\'t copy update to Gear 360</string>
+    <string name="DREAM_CHECK_THE_CONNECTION_TO_YOUR_GEAR_360_AND_TRY_AGAIN" did="DREAM_G360M_POP_CHECK_THE_CONNECTION_TO_YOUR_GEAR_360_AND_TRY_AGAIN">Check the connection to your Gear 360 and try again.</string>
+    <string name="DREAM_COULDNT_COPY_UPDATE_TO_GEAR_360" did="DREAM_G360M_POP_COULDNT_COPY_UPDATE_TO_GEAR_360">Couldn\'t copy update to Gear 360.</string>
+    <string name="DREAM_COULDNT_COPY_UPDATE_TO_GEAR_360_SBODY" did="DREAM_G360M_SBODY_COULDNT_COPY_UPDATE_TO_GEAR_360">Couldn\'t copy update to Gear 360.</string>
+    <string name="DREAM_FILE_CORRUPT_TPOP" did="DREAM_G360M_TPOP_FILE_CORRUPT">File corrupt.</string>
+    <string name="DREAM_GEAR_360_UPDATED_TPOP" did="DREAM_G360M_TPOP_GEAR_360_UPDATED">Gear 360 updated.</string>
+    <string name="DREAM_COULDNT_UPDATE_GEAR_360_PHEADER" did="DREAM_G360M_PHEADER_COULDNT_UPDATE_GEAR_360">Couldn\'t update Gear 360</string>
+    <string name="DREAM_CANT_COPY_UPDATE_TO_GEAR_360_PHEADER" did="DREAM_G360M_PHEADER_CANT_COPY_UPDATE_TO_GEAR_360">Can\'t copy update to Gear 360</string>
+    <string name="DREAM_CHARGE_YOUR_PHONE_TO_AT_LEAST_PDP_BEFORE_COPYING_THE_UPDATE" did="DREAM_G360M_POP_CHARGE_YOUR_PHONE_TO_AT_LEAST_PDP_BEFORE_COPYING_THE_UPDATE">Charge your phone to at least %d%% before copying the update.</string>
+    <string name="DREAM_CHARGE_YOUR_TABLET_TO_AT_LEAST_PDP_BEFORE_COPYING_THE_UPDATE" did="DREAM_G360M_POP_CHARGE_YOUR_TABLET_TO_AT_LEAST_PDP_BEFORE_COPYING_THE_UPDATE">Charge your tablet to at least %d%% before copying the update.</string>
+    <string name="DREAM_CHARGE_YOUR_GEAR_360_TO_AT_LEAST_PDP_BEFORE_COPYING_THE_UPDATE" did="DREAM_G360M_POP_CHARGE_YOUR_GEAR_360_TO_AT_LEAST_PDP_BEFORE_COPYING_THE_UPDATE">Charge your Gear 360 to at least %d%% before copying the update.</string>
+    <string name="DREAM_COULDNT_SHARE_BROADCAST_ON_SOCIAL_NETWORKS_TRY_AGAIN_TPOP" did="DREAM_G360M_TPOP_COULDNT_SHARE_BROADCAST_ON_SOCIAL_NETWORKS_TRY_AGAIN">Couldn\'t share broadcast on social networks. Try again.</string>
+    <string name="DREAM_AVAILABLE_HEADER" did="DREAM_G360M_HEADER_AVAILABLE">Available</string>
+    <string name="DREAM_DOWNLOAD_NOT_COMPLETE_PHEADER" did="DREAM_G360M_PHEADER_DOWNLOAD_NOT_COMPLETE">Download not complete</string>
+    <string name="DREAM_CANT_SHARE_MORE_THAN_PD_ITEMS_AT_ONE_TIME_TPOP" did="DREAM_G360M_TPOP_CANT_SHARE_MORE_THAN_PD_ITEMS_AT_ONE_TIME">Can\'t share more than %d items at one time.</string>
+    <string name="DREAM_CHECK_YOUR_NETWORK_CONNECTION_AND_TRY_AGAIN" did="DREAM_G360M_POP_CHECK_YOUR_NETWORK_CONNECTION_AND_TRY_AGAIN">Check your network connection and try again.</string>
+    <string name="DREAM_CANT_ADD_MORE_THAN_PD_RECIPIENTS_TPOP" did="DREAM_G360M_TPOP_CANT_ADD_MORE_THAN_PD_RECIPIENTS">Can\'t add more than %d recipients.</string>
+    <string name="DREAM_CANT_ADD_RECIPIENT_PHEADER" did="DREAM_G360M_PHEADER_CANT_ADD_RECIPIENT">Can\'t add recipient</string>
+    <string name="DREAM_CANCEL_BUTTON22" did="DREAM_G360M_BUTTON_CANCEL_22">Cancel</string>
+    <string name="DREAM_CANT_ENTER_MORE_THAN_PD_CHARACTERS_TPOP" did="DREAM_G360M_TPOP_CANT_ENTER_MORE_THAN_PD_CHARACTERS">Can\'t enter more than %d characters.</string>
+    <string name="DREAM_COULDNT_UPDATE_FIRMWARE_PHEADER" did="DREAM_G360M_PHEADER_COULDNT_UPDATE_FIRMWARE">Couldn\'t update firmware</string>
+    <string name="DREAM_DELETE_PD_ITEMS_Q" did="DREAM_G360M_POP_DELETE_PD_ITEMS_Q">Delete %d items?</string>
+    <string name="DREAM_COULDNT_COPY_ITEMS_TPOP" did="DREAM_G360M_TPOP_COULDNT_COPY_ITEMS">Couldn\'t copy items.</string>
+    <string name="DREAM_DONT_ASK_AGAIN_OPT" did="DREAM_G360M_OPT_DONT_ASK_AGAIN">Don\'t ask again</string>
+    <string name="DREAM_CONNECT_BUTTON22" did="DREAM_G360M_BUTTON_CONNECT_22">Connect</string>
+    <string name="DREAM_CANT_SELECT_MORE_THAN_PD_ITEMS_TPOP" did="DREAM_G360M_TPOP_CANT_SELECT_MORE_THAN_PD_ITEMS">Can\'t select more than %d items.</string>
+    <string name="DREAM_CONNECTING_TO_SERVER_ING" did="DREAM_G360M_POP_CONNECTING_TO_SERVER_ING">Connecting to server\u2026</string>
+    <string name="DREAM_FILE_CORRUPT_OR_NOT_SUPPORTED_TPOP" did="DREAM_G360M_TPOP_FILE_CORRUPT_OR_NOT_SUPPORTED">File corrupt or not supported.</string>
+    <string name="DREAM_DELETE_PD_VIDEOS_Q" did="DREAM_G360M_POP_DELETE_PD_VIDEOS_Q">Delete %d videos?</string>
+    <string name="DREAM_COULDNT_SEND_MESSAGE_TRY_AGAIN_TPOP" did="DREAM_G360M_TPOP_COULDNT_SEND_MESSAGE_TRY_AGAIN">Couldn\'t send message. Try again.</string>
+    <!-- 2017. 2. 11 -->
+    <string name="SS_MOTION_LOCK_HEADER" did="IDS_BM_HEADER_MOTION_LOCK">Motion lock</string>
+    <string name="SS_FREE_M_STORAGE_USAGE_LC" did="IDS_MF_BODY_FREE_M_STORAGE_USAGE_LC">free</string>
+    <string name="SS_NEW_M_ALBUM_ABB" did="IDS_GALLERY_BODY_NEW_M_ALBUM_ABB">New</string>
+    <string name="DREAM_CANT_INCLUDE_OR_IN_TITLE_TPOP" did="DREAM_G360M_TPOP_CANT_INCLUDE_OR_IN_TITLE">Can\'t include &lt; or &gt; in title.</string>
+    <string name="SS_RESIZE_VIDEO_HEADER_ABB" did="IDS_G360M_HEADER_RESIZE_VIDEO_ABB">Resize video</string>
+    <string name="TS_PREVIEW_NOT_SUPPORTED_NPBODY" did="IDS_G360M_NPBODY_PREVIEW_NOT_SUPPORTED">Preview not supported</string>
+    <string name="SS_UNABLE_TO_CONNECT_TO_YOUR_SAMSUNG_GEAR_360_TWO_SAMSUNG_GEAR_360_APPS_ARE_INSTALLED_C_N_N_SAMSUNG_GEAR_360_MANAGER_N_N_SAMSUNG_GEAR_360_HNEW_MSG" did="IDS_G360M_POP_UNABLE_TO_CONNECT_TO_YOUR_SAMSUNG_GEAR_360_TWO_SAMSUNG_GEAR_360_APPS_ARE_INSTALLED_C_N_N_SAMSUNG_GEAR_360_MANAGER_N_N_SAMSUNG_GEAR_360_HNEW_MSG">Unable to connect to your Samsung Gear 360. Two Samsung Gear 360 apps are installed:\n\n- Samsung Gear 360 Manager\n\n- Samsung Gear 360 (new)\n\nDelete one and try connecting again.\n\nNote: The new Samsung Gear 360 app supports many new features, except for using NFC tags via your Gear 360.</string>
+    <string name="SS_UNABLE_TO_OPEN_GEAR_360_MANAGER_TAP_SETTINGS_GO_TO_APP_INFO_PERMISSIONS_MSG_JPN" did="IDS_G360M_POP_UNABLE_TO_OPEN_GEAR_360_MANAGER_TAP_SETTINGS_GO_TO_APP_INFO_PERMISSIONS_MSG_JPN">Unable to open Gear 360 Manager. Tap SETTINGS, go to App info &gt; Permissions, then allow the following permissions and try again:</string>
+    <string name="TS_PREPARING_TO_RECORD_VIDEO_PLEASE_WAIT_ING_TPOP" did="IDS_G360M_TPOP_PREPARING_TO_RECORD_VIDEO_PLEASE_WAIT_ING">Preparing to record video. Please wait\u2026</string>
+    <string name="TS_PREPARING_TO_TAKE_PICTURE_PLEASE_WAIT_ING_TPOP" did="IDS_G360M_TPOP_PREPARING_TO_TAKE_PICTURE_PLEASE_WAIT_ING">Preparing to take picture. Please wait\u2026</string>
+    <string name="WS_1_SECOND_ABB" did="WDS_G360M_BODY_1_SECOND_ABB">1 second</string>
+    <string name="WS_PD_SECONDS_ABB2" did="WDS_G360M_BODY_PD_SECONDS_ABB2">%d seconds</string>
+    <string name="WS_GEAR_360_HEADER" did="WDS_G360M_HEADER_GEAR_360">Gear 360</string>
+    <string name="WS_LENS_MBODY" did="WDS_G360M_MBODY_LENS">Lens</string>
+    <string name="WS_PHOTO_MBODY_ABB" did="WDS_G360M_MBODY_PHOTO_ABB">Photo</string>
+    <string name="WS_PICTURE_SIZE_MBODY" did="WDS_G360M_MBODY_PICTURE_SIZE">Picture size</string>
+    <string name="WS_TIME_LAPSE_MBODY_ABB" did="WDS_G360M_MBODY_TIME_LAPSE_ABB">Time lapse</string>
+    <string name="WS_VIDEO_MBODY_ABB" did="WDS_G360M_MBODY_VIDEO_ABB">Video</string>
+    <string name="WS_A_LENS_OR_SENSOR_ERROR_HAS_OCCURRED" did="WDS_G360M_POP_A_LENS_OR_SENSOR_ERROR_HAS_OCCURRED">A lens or sensor error has occurred.</string>
+    <string name="WS_THE_SD_CARD_IS_CURRENTLY_NOT_COMPATIBLE_WITH_YOUR_GEAR_360_BACK_UP_ANY_FILES_ON_THE_SD_CARD_MSG" did="WDS_G360M_POP_THE_SD_CARD_IS_CURRENTLY_NOT_COMPATIBLE_WITH_YOUR_GEAR_360_BACK_UP_ANY_FILES_ON_THE_SD_CARD_MSG">The SD card is currently not compatible with your Gear 360. Back up any files on the SD card, format the SD card, then try again.</string>
+    <string name="WS_UNABLE_TO_RECORD_VIDEOS_INSERT_AN_SD_CARD_INTO_YOUR_GEAR_360_THEN_TRY_AGAIN" did="WDS_G360M_POP_UNABLE_TO_RECORD_VIDEOS_INSERT_AN_SD_CARD_INTO_YOUR_GEAR_360_THEN_TRY_AGAIN">Unable to record videos. Insert an SD card into your Gear 360, then try again.</string>
+    <string name="WS_UNABLE_TO_RECORD_VIDEOS_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_360_STORAGE" did="WDS_G360M_POP_UNABLE_TO_RECORD_VIDEOS_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_360_STORAGE">Unable to record videos. There is not enough space in your Gear 360 storage.</string>
+    <string name="WS_UNABLE_TO_TAKE_PHOTOS_INSERT_AN_SD_CARD_INTO_YOUR_GEAR_360_THEN_TRY_AGAIN" did="WDS_G360M_POP_UNABLE_TO_TAKE_PHOTOS_INSERT_AN_SD_CARD_INTO_YOUR_GEAR_360_THEN_TRY_AGAIN">Unable to take photos. Insert an SD card into your Gear 360, then try again.</string>
+    <string name="WS_UNABLE_TO_TAKE_PHOTOS_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_360_STORAGE" did="WDS_G360M_POP_UNABLE_TO_TAKE_PHOTOS_THERE_IS_NOT_ENOUGH_SPACE_IN_YOUR_GEAR_360_STORAGE">Unable to take photos. There is not enough space in your Gear 360 storage.</string>
+    <string name="WS_DUAL_LENS_SBODY_ABB" did="WDS_G360M_SBODY_DUAL_LENS_ABB">Dual lens</string>
+    <!-- 2017. 2. 13 -->
+    <string name="DREAM_RECORDING_TIME_M_VIDEO_PHEADER" did="DREAM_G360M_PHEADER_RECORDING_TIME_M_VIDEO">Recording time</string>
+    <string name="DREAM_TAKE_HIGH_DYNAMIC_RANGE_PICTURES_IN_SINGLE_OR_DUAL_H360_LENS_MODE_HDR_PICTURES_ARE_MADE_BY_COMBINING_MULTIPLE_PICTURES_MSG" did="DREAM_G360M_BODY_TAKE_HIGH_DYNAMIC_RANGE_PICTURES_IN_SINGLE_OR_DUAL_H360_LENS_MODE_HDR_PICTURES_ARE_MADE_BY_COMBINING_MULTIPLE_PICTURES_MSG">Take high dynamic range pictures in single or dual (360°) lens mode. HDR pictures are made by combining multiple pictures of the same scene to produce rich details.</string>
+    <string name="DREAM_ISO_SENSITIVITY_TMBODY" did="DREAM_G360M_TMBODY_ISO_SENSITIVITY">ISO sensitivity</string>
+    <string name="DREAM_AUTOMATICALLY_REMOVE_WIND_NOISE_FROM_YOUR_VIDEOS_SBODY" did="DREAM_G360M_SBODY_AUTOMATICALLY_REMOVE_WIND_NOISE_FROM_YOUR_VIDEOS">Automatically remove wind noise from your videos.</string>
+    <string name="DREAM_ATTACH_EMBED_AND_STORE_GEOGRAPHICAL_LOCATION_DATA_WITHIN_EACH_PICTURE_AND_VIDEO_SBODY" did="DREAM_G360M_SBODY_ATTACH_EMBED_AND_STORE_GEOGRAPHICAL_LOCATION_DATA_WITHIN_EACH_PICTURE_AND_VIDEO">Attach, embed, and store geographical location data within each picture and video.</string>
+    <string name="DREAM_SELECT_WHICH_LENS_TO_SHOW_IN_THE_CENTER_OF_THE_PREVIEW" did="DREAM_G360M_BODY_SELECT_WHICH_LENS_TO_SHOW_IN_THE_CENTER_OF_THE_PREVIEW">Select which lens to show in the center of the preview.</string>
+    <string name="DREAM_TAKE_360_OR_180_PICTURES_AT_CERTAIN_INTERVALS_THEN_COMBINE_THEM_TO_MAKE_SMOOTH_TIME_LAPSE_VIDEOS" did="DREAM_G360M_BODY_TAKE_360_OR_180_PICTURES_AT_CERTAIN_INTERVALS_THEN_COMBINE_THEM_TO_MAKE_SMOOTH_TIME_LAPSE_VIDEOS">Take 360° or 180° pictures at certain intervals, then combine them to make smooth time lapse videos.</string>
+    <string name="DREAM_SAVE_SPACE_BY_RECORDING_360_OR_180_VIDEOS_FOR_A_CERTAIN_AMOUNT_OF_TIME_THEN_CONTINUING_TO_RECORD_THE_VIDEO_BY_OVERWRITING_MSG" did="DREAM_G360M_BODY_SAVE_SPACE_BY_RECORDING_360_OR_180_VIDEOS_FOR_A_CERTAIN_AMOUNT_OF_TIME_THEN_CONTINUING_TO_RECORD_THE_VIDEO_BY_OVERWRITING_MSG">Save space by recording 360° or 180° videos for a certain amount of time, then continuing to record the video by overwriting your recording from the start.</string>
+    <string name="DREAM_DOUBLE_TAP_TO_COLLAPSE_LIST_TBBODY" did="DREAM_G360M_TBBODY_DOUBLE_TAP_TO_COLLAPSE_LIST">Double tap to collapse list.</string>
+    <string name="DREAM_DOUBLE_TAP_TO_SELECT_ALL_TBBODY" did="DREAM_G360M_TBBODY_DOUBLE_TAP_TO_SELECT_ALL">Double tap to select all.</string>
+    <string name="DREAM_DOUBLE_TAP_TO_DESELECT_ALL_TBBODY" did="DREAM_G360M_TBBODY_DOUBLE_TAP_TO_DESELECT_ALL">Double tap to deselect all.</string>
+    <string name="DREAM_SLIDER_TBOPT" did="DREAM_G360M_TBOPT_SLIDER">Slider</string>
+    <!-- 2017. 2. 15 -->
+    <string name="SS_PAIRED_DEVICES" did="IDS_BT_BODY_PAIRED_DEVICES">Paired devices</string>
+    <string name="SS_PAIRED_DEVICES_SHEADER" did="IDS_WMGR_SHEADER_PAIRED_DEVICES">PAIRED DEVICES</string>
+    <string name="DREAM_DEFAULT_LENS_VIEW_TMBODY" did="DREAM_G360M_TMBODY_DEFAULT_LENS_VIEW">Default lens view</string>
+    <string name="DREAM_ONLY_ON_COMPATIBLE_PHONES" did="DREAM_G360M_BODY_ONLY_ON_COMPATIBLE_PHONES">Only on compatible phones.</string>
+    <string name="DREAM_TAKE_A_SERIES_OF_PICTURES_AT_PRESET_TIME_INTERVALS_THEN_COMBINE_THEM_TO_CREATE_360_OR_180_TIME_LAPSE_VIDEOS" did="DREAM_G360M_BODY_TAKE_A_SERIES_OF_PICTURES_AT_PRESET_TIME_INTERVALS_THEN_COMBINE_THEM_TO_CREATE_360_OR_180_TIME_LAPSE_VIDEOS">Take a series of pictures at preset time intervals, then combine them to create 360° or 180° time lapse videos.</string>
+    <string name="DREAM_TAKE_MULTIPLE_PICTURES_AT_DIFFERENT_EXPOSURES_AND_COMBINE_THEM_TO_CREATE_BRIGHTER_360_OR_180_IMAGES" did="DREAM_G360M_BODY_TAKE_MULTIPLE_PICTURES_AT_DIFFERENT_EXPOSURES_AND_COMBINE_THEM_TO_CREATE_BRIGHTER_360_OR_180_IMAGES">Take multiple pictures at different exposures and combine them to create brighter 360° or 180° images.</string>
+    <string name="DREAM_CONTINUOUSLY_RECORD_360_OR_180_VIDEOS_WITHOUT_USING_UP_TOO_MUCH_STORAGE_SPACE_YOUR_GEAR_360_WILL_RECORD_VIDEOS_FOR_THE_TIME_LIMIT_YOU_SET_MSG" did="DREAM_G360M_BODY_CONTINUOUSLY_RECORD_360_OR_180_VIDEOS_WITHOUT_USING_UP_TOO_MUCH_STORAGE_SPACE_YOUR_GEAR_360_WILL_RECORD_VIDEOS_FOR_THE_TIME_LIMIT_YOU_SET_MSG">Continuously record 360° or 180° videos without using up too much storage space. Your Gear 360 will record videos for the time limit you set. After you reach the limit, the Gear 360 will start recording over what you\'ve just recorded from the beginning. This feature is great for catching actions that require multiple takes, like skateboard tricks.</string>
+    <string name="DREAM_SELECT_WHICH_LENSS_VIEW_WILL_APPEAR_AT_THE_CENTER_OF_YOUR_360_PICTURES_AND_VIDEOS" did="DREAM_G360M_BODY_SELECT_WHICH_LENSS_VIEW_WILL_APPEAR_AT_THE_CENTER_OF_YOUR_360_PICTURES_AND_VIDEOS">Select which lens\'s view will appear at the center of your 360° pictures and videos.</string>
+    <string name="DREAM_CONNECTING_YOUR_GEAR_360_TMBODY" did="DREAM_G360M_TMBODY_CONNECTING_YOUR_GEAR_360">Connecting your Gear 360</string>
+    <!-- 2017. 2. 17 -->
+    <string name="DREAM_LANDSCAPE_HDR" did="DREAM_G360M_BODY_LANDSCAPE_HDR">Landscape HDR</string>
+    <string name="DREAM_COMMON_HEADER" did="DREAM_G360M_HEADER_COMMON">Common</string>
+    <string name="DREAM_STATUS_SCREEN_ABB" did="DREAM_G360M_BODY_STATUS_SCREEN_ABB">Status screen</string>
+    <string name="DREAM_1_SEC_OPT" did="DREAM_G360M_OPT_1_SEC">1 sec</string>
+    <string name="DREAM_CHANGE_DEFAULT_STORAGE_LOCATION_Q_PHEADER" did="DREAM_G360M_PHEADER_CHANGE_DEFAULT_STORAGE_LOCATION_Q">Change default storage location?</string>
+    <string name="DREAM_YOU_CAN_USE_THE_SD_CARD_IN_YOUR_PHONE_AS_THE_DEFAULT_STORAGE_LOCATION_FOR_YOUR_GEAR_360_PICTURES_AND_VIDEOS_MSG" did="DREAM_G360M_POP_YOU_CAN_USE_THE_SD_CARD_IN_YOUR_PHONE_AS_THE_DEFAULT_STORAGE_LOCATION_FOR_YOUR_GEAR_360_PICTURES_AND_VIDEOS_MSG">You can use the SD card in your phone as the default storage location for your Gear 360 pictures and videos.\n\nTo change the default storage location later, go to Gallery settings &gt; Storage location.</string>
+    <string name="DREAM_CHANGE_BUTTON22" did="DREAM_G360M_BUTTON_CHANGE_22">Change</string>
+    <string name="DREAM_ALL_OPT" did="DREAM_G360M_OPT_ALL">All</string>
+    <string name="DREAM_LIVE_BROADCAST_SETTINGS_HEADER" did="DREAM_G360M_HEADER_LIVE_BROADCAST_SETTINGS">Live broadcast settings</string>
+    <string name="DREAM_SINGLE_LENS_HEADER" did="DREAM_G360M_HEADER_SINGLE_LENS">Single lens</string>
+    <string name="DREAM_DUAL_LENS_HEADER" did="DREAM_G360M_HEADER_DUAL_LENS">Dual lens</string>
+    <string name="DREAM_LINK_REQUIRED_TO_ACCESS_TMBODY" did="DREAM_G360M_TMBODY_LINK_REQUIRED_TO_ACCESS">Link required to access</string>
+    <string name="DREAM_ONLY_SHARE_YOUR_LINK_WITH_THE_PEOPLE_YOU_WANT_TO_SEE_YOUR_BROADCAST_SBODY" did="DREAM_G360M_SBODY_ONLY_SHARE_YOUR_LINK_WITH_THE_PEOPLE_YOU_WANT_TO_SEE_YOUR_BROADCAST">Only share your link with the people you want to see your broadcast.</string>
+    <string name="DREAM_PUBLIC_TMBODY" did="DREAM_G360M_TMBODY_PUBLIC">Public</string>
+    <string name="DREAM_MAKE_YOUR_VIDEO_AVAILABLE_ON_YOUTUBE_FOR_EVERYONE_TO_WATCH_SBODY" did="DREAM_G360M_SBODY_MAKE_YOUR_VIDEO_AVAILABLE_ON_YOUTUBE_FOR_EVERYONE_TO_WATCH">Make your video available on YouTube for everyone to watch.</string>
+    <string name="DREAM_NO_LOCATION_INFORMATION" did="DREAM_G360M_BODY_NO_LOCATION_INFORMATION">No location information</string>
+    <string name="DREAM_DETAILS_BUTTON9" did="DREAM_G360M_BUTTON_DETAILS_9">Details</string>
+    <string name="DREAM_ALLOW_THE_GEAR_360_APP_TO_ACCESS_YOUR_PS_Q" did="DREAM_G360M_POP_ALLOW_THE_GEAR_360_APP_TO_ACCESS_YOUR_PS_Q">Allow the Gear 360 App to access your %s?</string>
+    <string name="DREAM_BROADCAST_YOURSELF_LIVE_HEADER" did="DREAM_G360M_HEADER_BROADCAST_YOURSELF_LIVE">Broadcast yourself live</string>
+    <string name="DREAM_REDUCE_WIND_NOISE_TMBODY" did="DREAM_G360M_TMBODY_REDUCE_WIND_NOISE">Reduce wind noise</string>
+    <string name="DREAM_SHARPNESS_TMBODY" did="DREAM_G360M_TMBODY_SHARPNESS">Sharpness</string>
+    <string name="DREAM_PDP_NOT_CHARGING_SBODY" did="DREAM_G360M_SBODY_PDP_NOT_CHARGING">%d%%/Not charging</string>
+    <string name="DREAM_PDP_CHARGING_SBODY" did="DREAM_G360M_SBODY_PDP_CHARGING">%d%%/Charging</string>
+    <string name="DREAM_NO_GEAR_360S_FOUND_NPBODY" did="DREAM_G360M_NPBODY_NO_GEAR_360S_FOUND">No Gear 360s found</string>
+    <string name="DREAM_PS_GB_FREE_SBODY" did="DREAM_G360M_SBODY_PS_GB_FREE">%s GB free</string>
+    <string name="DREAM_GALLERY_HEADER" did="DREAM_G360M_HEADER_GALLERY">Gallery</string>
+    <string name="DREAM_CAMERA_BUTTON9" did="DREAM_G360M_BUTTON_CAMERA_9">Camera</string>
+    <string name="DREAM_GEAR_360_TAB_ABB" did="DREAM_G360M_TAB_GEAR_360_ABB">Gear 360</string>
+    <string name="DREAM_PHONE_TAB_ABB" did="DREAM_G360M_TAB_PHONE_ABB">Phone</string>
+    <string name="DREAM_CAMERA_TMBODY" did="DREAM_G360M_TMBODY_CAMERA">Camera</string>
+    <string name="DREAM_GALLERY_TMBODY" did="DREAM_G360M_TMBODY_GALLERY">Gallery</string>
+    <string name="DREAM_LIVE_BROADCAST_TMBODY" did="DREAM_G360M_TMBODY_LIVE_BROADCAST">Live broadcast</string>
+    <string name="DREAM_CAMERA_SETTINGS_HEADER" did="DREAM_G360M_HEADER_CAMERA_SETTINGS">Camera settings</string>
+    <string name="DREAM_VIDEO_SIZE_TMBODY" did="DREAM_G360M_TMBODY_VIDEO_SIZE">Video size</string>
+    <string name="DREAM_PHOTO_SIZE_TMBODY" did="DREAM_G360M_TMBODY_PHOTO_SIZE">Photo size</string>
+    <string name="DREAM_LOCATION_TAGS_TMBODY" did="DREAM_G360M_TMBODY_LOCATION_TAGS">Location tags</string>
+    <string name="DREAM_TIMER_TMBODY" did="DREAM_G360M_TMBODY_TIMER">Timer</string>
+    <string name="DREAM_PD_SECS_OPT" did="DREAM_G360M_OPT_PD_SECS">%d secs</string>
+    <string name="DREAM_GEAR_360_APP_HEADER" did="DREAM_G360M_HEADER_GEAR_360_APP">Gear 360 App</string>
+    <string name="DREAM_SHARE_OPT" did="DREAM_G360M_OPT_SHARE">Share</string>
+    <string name="DREAM_VIEW_ON_GEAR_VR_OPT_ABB" did="DREAM_G360M_OPT_VIEW_ON_GEAR_VR_ABB">View on Gear VR</string>
+    <string name="DREAM_SETTINGS_OPT_ABB3" did="DREAM_G360M_OPT_SETTINGS_ABB3">Settings</string>
+    <string name="DREAM_YOU_CAN_USE_THE_SD_CARD_IN_YOUR_TABLET_AS_THE_DEFAULT_STORAGE_LOCATION_FOR_YOUR_GEAR_360_PICTURES_AND_VIDEOS_MSG" did="DREAM_G360M_POP_YOU_CAN_USE_THE_SD_CARD_IN_YOUR_TABLET_AS_THE_DEFAULT_STORAGE_LOCATION_FOR_YOUR_GEAR_360_PICTURES_AND_VIDEOS_MSG">You can use the SD card in your tablet as the default storage location for your Gear 360 pictures and videos.\n\nTo change the default storage location later, go to Gallery settings &gt; Storage location.</string>
+    <string name="DREAM_EDIT_OPT" did="DREAM_G360M_OPT_EDIT">Edit</string>
+    <string name="DREAM_THE_LATEST_VERSION_IS_ALREADY_INSTALLED" did="DREAM_G360M_POP_THE_LATEST_VERSION_IS_ALREADY_INSTALLED">The latest version is already installed.</string>
+    <string name="DREAM_PRIVACY_TMBODY" did="DREAM_G360M_TMBODY_PRIVACY">Privacy</string>
+    <string name="DREAM_SORT_BY_OPT" did="DREAM_G360M_OPT_SORT_BY">Sort by</string>
+    <!-- 2017. 2. 19 -->
+    <string name="DREAM_WELCOME_HEADER" did="DREAM_IME_HEADER_WELCOME">Welcome</string>
+    <!-- 2017. 2. 20 -->
+    <string name="DREAM_CHECK_OUT_YOUR_360_BROADCAST_ON_A_SAMSUNG_GEAR_VR" did="DREAM_G360M_BODY_CHECK_OUT_YOUR_360_BROADCAST_ON_A_SAMSUNG_GEAR_VR">Check out your 360° broadcast on a Samsung Gear VR.</string>
+    <string name="DREAM_CHECK_OUT_YOUR_360_BROADCAST_ON_FACEBOOK_LONGER_BROADCASTS_MIGHT_TAKE_MORE_TIME_TO_UPLOAD" did="DREAM_G360M_BODY_CHECK_OUT_YOUR_360_BROADCAST_ON_FACEBOOK_LONGER_BROADCASTS_MIGHT_TAKE_MORE_TIME_TO_UPLOAD">Check out your 360° broadcast on Facebook. Longer broadcasts might take more time to upload.</string>
+    <string name="DREAM_FACEBOOK_ACCOUNT" did="DREAM_G360M_BODY_FACEBOOK_ACCOUNT">Facebook account</string>
+    <string name="DREAM_HOLD_THE_GEAR_360_STEADY_WHILE_TAKING_PICTURES" did="DREAM_G360M_BODY_HOLD_THE_GEAR_360_STEADY_WHILE_TAKING_PICTURES">Hold the Gear 360 steady while taking pictures.</string>
+    <string name="DREAM_ONLY_ME" did="DREAM_G360M_BODY_ONLY_ME">Only me</string>
+    <string name="DREAM_STAND_BY_FOR_BROADCAST" did="DREAM_G360M_BODY_STAND_BY_FOR_BROADCAST">Stand by for broadcast.</string>
+    <string name="DREAM_STRAP_ON_A_GEAR_VR_TO_RELIVE_YOUR_360_VIDEOS_IN_STUNNING_VIRTUAL_REALITY" did="DREAM_G360M_BODY_STRAP_ON_A_GEAR_VR_TO_RELIVE_YOUR_360_VIDEOS_IN_STUNNING_VIRTUAL_REALITY">Strap on a Gear VR to relive your 360° videos in stunning virtual reality.</string>
+    <string name="DREAM_THE_VIDEO_STREAM_WAS_INTERRUPTED_N_NTHE_STREAMER_STOPPED_STREAMING" did="DREAM_G360M_BODY_THE_VIDEO_STREAM_WAS_INTERRUPTED_N_NTHE_STREAMER_STOPPED_STREAMING">The video stream was interrupted.\n\nThe streamer stopped streaming.</string>
+    <string name="DREAM_THIS_LIVE_EVENT_IS_OVER_N_NTHANKS_FOR_WATCHING_E" did="DREAM_G360M_BODY_THIS_LIVE_EVENT_IS_OVER_N_NTHANKS_FOR_WATCHING_E">This live event is over.\n\nThanks for watching!</string>
+    <string name="DREAM_TURN_ON_YOUR_GEAR_360_TO_MAKE_IT_APPEAR_HERE" did="DREAM_G360M_BODY_TURN_ON_YOUR_GEAR_360_TO_MAKE_IT_APPEAR_HERE">Turn on your Gear 360 to make it appear here.</string>
+    <string name="DREAM_CHECK_FOR_UPDATES_BUTTON22" did="DREAM_G360M_BUTTON_CHECK_FOR_UPDATES_22">Check for updates</string>
+    <string name="DREAM_RECORD_VIDEO_BUTTON22" did="DREAM_G360M_BUTTON_RECORD_VIDEO_22">Record video</string>
+    <string name="DREAM_RENAME_BUTTON22" did="DREAM_G360M_BUTTON_RENAME_22">Rename</string>
+    <string name="DREAM_REPLACE_BUTTON22" did="DREAM_G360M_BUTTON_REPLACE_22">Replace</string>
+    <string name="DREAM_START_BROADCAST_BUTTON22" did="DREAM_G360M_BUTTON_START_BROADCAST_22">Start broadcast</string>
+    <string name="DREAM_TURN_OFF_BUTTON22" did="DREAM_G360M_BUTTON_TURN_OFF_22">Turn off</string>
+    <string name="DREAM_ABOUT_GEAR_360_APP_HEADER" did="DREAM_G360M_HEADER_ABOUT_GEAR_360_APP">About Gear 360 App</string>
+    <string name="DREAM_DISCONNECTED_FROM_GEAR_360_HEADER" did="DREAM_G360M_HEADER_DISCONNECTED_FROM_GEAR_360">Disconnected from Gear 360</string>
+    <string name="DREAM_RESET_AND_FORMAT_HEADER" did="DREAM_G360M_HEADER_RESET_AND_FORMAT">Reset and format</string>
+    <string name="DREAM_SAMSUNG_GEAR_360_APP_HEADER" did="DREAM_G360M_HEADER_SAMSUNG_GEAR_360_APP">Samsung Gear 360 App</string>
+    <string name="DREAM_SOCIAL_NETWORK_SETTINGS_HEADER" did="DREAM_G360M_HEADER_SOCIAL_NETWORK_SETTINGS">Social network settings</string>
+    <string name="DREAM_WELCOME_TO_LIVE_BROADCAST_HEADER" did="DREAM_G360M_HEADER_WELCOME_TO_LIVE_BROADCAST">Welcome to Live broadcast</string>
+    <string name="DREAM_SELECT_YOUR_GEAR_360_NPBODY" did="DREAM_G360M_NPBODY_SELECT_YOUR_GEAR_360">Select your Gear 360</string>
+    <string name="DREAM_APPLY_TO_ALL_ITEMS_OPT" did="DREAM_G360M_OPT_APPLY_TO_ALL_ITEMS">Apply to all items</string>
+    <string name="DREAM_CONTACT_US_OPT_ABB2" did="DREAM_G360M_OPT_CONTACT_US_ABB2">Contact us</string>
+    <string name="DREAM_COPY_TO_PHONE_OPT_ABB" did="DREAM_G360M_OPT_COPY_TO_PHONE_ABB">Copy to phone</string>
+    <string name="DREAM_COPY_TO_SD_CARD_OPT_ABB" did="DREAM_G360M_OPT_COPY_TO_SD_CARD_ABB">Copy to SD card</string>
+    <string name="DREAM_COPY_TO_TABLET_OPT_ABB" did="DREAM_G360M_OPT_COPY_TO_TABLET_ABB">Copy to tablet</string>
+    <string name="DREAM_HELP_OPT" did="DREAM_G360M_OPT_HELP">Help</string>
+    <string name="DREAM_MOVE_TO_PHONE_OPT_ABB" did="DREAM_G360M_OPT_MOVE_TO_PHONE_ABB">Move to phone</string>
+    <string name="DREAM_MOVE_TO_PS_OPT_ABB" did="DREAM_G360M_OPT_MOVE_TO_PS_ABB">Move to %s</string>
+    <string name="DREAM_MOVE_TO_SD_CARD_OPT_ABB" did="DREAM_G360M_OPT_MOVE_TO_SD_CARD_ABB">Move to SD card</string>
+    <string name="DREAM_MOVE_TO_TABLET_OPT_ABB" did="DREAM_G360M_OPT_MOVE_TO_TABLET_ABB">Move to tablet</string>
+    <string name="DREAM_ONLY_ME_OPT" did="DREAM_G360M_OPT_ONLY_ME">Only me</string>
+    <string name="DREAM_FILE_NAME_ALREADY_IN_USE_PHEADER" did="DREAM_G360M_PHEADER_FILE_NAME_ALREADY_IN_USE">File name already in use</string>
+    <string name="DREAM_IMPROVE_LOCATION_ACCURACY_Q_PHEADER" did="DREAM_G360M_PHEADER_IMPROVE_LOCATION_ACCURACY_Q">Improve location accuracy?</string>
+    <string name="DREAM_TURN_ON_WI_FI_DIRECT_Q_PHEADER" did="DREAM_G360M_PHEADER_TURN_ON_WI_FI_DIRECT_Q">Turn on Wi-Fi Direct?</string>
+    <string name="DREAM_DELETE_ALBUM_AND_THE_PD_ITEMS_IN_IT_Q" did="DREAM_G360M_POP_DELETE_ALBUM_AND_THE_PD_ITEMS_IN_IT_Q">Delete album and the %d items in it?</string>
+    <string name="DREAM_DELETE_ALBUM_AND_THE_PD_PICTURES_IN_IT_Q" did="DREAM_G360M_POP_DELETE_ALBUM_AND_THE_PD_PICTURES_IN_IT_Q">Delete album and the %d pictures in it?</string>
+    <string name="DREAM_DELETE_ALBUM_AND_THE_PD_VIDEOS_IN_IT_Q" did="DREAM_G360M_POP_DELETE_ALBUM_AND_THE_PD_VIDEOS_IN_IT_Q">Delete album and the %d videos in it?</string>
+    <string name="DREAM_DELETE_ALBUM_AND_THE_PICTURE_IN_IT_Q" did="DREAM_G360M_POP_DELETE_ALBUM_AND_THE_PICTURE_IN_IT_Q">Delete album and the picture in it?</string>
+    <string name="DREAM_DELETE_ALBUM_AND_THE_VIDEO_IN_IT_Q" did="DREAM_G360M_POP_DELETE_ALBUM_AND_THE_VIDEO_IN_IT_Q">Delete album and the video in it?</string>
+    <string name="DREAM_DELETE_BROADCAST_Q" did="DREAM_G360M_POP_DELETE_BROADCAST_Q">Delete broadcast?</string>
+    <string name="DREAM_DELETE_P1SD_ALBUMS_AND_THE_P2SD_ITEMS_IN_THEM_Q" did="DREAM_G360M_POP_DELETE_P1SD_ALBUMS_AND_THE_P2SD_ITEMS_IN_THEM_Q">Delete %1$d albums and the %2$d items in them?</string>
+    <string name="DREAM_DELETE_P1SD_ALBUMS_AND_THE_P2SD_PICTURES_IN_THEM_Q" did="DREAM_G360M_POP_DELETE_P1SD_ALBUMS_AND_THE_P2SD_PICTURES_IN_THEM_Q">Delete %1$d albums and the %2$d pictures in them?</string>
+    <string name="DREAM_DELETE_P1SD_ALBUMS_AND_THE_P2SD_VIDEOS_IN_THEM_Q" did="DREAM_G360M_POP_DELETE_P1SD_ALBUMS_AND_THE_P2SD_VIDEOS_IN_THEM_Q">Delete %1$d albums and the %2$d videos in them?</string>
+    <string name="DREAM_SAVE_YOUR_CHANGES_OR_DISCARD_THEM_Q" did="DREAM_G360M_POP_SAVE_YOUR_CHANGES_OR_DISCARD_THEM_Q">Save your changes or discard them?</string>
+    <string name="DREAM_SELECTING_ALL_ITEMS_ING" did="DREAM_G360M_POP_SELECTING_ALL_ITEMS_ING">Selecting all items\u2026</string>
+    <string name="DREAM_TO_CONNECT_TO_YOUR_GEAR_360_USING_WI_FI_DIRECT_MOBILE_HOTSPOT_WILL_BE_TURNED_OFF" did="DREAM_G360M_POP_TO_CONNECT_TO_YOUR_GEAR_360_USING_WI_FI_DIRECT_MOBILE_HOTSPOT_WILL_BE_TURNED_OFF">To connect to your Gear 360 using Wi-Fi Direct, Mobile hotspot will be turned off.</string>
+    <string name="DREAM_TO_OPEN_PS_TAP_SETTINGS_GO_TO_APP_INFO_PERMISSIONS_THEN_ALLOW_THE_FOLLOWING_PERMISSIONS_C" did="DREAM_G360M_POP_TO_OPEN_PS_TAP_SETTINGS_GO_TO_APP_INFO_PERMISSIONS_THEN_ALLOW_THE_FOLLOWING_PERMISSIONS_C">To open %s, tap SETTINGS, go to App info > Permissions, then allow the following permissions:</string>
+    <string name="DREAM_USE_GOOGLES_LOCATION_SERVICE_HELP_APPS_TO_FIND_YOUR_LOCATION_QUICKLY_WITHOUT_DRAINING_YOUR_BATTERY_ANONYMOUS_LOCATION_DATA_MSG" did="DREAM_G360M_POP_USE_GOOGLES_LOCATION_SERVICE_HELP_APPS_TO_FIND_YOUR_LOCATION_QUICKLY_WITHOUT_DRAINING_YOUR_BATTERY_ANONYMOUS_LOCATION_DATA_MSG">Use Google\'s location service help apps to find your location quickly without draining your battery. Anonymous location data will occasionally be sent to Google, even when no apps are running.</string>
+    <string name="DREAM_360_PICTURE_CAPTURED_TPOP" did="DREAM_G360M_TPOP_360_PICTURE_CAPTURED">360° picture captured.</string>
+    <string name="DREAM_COULDNT_DELETE_BROADCAST_TRY_AGAIN_TPOP" did="DREAM_G360M_TPOP_COULDNT_DELETE_BROADCAST_TRY_AGAIN">Couldn\'t delete broadcast. Try again.</string>
+    <string name="DREAM_DISCONNECTED_FROM_GEAR_360_TPOP" did="DREAM_G360M_TPOP_DISCONNECTED_FROM_GEAR_360">Disconnected from Gear 360.</string>
+    <string name="DREAM_ENTER_BROADCAST_TITLE_TPOP" did="DREAM_G360M_TPOP_ENTER_BROADCAST_TITLE">Enter broadcast title.</string>
+    <string name="DREAM_LIVE_BROADCAST_STOPPED_GEAR_360_OVERHEATING_RESUME_BROADCASTING_AFTER_IT_COOLS_DOWN_TPOP" did="DREAM_G360M_TPOP_LIVE_BROADCAST_STOPPED_GEAR_360_OVERHEATING_RESUME_BROADCASTING_AFTER_IT_COOLS_DOWN">Live broadcast stopped. Gear 360 overheating. Resume broadcasting after it cools down.</string>
+    <string name="DREAM_PICTURE_SAVED_IN_PS_TPOP" did="DREAM_G360M_TPOP_PICTURE_SAVED_IN_PS">Picture saved in %s.</string>
+    <string name="DREAM_RESETTING_GEAR_360_ING_TPOP" did="DREAM_G360M_TPOP_RESETTING_GEAR_360_ING">Resetting Gear 360\u2026</string>
+    <string name="DREAM_VIDEO_SAVED_IN_PS_TPOP" did="DREAM_G360M_TPOP_VIDEO_SAVED_IN_PS">Video saved in %s.</string>
+    <string name="DREAM_POWER_TBOPT" did="DREAM_SAC_TBOPT_POWER">Power</string>
+    <string name="DREAM_ENTER_MESSAGE_NPBODY" did="DREAM_EMAIL_NPBODY_ENTER_MESSAGE">Enter message</string>
+    <string name="MSS_UNLISTED_OPT" did="MIDS_LVB_OPT_UNLISTED">Unlisted</string>
+    <string name="DREAM_TWITTER_HEADER" did="DREAM_DAYL_HEADER_TWITTER">Twitter</string>
+    <string name="SS_FRIENDS_FACEBOOK" did="IDS_FB_BODY_FRIENDS">Friends</string>
+    <!-- 2017. 2. 22 -->
+    <string name="TS_ITEM_SAVED_TPOP" did="IDS_G360M_TPOP_ITEM_SAVED">Item saved.</string>
+    <string name="TS_ITEMS_SAVED_TPOP" did="IDS_G360M_TPOP_ITEMS_SAVED">Items saved.</string>
+    <string name="TS_PICTURE_SAVED_TPOP" did="IDS_GALLERY_TPOP_PICTURE_SAVED">Picture saved.</string>
+    <string name="TS_PICTURES_SAVED_TPOP" did="IDS_GALLERY_TPOP_PICTURES_SAVED">Pictures saved.</string>
+    <string name="MTS_VIDEO_SAVED_TPOP" did="MIDS_GC_TPOP_VIDEO_SAVED">Video saved.</string>
+    <string name="DREAM_NEW_GEAR_360_TAB_ABB" did="DREAM_G360M_TAB_NEW_GEAR_360_ABB">New Gear 360</string>
+    <string name="DREAM_SELECT_A_GEAR_360_BELOW_TO_CONNECT_IT_TO_YOUR_PHONE" did="DREAM_G360M_BODY_SELECT_A_GEAR_360_BELOW_TO_CONNECT_IT_TO_YOUR_PHONE">Select a Gear 360 below to connect it to your phone.</string>
+    <string name="DREAM_TURN_ON_YOUR_GEAR_360_THEN_PRESS_AND_HOLD_THE_CONNECT_KEY_TO_MAKE_YOUR_GEAR_360_APPEAR_HERE" did="DREAM_G360M_BODY_TURN_ON_YOUR_GEAR_360_THEN_PRESS_AND_HOLD_THE_CONNECT_KEY_TO_MAKE_YOUR_GEAR_360_APPEAR_HERE">Turn on your Gear 360, then press and hold the Connect key to make your Gear 360 appear here.</string>
+    <string name="DREAM_SELECT_A_GEAR_360_BELOW_TO_CONNECT_IT_TO_YOUR_TABLET" did="DREAM_G360M_BODY_SELECT_A_GEAR_360_BELOW_TO_CONNECT_IT_TO_YOUR_TABLET">Select a Gear 360 below to connect it to your tablet.</string>
+    <string name="DREAM_SET_THE_VOLUME_FOR_ALL_GEAR_360_SOUNDS_INCLUDING_SHUTTER_SYSTEM_AND_CONNECTION_SOUNDS" did="DREAM_G360M_BODY_SET_THE_VOLUME_FOR_ALL_GEAR_360_SOUNDS_INCLUDING_SHUTTER_SYSTEM_AND_CONNECTION_SOUNDS">Set the volume for all Gear 360 sounds, including shutter, system, and connection sounds.</string>
+    <!-- 2017. 2. 23 - for Chinese -->
+    <string name="SS_WHEN_ROAMING_ABROAD_YOU_CAN_ONLY_DOWNLOAD_UPDATE_VIA_WLAN_CONNECT_TO_WLAN_Q_CHN" did="IDS_FOTA_BODY_WHEN_ROAMING_ABROAD_YOU_CAN_ONLY_DOWNLOAD_UPDATE_VIA_WLAN_CONNECT_TO_WLAN_Q_CHN">When roaming abroad, you can only download update via WLAN. Connect to WLAN?</string>
+    <string name="SS_WLAN_NOT_AVAILABLE_TURN_ON_WLAN_OR_DISABLE_WLAN_ONLY_USING_MOBILE_NETWORKS_MAY_INCUR_ADDITIONAL_CHARGES_CHN" did="IDS_FOTA_BODY_WLAN_NOT_AVAILABLE_TURN_ON_WLAN_OR_DISABLE_WLAN_ONLY_USING_MOBILE_NETWORKS_MAY_INCUR_ADDITIONAL_CHARGES_CHN">WLAN not available. Turn on WLAN or disable WLAN only. Using mobile networks may incur additional charges.</string>
+    <string name="SS_WLAN_SETTINGS_CHN" did="IDS_FOTA_BODY_WLAN_SETTINGS_CHN">WLAN settings</string>
+    <string name="TS_WLAN_ONLY_MBODY_CHN" did="IDS_ST_MBODY_WLAN_ONLY_CHN">WLAN only</string>
+    <string name="SS_TO_ENABLE_LOCATION_TAGS_MAKE_SURE_THE_LOCATING_METHOD_IN_SETTINGS_PRIVACY_AND_SAFETY_LOCATION_IS_SET_TO_GPS_WLAN_AND_MOBILE_NETWORKS_OR_WLAN_AND_MOBILE_NETWORKS_CHN" did="IDS_CAM_POP_TO_ENABLE_LOCATION_TAGS_MAKE_SURE_THE_LOCATING_METHOD_IN_SETTINGS_PRIVACY_AND_SAFETY_LOCATION_IS_SET_TO_GPS_WLAN_AND_MOBILE_NETWORKS_OR_WLAN_AND_MOBILE_NETWORKS_CHN">To enable Location tags, make sure the Locating method in Settings &gt; Privacy and safety &gt; Location is set to GPS, WLAN, and mobile networks or WLAN and mobile networks.</string>
+    <string name="SS_WLAN_CHN" did="IDS_ST_BODY_WLAN_CHN">WLAN</string>
+    <string name="SS_TO_USE_LOCATION_TAGS_MAKE_SURE_LOCATING_METHOD_IS_SET_TO_GPS_WLAN_AND_MOBILE_NETWORKS_OR_WLAN_AND_MOBILE_NETWORKS_CHN" did="IDS_CAM_POP_TO_USE_LOCATION_TAGS_MAKE_SURE_LOCATING_METHOD_IS_SET_TO_GPS_WLAN_AND_MOBILE_NETWORKS_OR_WLAN_AND_MOBILE_NETWORKS_CHN">To use Location tags, make sure Locating method is set to GPS, WLAN, and mobile networks, or WLAN and mobile networks.</string>
+    <!-- 2017. 2. 24 -->
+    <string name="DREAM_SEND_BUTTON22" did="DREAM_G360M_BUTTON_SEND_22">Send</string>
+    <string name="DREAM_ALWAYS_OPT_ABB" did="DREAM_G360M_OPT_ALWAYS_ABB">Always</string>
+    <string name="DREAM_TERMS_AND_CONDITIONS_HEADER" did="DREAM_G360M_HEADER_TERMS_AND_CONDITIONS">Terms and Conditions</string>
+    <string name="DREAM_ENTER_PASSWORD_NPBODY" did="DREAM_G360M_NPBODY_ENTER_PASSWORD">Enter password</string>
+    <string name="DREAM_DELETE_BUTTON22" did="DREAM_G360M_BUTTON_DELETE_22">Delete</string>
+    <string name="DREAM_SIGN_IN_BUTTON22" did="DREAM_G360M_BUTTON_SIGN_IN_22">Sign in</string>
+    <string name="DREAM_NEXT_BUTTON22" did="DREAM_G360M_BUTTON_NEXT_22">Next</string>
+    <string name="DREAM_SELECT_BUTTON22" did="DREAM_G360M_BUTTON_SELECT_22">Select</string>
+    <string name="DREAM_GET_STARTED_BUTTON22" did="DREAM_G360M_BUTTON_GET_STARTED_22">Get started</string>
+    <string name="DREAM_ALWAYS_OPT" did="DREAM_G360M_OPT_ALWAYS">Always</string>
+    <string name="DREAM_FORGOT_YOUR_ID_OR_PASSWORD_Q" did="DREAM_G360M_BODY_FORGOT_YOUR_ID_OR_PASSWORD_Q">Forgot your ID or password?</string>
+    <string name="DREAM_VIDEOS_SAVED" did="DREAM_G360M_POP_VIDEOS_SAVED">Videos saved.</string>
+    <string name="DREAM_THIS_TIME_OPT" did="DREAM_G360M_OPT_THIS_TIME">This time</string>
+    <string name="DREAM_CANT_START_BROADCAST_PHEADER" did="DREAM_G360M_PHEADER_CANT_START_BROADCAST">Can\'t start broadcast</string>
+    <string name="DREAM_YOUR_ACCOUNT_HAS_BEEN_BLOCKED_BY_PS" did="DREAM_G360M_POP_YOUR_ACCOUNT_HAS_BEEN_BLOCKED_BY_PS">Your account has been blocked by %s.</string>
+    <string name="DREAM_I_AGREE_TO_THE_COLLECTION_AND_USE_OF_PERSONAL_INFORMATION_POLICY_OPT" did="DREAM_G360M_OPT_I_AGREE_TO_THE_COLLECTION_AND_USE_OF_PERSONAL_INFORMATION_POLICY">I agree to the Collection and Use of Personal Information policy.</string>
+    <string name="DREAM_HELP_BUTTON22" did="DREAM_G360M_BUTTON_HELP_22">Help</string>
+    <string name="DREAM_CONTACT_US_BUTTON22" did="DREAM_G360M_BUTTON_CONTACT_US_22">Contact us</string>
+    <string name="DREAM_VIEW_RESPONSES_TMBODY" did="DREAM_G360M_TMBODY_VIEW_RESPONSES">View responses</string>
+    <string name="DREAM_ENTER_ID_NPBODY" did="DREAM_G360M_NPBODY_ENTER_ID">Enter ID</string>
+    <string name="DREAM_THE_SYSTEM_LOG_DATA_FOR_A_PREVIOUS_ERROR_REPORT_IS_STILL_BEING_SENT_N_NTRY_AGAIN_LATER_OR_SEND_THIS_ERROR_REPORT_WITHOUT_SYSTEM_LOG_DATA" did="DREAM_G360M_POP_THE_SYSTEM_LOG_DATA_FOR_A_PREVIOUS_ERROR_REPORT_IS_STILL_BEING_SENT_N_NTRY_AGAIN_LATER_OR_SEND_THIS_ERROR_REPORT_WITHOUT_SYSTEM_LOG_DATA">The system log data for a previous error report is still being sent.\n\nTry again later or send this error report without system log data.</string>
+    <string name="DREAM_SOMETIMES_OPT_ABB" did="DREAM_G360M_OPT_SOMETIMES_ABB">Sometimes</string>
+    <string name="DREAM_PREPARING_ERROR_REPORT_ING_TPOP" did="DREAM_G360M_TPOP_PREPARING_ERROR_REPORT_ING">Preparing error report\u2026</string>
+    <string name="DREAM_CANT_SEND_ERROR_REPORT_NO_TEXT_ENTERED_TPOP" did="DREAM_G360M_TPOP_CANT_SEND_ERROR_REPORT_NO_TEXT_ENTERED">Can\'t send error report. No text entered.</string>
+    <string name="DREAM_CANT_SEND_ERROR_REPORT_PROBLEM_FREQUENCY_NOT_SELECTED_TPOP" did="DREAM_G360M_TPOP_CANT_SEND_ERROR_REPORT_PROBLEM_FREQUENCY_NOT_SELECTED">Can\'t send error report. Problem frequency not selected.</string>
+    <string name="DREAM_FEEDBACK_SENT_REPLY_WILL_BE_SENT_AS_SOON_AS_POSSIBLE_REPLY_MAY_TAKE_LONGER_IF_FEEDBACK_NOT_SENT_DURING_BUSINESS_HOURS_TPOP" did="DREAM_G360M_TPOP_FEEDBACK_SENT_REPLY_WILL_BE_SENT_AS_SOON_AS_POSSIBLE_REPLY_MAY_TAKE_LONGER_IF_FEEDBACK_NOT_SENT_DURING_BUSINESS_HOURS">Feedback sent. Reply will be sent as soon as possible. Reply may take longer if feedback not sent during business hours.</string>
+    <string name="DREAM_SENDING_ERROR_REPORT_ING_PHEADER" did="DREAM_G360M_PHEADER_SENDING_ERROR_REPORT_ING">Sending error report\u2026</string>
+    <string name="DREAM_YOUR_IPHONE_DOESNT_SUPPORT_THIS_APP" did="DREAM_G360M_POP_YOUR_IPHONE_DOESNT_SUPPORT_THIS_APP">Your iPhone doesn\'t support this app.</string>
+    <string name="DREAM_TAP_THE_LINKS_BELOW_AND_READ_THE_AGREEMENTS_CAREFULLY_BEFORE_AGREEING_TO_THEM" did="DREAM_G360M_BODY_TAP_THE_LINKS_BELOW_AND_READ_THE_AGREEMENTS_CAREFULLY_BEFORE_AGREEING_TO_THEM">Tap the links below and read the agreements carefully before agreeing to them.</string>
+    <string name="DREAM_I_AGREE_TO_THE_END_USER_LICENSE_AGREEMENT_OPT" did="DREAM_G360M_OPT_I_AGREE_TO_THE_END_USER_LICENSE_AGREEMENT">I agree to the End User License Agreement.</string>
+    <string name="DREAM_SHARE_YOUR_EXPERIENCES_HEADER" did="DREAM_G360M_HEADER_SHARE_YOUR_EXPERIENCES">Share your experiences</string>
+    <string name="DREAM_ASK_A_QUESTION_TMBODY" did="DREAM_G360M_TMBODY_ASK_A_QUESTION">Ask a question</string>
+    <string name="DREAM_REPORT_A_PROBLEM_TMBODY" did="DREAM_G360M_TMBODY_REPORT_A_PROBLEM">Report a problem</string>
+    <string name="DREAM_ASK_A_QUESTION_HEADER" did="DREAM_G360M_HEADER_ASK_A_QUESTION">Ask a question</string>
+    <string name="DREAM_REPORT_A_PROBLEM_HEADER" did="DREAM_G360M_HEADER_REPORT_A_PROBLEM">Report a problem</string>
+    <string name="DREAM_ENTER_YOUR_QUESTION_N_NFOR_EXAMPLE_C_HOW_DO_I_CONNECT_A_NEW_GEAR_360_Q" did="DREAM_G360M_BODY_ENTER_YOUR_QUESTION_N_NFOR_EXAMPLE_C_HOW_DO_I_CONNECT_A_NEW_GEAR_360_Q">Enter your question.\n\nFor example: How do I connect a new Gear 360?</string>
+    <string name="DREAM_ENTER_THE_DETAILS_OF_YOUR_PROBLEM_N_NFOR_EXAMPLE_C_I_CANT_CONNECT_TO_MY_GEAR_360_USING_BLUETOOTH_N_NTRY_TO_SEND_THE_SYSTEM_LOG_DATA_MSG" did="DREAM_G360M_BODY__ENTER_THE_DETAILS_OF_YOUR_PROBLEM_N_NFOR_EXAMPLE_C_I_CANT_CONNECT_TO_MY_GEAR_360_USING_BLUETOOTH_N_NTRY_TO_SEND_THE_SYSTEM_LOG_DATA_MSG">Enter the details of your problem.\n\nFor example: I can\'t connect to my Gear 360 using Bluetooth.\n\nTry to send the system log data within 3 minutes of the problem occurring.</string>
+    <string name="DREAM_DEVICE_INFORMATION_TMBODY" did="DREAM_G360M_TMBODY_DEVICE_INFORMATION">Device information</string>
+    <string name="DREAM_MODEL_NUMBER_TMBODY" did="DREAM_G360M_TMBODY_MODEL_NUMBER">Model number</string>
+    <string name="DREAM_VERSION_PS_SBODY" did="DREAM_G360M_SBODY_VERSION_PS">Version %s</string>
+    <string name="DREAM_SEND_A_SYSTEM_LOG_TO_HELP_US_SOLVE_YOUR_PROBLEM_QUICKLY_AND_ACCURATELY_SBODY" did="DREAM_G360M_SBODY_SEND_A_SYSTEM_LOG_TO_HELP_US_SOLVE_YOUR_PROBLEM_QUICKLY_AND_ACCURATELY">Send a system log to help us solve your problem quickly and accurately.</string>
+    <string name="DREAM_NO_RESPONSES_RECEIVED_NPBODY" did="DREAM_G360M_NPBODY_NO_RESPONSES_RECEIVED">No responses received</string>
+    <string name="DREAM_RESPONSES_TO_YOUR_QUESTIONS_AND_ERROR_REPORTS_WILL_APPEAR_HERE" did="DREAM_G360M_BODY_RESPONSES_TO_YOUR_QUESTIONS_AND_ERROR_REPORTS_WILL_APPEAR_HERE">Responses to your questions and error reports will appear here.</string>
+    <string name="DREAM_CREATE_NEW_ACCOUNT_OPT" did="DREAM_G360M_OPT_CREATE_NEW_ACCOUNT">Create new account</string>
+    <string name="DREAM_ATTACH_FILE_BUTTON22" did="DREAM_G360M_BUTTON_ATTACH_FILE_22">Attach file</string>
+    <string name="DREAM_PHOTO_LIBRARY_BUTTON22" did="DREAM_G360M_BUTTON_PHOTO_LIBRARY_22">Photo Library</string>
+    <string name="DREAM_FILE_ALREADY_ATTACHED_TPOP" did="DREAM_G360M_TPOP_FILE_ALREADY_ATTACHED">File already attached.</string>
+    <string name="DREAM_SEND_SYSTEM_LOG_Q_PHEADER" did="DREAM_G360M_PHEADER_SEND_SYSTEM_LOG_Q">Send system log?</string>
+    <string name="DREAM_YOUR_SYSTEM_LOG_WILL_BE_SENT_TO_SAMSUNG_ELECTRONICS_CO_LTD_FOR_ANALYSIS_YOUR_SYSTEM_LOG_MAY_CONTAIN_INFORMATION_FROM_THE_THIRD_PARTY_APPS_INSTALLED_MSG" did="DREAM_G360M_POP_YOUR_SYSTEM_LOG_WILL_BE_SENT_TO_SAMSUNG_ELECTRONICS_CO_LTD_FOR_ANALYSIS_YOUR_SYSTEM_LOG_MAY_CONTAIN_INFORMATION_FROM_THE_THIRD_PARTY_APPS_INSTALLED_MSG">Your system log will be sent to Samsung Electronics Co., Ltd for analysis. Your system log may contain information from the third-party apps installed on your phone. The system log data will only be used to analyze the problem and improve the Gear 360 App. Sending your system log may result in additional charges.\n\nWait for the system log to be attached before writing the details of your problem.</string>
+    <string name="DREAM_PROBLEM_FREQUENCY_OPT_ABB" did="DREAM_G360M_OPT_PROBLEM_FREQUENCY_ABB">Problem frequency</string>
+    <string name="DREAM_ONCE_OPT_ABB" did="DREAM_G360M_OPT_ONCE_ABB">Once</string>
+    <string name="DREAM_MUTE_OPT_ABB" did="DREAM_G360M_OPT_MUTE_ABB">Mute</string>
+    <string name="DREAM_P1SD_P2SD_HP3SS_MB_P4SS_MB" did="DREAM_G360M_BODY_P1SD_P2SD_HP3SS_MB_P4SS_MB">%1$d/%2$d (%3$s MB/%4$s MB)</string>
+    <string name="DREAM_YOU_WONT_RECEIVE_A_RESPONSE_FROM_SAMSUNG" did="DREAM_G360M_POP_YOU_WONT_RECEIVE_A_RESPONSE_FROM_SAMSUNG">You won\'t receive a response from Samsung.</string>
+    <string name="DREAM_TURN_ON_YOUR_GEAR_360_PRESS_AND_HOLD_THE_MENU_KEY_THEN_SELECT_ANDROID_TO_SHOW_YOUR_GEAR_360_HERE" did="DREAM_G360M_BODY_TURN_ON_YOUR_GEAR_360_PRESS_AND_HOLD_THE_MENU_KEY_THEN_SELECT_ANDROID_TO_SHOW_YOUR_GEAR_360_HERE">Turn on your Gear 360, press and hold the Menu key, then select Android to show your Gear 360 here.</string>
+    <string name="DREAM_SAMSUNG_GEAR_360_TMBODY" did="DREAM_G360M_TMBODY_SAMSUNG_GEAR_360">Samsung Gear 360</string>
+    <string name="DREAM_AUTOMATICALLY_CORRECT_CAMERA_TILT_IN_YOUR_LIVE_BROADCASTS_SBODY" did="DREAM_G360M_SBODY_AUTOMATICALLY_CORRECT_CAMERA_TILT_IN_YOUR_LIVE_BROADCASTS">Automatically correct camera tilt in your Live broadcasts.</string>
+    <string name="DREAM_TILT_CORRECTION_TMBODY" did="DREAM_G360M_TMBODY_TILT_CORRECTION">Tilt correction</string>
+    <string name="DREAM_AUTOMATICALLY_CORRECT_PICTURES_AND_VIDEOS_THAT_APPEAR_TILTED_TILT_CORRECTION_IS_APPLIED_WHEN_THE_PICTURE_OR_VIDEO_IS_SAVED_SBODY" did="DREAM_G360M_SBODY_AUTOMATICALLY_CORRECT_PICTURES_AND_VIDEOS_THAT_APPEAR_TILTED_TILT_CORRECTION_IS_APPLIED_WHEN_THE_PICTURE_OR_VIDEO_IS_SAVED">Automatically correct pictures and videos that appear tilted. Tilt correction is applied when the picture or video is saved.</string>
+    <string name="DREAM_ATTACHMENT_PHEADER" did="DREAM_G360M_PHEADER_ATTACHMENT">Attachment</string>
+    <string name="DREAM_CONNECTING_YOUR_CAMERA_TMBODY" did="DREAM_G360M_TMBODY_CONNECTING_YOUR_CAMERA">Connecting your camera</string>
+    <string name="DREAM_COMPRESSED_VIDEO_OPT_ABB" did="DREAM_G360M_OPT_COMPRESSED_VIDEO_ABB">Compressed video</string>
+    <string name="DREAM_TABLET_TAB_ABB" did="DREAM_G360M_TAB_TABLET_ABB">Tablet</string>
+    <string name="DREAM_OPERATING_SYSTEM_VERSION_TMBODY" did="DREAM_G360M_TMBODY_OPERATING_SYSTEM_VERSION">Operating system version</string>
+    <string name="DREAM_SERVICE_PROVIDER_AND_NETWORK_TMBODY" did="DREAM_G360M_TMBODY_SERVICE_PROVIDER_AND_NETWORK">Service provider and network</string>
+    <string name="DREAM_GEAR_360_APP_VERSION_TMBODY" did="DREAM_G360M_TMBODY_GEAR_360_APP_VERSION">Gear 360 App version</string>
+    <string name="DREAM_SEND_SYSTEM_LOG_TMBODY" did="DREAM_G360M_TMBODY_SEND_SYSTEM_LOG">Send system log</string>
+    <string name="DREAM_VIEW_RESPONSES_HEADER" did="DREAM_G360M_HEADER_VIEW_RESPONSES">View responses</string>
+    <string name="DREAM_COMPOSE_BUTTON22" did="DREAM_G360M_BUTTON_COMPOSE_22">Compose</string>
+    <string name="DREAM_VIDEO_SAVED" did="DREAM_G360M_POP_VIDEO_SAVED">Video saved.</string>
+    <string name="DREAM_TO_CONNECT_YOUR_GEAR_360_TO_YOUR_PHONE_PRESS_AND_HOLD_THE_MENU_KEY_SELECT_IOS_THEN_PRESS_THE_OK_KEY" did="DREAM_G360M_BODY_TO_CONNECT_YOUR_GEAR_360_TO_YOUR_PHONE_PRESS_AND_HOLD_THE_MENU_KEY_SELECT_IOS_THEN_PRESS_THE_OK_KEY">To connect your Gear 360 to your phone, press and hold the Menu key, select iOS, then press the OK key.</string>
+    <string name="DREAM_TO_CONNECT_YOUR_PHONE_TO_YOUR_GEAR_360_GO_TO_SETTINGS_WI_FI_THEN_SELECT_YOUR_GEAR_360" did="DREAM_G360M_POP_TO_CONNECT_YOUR_PHONE_TO_YOUR_GEAR_360_GO_TO_SETTINGS_WI_FI_THEN_SELECT_YOUR_GEAR_360">To connect your phone to your Gear 360, go to Settings > Wi-Fi, then select your Gear 360.</string>
+    <string name="DREAM_ON_YOUR_IPHONE_IN_SETTINGS_WI_FI_SELECT_YOUR_GEAR_360_AND_ENTER_THE_PASSWORD_SHOWN_ON_THE_STATUS_SCREEN_OF_THE_GEAR_360" did="DREAM_G360M_BODY_ON_YOUR_IPHONE_IN_SETTINGS_WI_FI_SELECT_YOUR_GEAR_360_AND_ENTER_THE_PASSWORD_SHOWN_ON_THE_STATUS_SCREEN_OF_THE_GEAR_360">On your iPhone, in Settings > Wi-Fi, select your Gear 360 and enter the password shown on the status screen of the Gear 360.</string>
+    <string name="DREAM_ON_YOUR_GEAR_360_HEADER" did="DREAM_G360M_HEADER_ON_YOUR_GEAR_360">On your Gear 360</string>
+    <string name="DREAM_TO_CONNECT_YOUR_PHONE_TO_YOUR_GEAR_360_GO_TO_SETTINGS_WI_FI_THEN_SELECT_YOUR_GEAR_360_SBODY" did="DREAM_G360M_SBODY_TO_CONNECT_YOUR_PHONE_TO_YOUR_GEAR_360_GO_TO_SETTINGS_WI_FI_THEN_SELECT_YOUR_GEAR_360">To connect your phone to your Gear 360, go to Settings > Wi-Fi, then select your Gear 360.</string>
+    <string name="DREAM_SHUTTER_ABB" did="DREAM_G360M_BODY_SHUTTER_ABB">Shutter</string>
+    <string name="DREAM_ON_YOUR_PHONE_TMBODY" did="DREAM_G360M_TMBODY_ON_YOUR_PHONE">On your phone</string>
+    <string name="DREAM_POWER_ABB" did="DREAM_G360M_BODY_POWER_ABB">Power</string>
+    <string name="DREAM_CONNECTION_GUIDE_HEADER" did="DREAM_G360M_HEADER_CONNECTION_GUIDE">Connection guide</string>
+    <string name="DREAM_CONNECTION_GUIDE_BUTTON22" did="DREAM_G360M_BUTTON_CONNECTION_GUIDE_22">Connection guide</string>
+    <string name="DREAM_GET_CONNECTED_PHEADER" did="DREAM_G360M_PHEADER_GET_CONNECTED">Get connected</string>
+    <string name="DREAM_GET_CONNECTED_BUTTON22" did="DREAM_G360M_BUTTON_GET_CONNECTED_22">Get connected</string>
+    <string name="DREAM_PRIVACY_HEADER" did="DREAM_G360M_HEADER_PRIVACY">Privacy</string>
+    <!-- 2017. 2. 25 -->
+    <string name="DREAM_CANT_OPEN_PS_IN_SAMSUNG_DEX_TPOP" did="DREAM_DEX_TPOP_CANT_OPEN_PS_IN_SAMSUNG_DEX">Can\'t open %s in Samsung DeX.</string>
+    <string name="DREAM_PS_CLOSED_TO_SWITCH_TO_SAMSUNG_DEX_TPOP" did="DREAM_DEX_TPOP_PS_CLOSED_TO_SWITCH_TO_SAMSUNG_DEX">%s closed to switch to Samsung DeX.</string>
+    <string name="DREAM_CANT_OPEN_PS_IN_GALAXY_DEX_TPOP_JPN" did="DREAM_DEX_TPOP_CANT_OPEN_PS_IN_GALAXY_DEX_JPN">Can\'t open %s in Galaxy DeX.</string>
+    <string name="DREAM_PS_CLOSED_TO_SWITCH_TO_GALAXY_DEX_TPOP_JPN" did="DREAM_DEX_TPOP_PS_CLOSED_TO_SWITCH_TO_GALAXY_DEX_JPN">%s closed to switch to Galaxy DeX.</string>
+    <!-- 2017. 2. 26 -->
+    <string name="DREAM_PAGE_P1SD_OF_P2SD_TBOPT" did="DREAM_ACCS_TBOPT_PAGE_P1SD_OF_P2SD">Page %1$d of %2$d</string>
+    <string name="DREAM_OFF_TBOPT" did="DREAM_ACCS_TBOPT_OFF">Off</string>
+    <string name="DREAM_ON_TBOPT" did="DREAM_ACCS_TBOPT_ON">On</string>
+    <!-- 2017. 3. 4 -->
+    <string name="DREAM_CONNECTION_GUIDE_OPT" did="DREAM_G360M_OPT_CONNECTION_GUIDE">Connection guide</string>
+    <string name="DREAM_PS_GB" did="DREAM_G360M_BODY_PS_GB">%s GB</string>
+    <string name="DREAM_PLAYBACK_SPEED_OPT_ABB2" did="DREAM_G360M_OPT_PLAYBACK_SPEED_ABB2">Playback speed</string>
+    <string name="DREAM_AVAILABLE_SPACE_TMBODY" did="DREAM_G360M_TMBODY_AVAILABLE_SPACE">Available space</string>
+    <string name="DREAM_USED_SPACE_TMBODY" did="DREAM_G360M_TMBODY_USED_SPACE">Used space</string>
+    <string name="DREAM_1_PICTURE_SELECTED_HEADER" did="DREAM_G360M_HEADER_1_PICTURE_SELECTED">1 picture selected</string>
+    <string name="DREAM_PD_PICTURES_SELECTED_HEADER" did="DREAM_G360M_HEADER_PD_PICTURES_SELECTED">%d pictures selected</string>
+    <string name="DREAM_SELECT_ALL_BUTTON22" did="DREAM_G360M_BUTTON_SELECT_ALL_22">Select all</string>
+    <string name="DREAM_ALBUMS_HEADER" did="DREAM_G360M_HEADER_ALBUMS">Albums</string>
+    <string name="DREAM_1_ALBUM_SELECTED_HEADER" did="DREAM_G360M_HEADER_1_ALBUM_SELECTED">1 album selected</string>
+    <string name="DREAM_PD_ALBUMS_SELECTED_HEADER" did="DREAM_G360M_HEADER_PD_ALBUMS_SELECTED">%d albums selected</string>
+    <string name="DREAM_DELETE_PICTURE_BUTTON42" did="DREAM_G360M_BUTTON_DELETE_PICTURE_42">Delete picture</string>
+    <string name="DREAM_DELETE_PD_PICTURES_BUTTON42" did="DREAM_G360M_BUTTON_DELETE_PD_PICTURES_42">Delete %d pictures</string>
+    <string name="DREAM_DELETE_PD_ITEMS_BUTTON42" did="DREAM_G360M_BUTTON_DELETE_PD_ITEMS_42">Delete %d items</string>
+    <string name="DREAM_PLAYBACK_SPEED_HEADER" did="DREAM_G360M_HEADER_PLAYBACK_SPEED">Playback speed</string>
+    <string name="DREAM_TOTAL_SPACE_TMBODY" did="DREAM_G360M_TMBODY_TOTAL_SPACE">Total space</string>
+    <string name="DREAM_EXPLORE_IN_360_HEADER_ABB" did="DREAM_G360M_HEADER_EXPLORE_IN_360_ABB">Explore in 360°</string>
+    <string name="DREAM_USED_OUT_OF_PS_GB" did="DREAM_G360M_BODY_USED_OUT_OF_PS_GB">Used out of %s GB</string>
+    <string name="DREAM_CANCEL_DOWNLOAD_TMBODY" did="DREAM_G360M_TMBODY_CANCEL_DOWNLOAD">Cancel download</string>
+    <string name="DREAM_DISCARD_CHANGES_OPT_ABB" did="DREAM_G360M_OPT_DISCARD_CHANGES_ABB">Discard changes</string>
+    <string name="DREAM_RESIZE_SAVED_VIDEOS_PHEADER" did="DREAM_G360M_PHEADER_RESIZE_SAVED_VIDEOS">Resize saved videos</string>
+    <string name="DREAM_VIDEOS_CAPTURED_IN_4096_X_2048_RESOLUTION_ARE_SAVED_IN_3840_X_1920_RESOLUTION_ON_YOUR_PHONE_USE_THE_GEAR_360_ACTIONDIRECTOR_MSG" did="DREAM_G360M_POP_VIDEOS_CAPTURED_IN_4096_X_2048_RESOLUTION_ARE_SAVED_IN_3840_X_1920_RESOLUTION_ON_YOUR_PHONE_USE_THE_GEAR_360_ACTIONDIRECTOR_MSG">Videos captured in 4096 x 2048 resolution are saved in 3840 x 1920 resolution on your phone. Use the Gear 360 ActionDirector Software to save videos in their original resolution.</string>
+    <string name="DREAM_PICTURES_CAPTURED_IN_5472_X_2736_RESOLUTION_ARE_SAVED_IN_4096_X_2048_RESOLUTION_ON_YOUR_PHONE_USE_THE_GEAR_360_ACTIONDIRECTOR_MSG" did="DREAM_G360M_POP_PICTURES_CAPTURED_IN_5472_X_2736_RESOLUTION_ARE_SAVED_IN_4096_X_2048_RESOLUTION_ON_YOUR_PHONE_USE_THE_GEAR_360_ACTIONDIRECTOR_MSG">Pictures captured in 5472 x 2736 resolution are saved in 4096 x 2048 resolution on your phone. Use the Gear 360 ActionDirector Software to save pictures in their original resolution.</string>
+    <string name="DREAM_WHATS_NEW_HEADER" did="DREAM_G360M_HEADER_WHATS_NEW">What\'s new</string>
+    <string name="DREAM_DOWNLOAD_THE_LATEST_FIRMWARE_FOR_YOUR_GEAR_360_BELOW_THE_UPDATE_WILL_AUTOMATICALLY_BE_COPIED_TO_YOUR_GEAR_360_AFTER_ITS_DOWNLOADED" did="DREAM_G360M_BODY_DOWNLOAD_THE_LATEST_FIRMWARE_FOR_YOUR_GEAR_360_BELOW_THE_UPDATE_WILL_AUTOMATICALLY_BE_COPIED_TO_YOUR_GEAR_360_AFTER_ITS_DOWNLOADED">Download the latest firmware for your Gear 360 below. The update will automatically be copied to your Gear 360 after it\'s downloaded.</string>
+    <string name="DREAM_DOWNLOADING_GEAR_360_UPDATE_ING" did="DREAM_G360M_BODY_DOWNLOADING_GEAR_360_UPDATE_ING">Downloading Gear 360 update\u2026</string>
+    <string name="DREAM_WHATS_NEW_TMBODY" did="DREAM_G360M_TMBODY_WHATS_NEW">What\'s new</string>
+    <string name="DREAM_DETAILS_OPT" did="DREAM_G360M_OPT_DETAILS">Details</string>
+    <string name="DREAM_TRIM_OPT" did="DREAM_G360M_OPT_TRIM">Trim</string>
+    <string name="DREAM_THE_LOCATING_METHOD_WILL_BE_SET_TO_GPS_WLAN_AND_MOBILE_NETWORKS_CHN" did="DREAM_G360M_POP_THE_LOCATING_METHOD_WILL_BE_SET_TO_GPS_WLAN_AND_MOBILE_NETWORKS_CHN">The locating method will be set to GPS, WLAN, and mobile networks.</string>
+    <string name="DREAM_UPDATE_USING_WLAN_Q_PHEADER_CHN" did="DREAM_G360M_PHEADER_UPDATE_USING_WLAN_Q_CHN">Update using WLAN?</string>
+    <string name="DREAM_TO_DOWNLOAD_UPDATES_WHILE_ROAMING_YOUR_PHONE_NEEDS_TO_BE_CONNECTED_TO_A_WLAN_CHN" did="DREAM_G360M_POP_TO_DOWNLOAD_UPDATES_WHILE_ROAMING_YOUR_PHONE_NEEDS_TO_BE_CONNECTED_TO_A_WLAN_CHN">To download updates while roaming, your phone needs to be connected to a WLAN.</string>
+    <string name="DREAM_TO_CONNECT_TO_YOUR_GEAR_360_WLAN_DIRECT_NEEDS_TO_BE_TURNED_ON_WLAN_WILL_BE_TURNED_ON_AUTOMATICALLY_WHEN_YOU_OPEN_THE_GEAR_360_APP_CHN" did="DREAM_G360M_POP_TO_CONNECT_TO_YOUR_GEAR_360_WLAN_DIRECT_NEEDS_TO_BE_TURNED_ON_WLAN_WILL_BE_TURNED_ON_AUTOMATICALLY_WHEN_YOU_OPEN_THE_GEAR_360_APP_CHN">To connect to your Gear 360, WLAN Direct needs to be turned on. WLAN will be turned on automatically when you open the Gear 360 App.</string>
+    <string name="DREAM_I_AGREE_TO_ALLOW_THE_USE_OF_WLAN_CHN" did="DREAM_G360M_BODY_I_AGREE_TO_ALLOW_THE_USE_OF_WLAN_CHN">I agree to allow the use of WLAN.</string>
+    <string name="DREAM_GEAR_360_APP_USES_WLAN_DIRECT_PHEADER_CHN" did="DREAM_G360M_PHEADER_GEAR_360_APP_USES_WLAN_DIRECT_CHN">Gear 360 App uses WLAN Direct</string>
+    <string name="DREAM_TURN_ON_WLAN_DIRECT_Q_PHEADER_CHN" did="DREAM_G360M_PHEADER_TURN_ON_WLAN_DIRECT_Q_CHN">Turn on WLAN Direct?</string>
+    <string name="DREAM_TO_CONNECT_TO_YOUR_GEAR_360_USING_WLAN_DIRECT_MOBILE_HOTSPOT_WILL_BE_TURNED_OFF_CHN" did="DREAM_G360M_POP_TO_CONNECT_TO_YOUR_GEAR_360_USING_WLAN_DIRECT_MOBILE_HOTSPOT_WILL_BE_TURNED_OFF_CHN">To connect to your Gear 360 using WLAN Direct, Mobile hotspot will be turned off.</string>
+    <string name="DREAM_LOCATION_WILL_ALSO_BE_TURNED_ON_AND_THE_LOCATING_METHOD_WILL_BE_SET_TO_GPS_WLAN_AND_MOBILE_NETWORKS_CHN" did="DREAM_G360M_POP_LOCATION_WILL_ALSO_BE_TURNED_ON_AND_THE_LOCATING_METHOD_WILL_BE_SET_TO_GPS_WLAN_AND_MOBILE_NETWORKS_CHN">Location will also be turned on and the locating method will be set to GPS, WLAN, and mobile networks.</string>
+    <string name="DREAM_OK_PS_ABB" did="DREAM_G360M_BODY_OK_PS_ABB">OK/%s</string>
+    <string name="DREAM_DOUBLE_TAP_TO_PLAY_TBBODY" did="DREAM_DAYL_TBBODY_DOUBLE_TAP_TO_PLAY">Double tap to play.</string>
+    <!-- 2017. 3. 6 -->
+    <string name="DREAM_UPDATE_GOOGLE_PLAY_SERVICES_Q_PHEADER" did="DREAM_REMINDER_PHEADER_UPDATE_GOOGLE_PLAY_SERVICES_Q">Update Google Play services?</string>
+    <string name="DREAM_TO_USE_THIS_FUNCTION_UPDATE_GOOGLE_PLAY_SERVICES" did="DREAM_REMINDER_POP_TO_USE_THIS_FUNCTION_UPDATE_GOOGLE_PLAY_SERVICES">To use this function, update Google Play services.</string>
+    <!-- 2017. 3. 8 -->
+    <string name="DREAM_ANYONE_WITH_A_DIRECT_LINK_CAN_WATCH_YOUR_BROADCAST_SBODY" did="DREAM_G360M_SBODY_ANYONE_WITH_A_DIRECT_LINK_CAN_WATCH_YOUR_BROADCAST">Anyone with a direct link can watch your broadcast.</string>
+    <string name="DREAM_ANYONE_CAN_FIND_AND_WATCH_YOUR_BROADCAST_SBODY" did="DREAM_G360M_SBODY_ANYONE_CAN_FIND_AND_WATCH_YOUR_BROADCAST">Anyone can find and watch your broadcast.</string>
+    <string name="DREAM_ONLY_YOU_CAN_WATCH_YOUR_BROADCAST_SBODY" did="DREAM_G360M_SBODY_ONLY_YOU_CAN_WATCH_YOUR_BROADCAST">Only you can watch your broadcast.</string>
+    <!-- 2017. 3. 9 -->
+    <string name="DREAM_TO_USE_LOCATION_TAGS_AND_RECORD_LIVE_BROADCASTS_YOU_NEED_TO_UPDATE_GOOGLE_PLAY_SERVICES" did="DREAM_G360M_POP_TO_USE_LOCATION_TAGS_AND_RECORD_LIVE_BROADCASTS_YOU_NEED_TO_UPDATE_GOOGLE_PLAY_SERVICES">To use location tags and record live broadcasts, you need to update Google Play services.</string>
+    <string name="DREAM_CANT_USE_LOCATION_TAGS_OR_RECORD_LIVE_BROADCASTS_UNTIL_YOU_UPDATE_GOOGLE_PLAY_SERVICES_TPOP" did="DREAM_G360M_TPOP_CANT_USE_LOCATION_TAGS_OR_RECORD_LIVE_BROADCASTS_UNTIL_YOU_UPDATE_GOOGLE_PLAY_SERVICES">Can\'t use location tags or record live broadcasts until you update Google Play services.</string>
+    <!-- 2017. 3. 10 -->
+    <string name="SS_NO_CONNECTIONS" did="IDS_ST_BODY_NO_CONNECTIONS">No connections</string>
+    <string name="LEGAL_THIS_SERVICE_WILL_ALLOW_YOU_TO_BROADCAST_VIDOS_LIVE_ON_SOCIAL_MEDIA_MSG_LEGALPHRASE" did="LDS_G360M_BODY_THIS_SERVICE_WILL_ALLOW_YOU_TO_BROADCAST_VIDOS_LIVE_ON_SOCIAL_MEDIA_MSG_LEGALPHRASE">This service will allow you to broadcast videos live on social media that supports live streaming. You can simply invite friends and family members to watch your live video broadcast via text messages. You represent, warrant, and covenant that you will not use this service to live stream any content that (a) violates law, regulation, treaty, or third-party rights, or (b) is unlawful, threatening, abusive, obscene, defamatory, libellous, pornographic, vulgar, or racially or ethnically offensive. Samsung may suspend or discontinue any aspect of this service any time. You acknowledge that Samsung does not and cannot control the live streaming of videos. Accordingly, Samsung expressly disclaims any and all liability resulting from, or related to, such videos. The availability and features of this service may differ depending on your smartphone model, OS, and country.</string>
+    <!-- 2017. 3. 11 -->
+    <string name="MSS_STARTING_BROADCAST_ING" did="MIDS_LVB_BODY_STARTING_BROADCAST_ING">Starting broadcast\u2026</string>
+    <string name="MSS_PREPARING_BROADCAST_ING" did="MIDS_LVB_BODY_PREPARING_BROADCAST_ING">Preparing broadcast\u2026</string>
+    <string name="MSS_PREPARING_TO_SHARE_THE_BROADCAST_LINK_ING" did="MIDS_LVB_BODY_PREPARING_TO_SHARE_THE_BROADCAST_LINK_ING">Preparing to share the broadcast link\u2026</string>
+    <string name="DREAM_DUAL_BUTTON14" did="DREAM_GALLERY_BUTTON_DUAL_14">Dual</string>
+    <string name="DREAM_NEVER_OPT_ABB" did="DREAM_G360M_OPT_NEVER_ABB">Never</string>
+    <!-- 2017. 3. 13 -->
+    <string name="DREAM_YOUR_FRIENDS_ON_FACEBOOK_SBODY" did="DREAM_G360M_SBODY_YOUR_FRIENDS_ON_FACEBOOK">Your friends on Facebook</string>
+    <string name="DREAM_PSS_360_LIVE_BROADCAST" did="DREAM_G360M_BODY_PSS_360_LIVE_BROADCAST">%s\'s 360 Live broadcast</string>
+    <string name="DREAM_PRESS_THE_OK_HSHUTTER_KEY_ON_YOUR_GEAR_360_TO_COMPLETE_THE_CONNECTION" did="DREAM_G360M_BODY_PRESS_THE_OK_HSHUTTER_KEY_ON_YOUR_GEAR_360_TO_COMPLETE_THE_CONNECTION">Press the OK (Shutter) key on your Gear 360 to complete the connection.</string>
+    <!-- 2017. 3. 14 -->
+    <string name="DREAM_NOW" did="DREAM_MARSH_BODY_NOW">Now</string>
+    <!-- 2017. 3. 16 -->
+    <string name="DREAM_COMING_SOON_T_GALAXY_CARE_NPBODY" did="DREAM_GCA_NPBODY_COMING_SOON_T_GALAXY_CARE">Coming soon</string>
+    <!-- 2017. 3. 17 -->
+    <string name="SS_NO_SD_CARD" did="IDS_ST_BODY_NO_SD_CARD">No SD card</string>
+    <string name="DREAM_CANT_START_BROADCAST_WHILE_RECORDING_VIDEO" did="DREAM_G360M_POP_CANT_START_BROADCAST_WHILE_RECORDING_VIDEO">Can\'t start broadcast while recording video.</string>
+    <string name="DREAM_LIKE_M_REACTION_BUTTON9" did="DREAM_G360M_BUTTON_LIKE_M_REACTION_9">Like</string>
+    <string name="DREAM_LOVE_M_REACTION_BUTTON9" did="DREAM_G360M_BUTTON_LOVE_M_REACTION_9">Love</string>
+    <string name="DREAM_WOW_M_REACTION_BUTTON9" did="DREAM_G360M_BUTTON_WOW_M_REACTION_9">Wow</string>
+    <string name="DREAM_HAHA_M_REACTION_BUTTON9" did="DREAM_G360M_BUTTON_HAHA_M_REACTION_9">Haha</string>
+    <string name="DREAM_SAD_M_REACTION_BUTTON9" did="DREAM_G360M_BUTTON_SAD_M_REACTION_9">Sad</string>
+    <string name="DREAM_ANGRY_M_REACTION_BUTTON9" did="DREAM_G360M_BUTTON_ANGRY_M_REACTION_9">Angry</string>
+    <string name="DREAM_TO_COMPLETE_THE_UPDATE_YOUR_GEAR_360_WILL_RESTART_AUTOMATICALLY" did="DREAM_G360M_POP_TO_COMPLETE_THE_UPDATE_YOUR_GEAR_360_WILL_RESTART_AUTOMATICALLY">To complete the update, your Gear 360 will restart automatically.</string>
+    <string name="DREAM_REAR_M_DUAL_LENS_MODE" did="DREAM_G360M_BODY_REAR_M_DUAL_LENS_MODE">Rear</string>
+    <string name="DREAM_FRONT_M_DUAL_LENS_MODE" did="DREAM_G360M_BODY_FRONT_M_DUAL_LENS_MODE">Front</string>
+    <string name="DREAM_DUAL_M_DUAL_LENS_MODE" did="DREAM_G360M_BODY_DUAL_M_DUAL_LENS_MODE">Dual</string>
+    <string name="DREAM_ONLY_YOU_CAN_VIEW_SBODY" did="DREAM_G360M_SBODY_ONLY_YOU_CAN_VIEW">Only you can view</string>
+    <string name="DREAM_ANYONE_WITH_THE_LINK_CAN_VIEW_SBODY" did="DREAM_G360M_SBODY_ANYONE_WITH_THE_LINK_CAN_VIEW">Anyone with the link can view</string>
+    <string name="DREAM_ANYONE_CAN_SEARCH_FOR_AND_VIEW_SBODY" did="DREAM_G360M_SBODY_ANYONE_CAN_SEARCH_FOR_AND_VIEW">Anyone can search for and view</string>
+    <string name="DREAM_ANYONE_ON_OR_OFF_FACEBOOK_SBODY" did="DREAM_G360M_SBODY_ANYONE_ON_OR_OFF_FACEBOOK">Anyone on or off Facebook</string>
+    <string name="DREAM_PD_ITEMS_SELECTED_HEADER" did="DREAM_G360M_HEADER_PD_ITEMS_SELECTED">%d items selected</string>
+    <string name="DREAM_PD_VIDEOS_SELECTED_HEADER" did="DREAM_G360M_HEADER_PD_VIDEOS_SELECTED">%d videos selected</string>
+    <string name="DREAM_1_VIDEO_SELECTED_HEADER" did="DREAM_G360M_HEADER_1_VIDEO_SELECTED">1 video selected</string>
+    <string name="DREAM_DESELECT_ALL_HEADER" did="DREAM_G360M_HEADER_DESELECT_ALL">Deselect all</string>
+    <string name="DREAM_CANT_PREVIEW_VIDEO_NPBODY" did="DREAM_G360M_NPBODY_CANT_PREVIEW_VIDEO">Can\'t preview video</string>
+    <string name="DREAM_LEAVING_THIS_SCREEN_WILL_CANCEL_THE_DOWNLOAD" did="DREAM_G360M_POP_LEAVING_THIS_SCREEN_WILL_CANCEL_THE_DOWNLOAD">Leaving this screen will cancel the download.</string>
+    <string name="DREAM_HIDE_PLAYBACK_SPEED_OPT_ABB" did="DREAM_G360M_OPT_HIDE_PLAYBACK_SPEED_ABB">Hide playback speed</string>
+    <string name="DREAM_SHOW_PLAYBACK_SPEED_OPT_ABB" did="DREAM_G360M_OPT_SHOW_PLAYBACK_SPEED_ABB">Show playback speed</string>
+    <string name="DREAM_BROADCAST_ENDED_PHEADER" did="DREAM_G360M_PHEADER_BROADCAST_ENDED">Broadcast ended</string>
+    <string name="DREAM_IF_YOU_HAVE_ANY_QUESTIONS_OR_PROBLEMS_WHILE_USING_YOUR_GEAR_360_SEND_A_MESSAGE_TO_SAMSUNG_CUSTOMER_SERVICE" did="DREAM_G360M_BODY_IF_YOU_HAVE_ANY_QUESTIONS_OR_PROBLEMS_WHILE_USING_YOUR_GEAR_360_SEND_A_MESSAGE_TO_SAMSUNG_CUSTOMER_SERVICE">If you have any questions or problems while using your Gear 360, send a message to Samsung Customer Service.</string>
+    <string name="DREAM_360_VIEW_BUTTON11" did="DREAM_G360M_BUTTON_360_VIEW_11">360 view</string>
+    <string name="DREAM_DURING_THE_INSTALLATION_YOU_CANT_USE_YOUR_GEAR_360_AND_IT_WILL_REBOOT_AUTOMATICALLY_THE_GEAR_360_SETTINGS_WILL_REVERT_TO_THEIR_DEFAULTS_MSG" did="DREAM_G360M_POP_DURING_THE_INSTALLATION_YOU_CANT_USE_YOUR_GEAR_360_AND_IT_WILL_REBOOT_AUTOMATICALLY_THE_GEAR_360_SETTINGS_WILL_REVERT_TO_THEIR_DEFAULTS_MSG">During the installation, you can\'t use your Gear 360 and it will reboot automatically. The Gear 360 settings will revert to their defaults and will need to be reconfigured after installation. After the installation, your data should be preserved, but we recommend that you back up important data before installation to avoid unexpected data loss.</string>
+    <string name="DREAM_TAP_STOP_TO_CLOSE_THE_GEAR_360_APP_AND_STOP_THE_DOWNLOAD" did="DREAM_G360M_POP_TAP_STOP_TO_CLOSE_THE_GEAR_360_APP_AND_STOP_THE_DOWNLOAD">Tap STOP to close the Gear 360 app and stop the download.</string>
+    <string name="DREAM_CHECK_OUT_YOUR_360_BROADCAST_ON_PS_LONGER_BROADCASTS_MIGHT_TAKE_MORE_TIME_TO_UPLOAD" did="DREAM_G360M_BODY_CHECK_OUT_YOUR_360_BROADCAST_ON_PS_LONGER_BROADCASTS_MIGHT_TAKE_MORE_TIME_TO_UPLOAD">Check out your 360 broadcast on %s. Longer broadcasts might take more time to upload.</string>
+    <string name="DREAM_UPDATING_GEAR_360_APP_TRY_AGAIN_LATER_TPOP" did="DREAM_G360M_TPOP_UPDATING_GEAR_360_APP_TRY_AGAIN_LATER">Updating Gear 360 app. Try again later.</string>
+    <string name="DREAM_YOUR_BROADCAST_WAS_ENDED_DUE_TO_INAPPROPRIATE_CONTENT" did="DREAM_G360M_POP_YOUR_BROADCAST_WAS_ENDED_DUE_TO_INAPPROPRIATE_CONTENT">Your broadcast was ended due to inappropriate content.</string>
+    <string name="DREAM_NEXT_FRAME_SHOWN_TPOP" did="DREAM_G360M_TPOP_NEXT_FRAME_SHOWN">Next frame shown.</string>
+    <!-- 2017. 3. 21 -->
+    <string name="DREAM_4096_X_2048_H24_FPS_OPT_ABB" did="DREAM_G360M_OPT_4096_X_2048_H24_FPS_ABB">4096 x 2048 (24 fps)</string>
+    <string name="DREAM_2880_X_1440_H30_FPS_OPT_ABB" did="DREAM_G360M_OPT_2880_X_1440_H30_FPS_ABB">2880 x 1440 (30 fps)</string>
+    <string name="DREAM_2560_X_1280_H60_FPS_OPT_ABB" did="DREAM_G360M_OPT_2560_X_1280_H60_FPS_ABB">2560 x 1280 (60 fps)</string>
+    <string name="DREAM_2560_X_1280_H30_FPS_OPT_ABB" did="DREAM_G360M_OPT_2560_X_1280_H30_FPS_ABB">2560 x 1280 (30 fps)</string>
+    <string name="DREAM_1920_X_960_H30_FPS_OPT_ABB" did="DREAM_G360M_OPT_1920_X_960_H30_FPS_ABB">1920 x 960 (30 fps)</string>
+    <string name="DREAM_1440_X_720_H120_FPS_OPT_ABB" did="DREAM_G360M_OPT_1440_X_720_H120_FPS_ABB">1440 x 720 (120 fps)</string>
+    <string name="DREAM_1920_X_1080_H60_FPS_OPT_ABB" did="DREAM_G360M_OPT_1920_X_1080_H60_FPS_ABB">1920 x 1080 (60 fps)</string>
+    <string name="DREAM_1920_X_1080_H30_FPS_OPT_ABB" did="DREAM_G360M_OPT_1920_X_1080_H30_FPS_ABB">1920 x 1080 (30 fps)</string>
+    <string name="DREAM_1280_X_720_H30_FPS_OPT_ABB" did="DREAM_G360M_OPT_1280_X_720_H30_FPS_ABB">1280 x 720 (30 fps)</string>
+    <string name="DREAM_1280_X_720_H10_FPS_OPT_ABB" did="DREAM_G360M_OPT_1280_X_720_H10_FPS_ABB">1280 x 720 (10 fps)</string>
+    <string name="DREAM_1920_X_1080_H10_FPS_OPT_ABB" did="DREAM_G360M_OPT_1920_X_1080_H10_FPS_ABB">1920 x 1080 (10 fps)</string>
+    <string name="DREAM_1920_X_960_H10_FPS_OPT_ABB" did="DREAM_G360M_OPT_1920_X_960_H10_FPS_ABB">1920 x 960 (10 fps)</string>
+    <string name="DREAM_2560_X_1280_H10_FPS_OPT_ABB" did="DREAM_G360M_OPT_2560_X_1280_H10_FPS_ABB">2560 x 1280 (10 fps)</string>
+    <string name="DREAM_2560_X_1440_H30_FPS_OPT_ABB" did="DREAM_G360M_OPT_2560_X_1440_H30_FPS_ABB">2560 x 1440 (30 fps)</string>
+    <string name="DREAM_3840_X_1920_H30_FPS_OPT_ABB" did="DREAM_G360M_OPT_3840_X_1920_H30_FPS_ABB">3840 x 1920 (30 fps)</string>
+    <string name="DREAM_4096_X_2048_H10_FPS_OPT_ABB" did="DREAM_G360M_OPT_4096_X_2048_H10_FPS_ABB">4096 x 2048 (10 fps)</string>
+    <!-- 2017. 3. 22 -->
+    <string name="DREAM_MAIN_LENS_IN_PREVIEW_TMBODY" did="DREAM_G360M_TMBODY_MAIN_LENS_IN_PREVIEW">Main lens in preview</string>
+    <string name="MSS_PSS_LIVE_BROADCAST" did="MIDS_LVB_BODY_PSS_LIVE_BROADCAST">%s\'s Live Broadcast</string>
+    <!-- 2017. 3. 27 -->
+    <string name="DREAM_THERE_ARE_2_VERSIONS_OF_THE_GEAR_360_APP_INSTALLED_ON_YOUR_PHONE_DELETE_THE_OLDER_APP_HGEAR_360_MANAGER_THEN_TRY_TO_CONNECT_AGAIN_MSG" did="DREAM_G360M_POP_THERE_ARE_2_VERSIONS_OF_THE_GEAR_360_APP_INSTALLED_ON_YOUR_PHONE_DELETE_THE_OLDER_APP_HGEAR_360_MANAGER_THEN_TRY_TO_CONNECT_AGAIN_MSG">There are 2 versions of the Gear 360 App installed on your phone. Delete the older app (Gear 360 Manager), then try to connect again.\n\nNote: The new Samsung Gear 360 App doesn\'t support NFC tags.</string>
+    <string name="DREAM_THE_NEW_SAMSUNG_GEAR_360_APP_SUPPORTS_YOUR_GEAR_360_BUT_SOME_FUNCTIONS_SUCH_AS_NFC_TAGS_AND_LIVE_BROADCAST_WONT_WORK" did="DREAM_G360M_POP_THE_NEW_SAMSUNG_GEAR_360_APP_SUPPORTS_YOUR_GEAR_360_BUT_SOME_FUNCTIONS_SUCH_AS_NFC_TAGS_AND_LIVE_BROADCAST_WONT_WORK">The new Samsung Gear 360 App supports your Gear 360, but some functions, such as NFC tags and Live broadcast, won\'t work.</string>
+    <string name="DREAM_AUTO_POWER_OFF_AFTER_TMBODY" did="DREAM_G360M_TMBODY_AUTO_POWER_OFF_AFTER">Auto power off after</string>
+</resources>

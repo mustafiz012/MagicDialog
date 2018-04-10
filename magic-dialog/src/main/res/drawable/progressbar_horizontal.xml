@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@android:id/background"
+        android:drawable="@drawable/manager_progress_bar_holo01" />
+
+    <item android:id="@android:id/progress">
+        <clip android:drawable="@drawable/manager_progress_bar_holo03" />
+    </item>
+</layer-list>
