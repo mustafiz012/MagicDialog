@@ -1294,4 +1294,5 @@
     <string name="DREAM_THERE_ARE_2_VERSIONS_OF_THE_GEAR_360_APP_INSTALLED_ON_YOUR_PHONE_DELETE_THE_OLDER_APP_HGEAR_360_MANAGER_THEN_TRY_TO_CONNECT_AGAIN_MSG" did="DREAM_G360M_POP_THERE_ARE_2_VERSIONS_OF_THE_GEAR_360_APP_INSTALLED_ON_YOUR_PHONE_DELETE_THE_OLDER_APP_HGEAR_360_MANAGER_THEN_TRY_TO_CONNECT_AGAIN_MSG">There are 2 versions of the Gear 360 App installed on your phone. Delete the older app (Gear 360 Manager), then try to connect again.\n\nNote: The new Samsung Gear 360 App doesn\'t support NFC tags.</string>
     <string name="DREAM_THE_NEW_SAMSUNG_GEAR_360_APP_SUPPORTS_YOUR_GEAR_360_BUT_SOME_FUNCTIONS_SUCH_AS_NFC_TAGS_AND_LIVE_BROADCAST_WONT_WORK" did="DREAM_G360M_POP_THE_NEW_SAMSUNG_GEAR_360_APP_SUPPORTS_YOUR_GEAR_360_BUT_SOME_FUNCTIONS_SUCH_AS_NFC_TAGS_AND_LIVE_BROADCAST_WONT_WORK">The new Samsung Gear 360 App supports your Gear 360, but some functions, such as NFC tags and Live broadcast, won\'t work.</string>
     <string name="DREAM_AUTO_POWER_OFF_AFTER_TMBODY" did="DREAM_G360M_TMBODY_AUTO_POWER_OFF_AFTER">Auto power off after</string>
+    <string name="hello">hello</string>
 </resources>

@@ -2,7 +2,7 @@
     android:id="@android:id/text1"
     android:gravity="center_vertical"
     android:checkMark="@drawable/selector_checkbox"
-    android:textSize="18dp"
+    android:textSize="18sp"
     android:padding="10dp"
     android:layout_width="fill_parent"
     android:layout_height="wrap_content" />

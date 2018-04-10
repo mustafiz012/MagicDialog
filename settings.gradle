@@ -1,1 +1,1 @@
-include ':app', ':magic-dialog'
+include ':app', ':library'
