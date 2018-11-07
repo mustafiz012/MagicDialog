@@ -6,7 +6,7 @@
     android:layout_marginTop="@dimen/rvf_dialog_land_top_bottom_margin"
     android:layout_marginEnd="@dimen/rvf_dialog_port_margin"
     android:layout_marginBottom="@dimen/rvf_dialog_land_top_bottom_margin"
-    android:background="@drawable/selector_round_dailog_bg"
+    android:background="@drawable/selector_round_dialog_bg"
     android:minWidth="@dimen/dialog_custom_progress_fl_minWidth"
     android:orientation="vertical">
 
@@ -14,31 +14,46 @@
     <!-- android:background="@drawable/tw_dialog_top_medium_holo_dark" -->
 
 
-    <ImageView
-        android:id="@+id/icon"
-        android:layout_width="wrap_content"
+    <LinearLayout
+        android:id="@+id/title_layout"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="center_vertical"
-        android:layout_marginStart="10dp"
-        android:contentDescription="@string/icon"
-        android:visibility="gone" />
-
-    <TextView
-        android:id="@+id/title"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:fontFamily="sec-roboto-condensed"
         android:gravity="center_vertical"
-        android:includeFontPadding="false"
-        android:paddingStart="24dp"
-        android:paddingTop="24dp"
-        android:paddingEnd="24dp"
-        android:singleLine="true"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:textColor="@color/font_color_action_bar_title"
-        android:textSize="@dimen/bt_font_size_18sp"
-        android:textStyle="bold"
-        android:visibility="gone" />
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginStart="10dp"
+                android:contentDescription="@string/icon"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:fontFamily="sec-roboto-condensed"
+                android:gravity="center_vertical"
+                android:includeFontPadding="false"
+                android:paddingStart="24dp"
+                android:paddingTop="24dp"
+                android:paddingEnd="24dp"
+                android:singleLine="true"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/font_color_action_bar_title"
+                android:textSize="@dimen/bt_font_size_18sp"
+                android:textStyle="bold"
+                android:visibility="gone" />
+
+        </LinearLayout>
+    </LinearLayout>
 
 
     <!-- Message Layout -->
@@ -55,9 +70,9 @@
             android:id="@+id/list_view"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
-            android:layout_marginStart="6dp"
+            android:layout_marginStart="8dp"
             android:layout_marginTop="8dp"
-            android:layout_marginEnd="6dp"
+            android:layout_marginEnd="8dp"
             android:dividerHeight="2dp"
             android:scrollbars="none" />
 
@@ -148,12 +163,12 @@
 
         <TextView
             android:id="@+id/neutral_button"
-            style="@style/popup_button_shadow_50"
+            style="@style/popup_button_shadow_below_lollipop"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
-            android:layout_marginEnd="6dp"
-            android:layout_marginBottom="16dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
             android:clickable="true"
             android:focusable="true"
             android:fontFamily="sec-roboto-condensed"
@@ -171,12 +186,12 @@
 
         <TextView
             android:id="@+id/negative_button"
-            style="@style/popup_button_shadow_50"
+            style="@style/popup_button_shadow_below_lollipop"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
-            android:layout_marginEnd="6dp"
-            android:layout_marginBottom="16dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
             android:clickable="true"
             android:focusable="true"
             android:fontFamily="sec-roboto-condensed"
@@ -194,12 +209,12 @@
 
         <TextView
             android:id="@+id/positive_button"
-            style="@style/popup_button_shadow_50"
+            style="@style/popup_button_shadow_below_lollipop"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
-            android:layout_marginEnd="6dp"
-            android:layout_marginBottom="16dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
             android:clickable="true"
             android:focusable="true"
             android:fontFamily="sec-roboto-condensed"

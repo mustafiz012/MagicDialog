@@ -17,40 +17,59 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
+
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
     //custom
+
     <style name="popup_button_shadow_50" parent="CustomAlertDialogButtonShapeForTextView">
         <item name="android:shadowColor">#80f9a825</item>
         <item name="android:shadowDx">0</item>
         <item name="android:shadowDy">0</item>
         <item name="android:shadowRadius">0</item>
     </style>
+
+    <style name="popup_button_shadow_below_lollipop" parent="Theme.AppCompat">
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowRadius">0</item>
+        <item name="android:minWidth">64dp</item>
+        <item name="android:minHeight">36dp</item>
+        <item name="android:background">@drawable/below_lollipop_ripple_effect</item>
+    </style>
+
     <style name="Widget.ListView" parent="@android:style/Widget.Holo.ListView">
         <item name="android:listSelector">@drawable/selector_list</item>
         <item name="android:cacheColorHint">@android:color/transparent</item>
         <item name="android:divider">@drawable/tw_list_divider_holo_dark</item>
     </style>
+
     <style name="Widget.Button.Dialog" parent="@android:style/Widget.Holo.Button.Borderless">
         <item name="android:background">@drawable/selector_dialog_button_new_app</item>
         <item name="android:textColor">@color/selector_dialog_button_text</item>
     </style>
+
     <style name="Widget.ImageButton" parent="@android:style/Widget.Holo.ImageButton">
         <item name="android:background">@drawable/selector_default_button</item>
     </style>
+
     <style name="Widget.CompoundButton.CheckBox" parent="@android:style/Widget.Holo.CompoundButton.CheckBox">
         <item name="android:button">@drawable/selector_checkbox</item>
     </style>
+
     <style name="Widget.CompoundButton.RadioButton" parent="@android:style/Widget.Holo.CompoundButton.RadioButton">
 
         <!-- <item name="android:button">@drawable/selector_radio_button</item> -->
         <item name="android:button">@drawable/tw_btn_radio_material_anim</item>
     </style>
+
     <style name="Widget.ProgressBar.Horizontal" parent="@android:style/Widget.Holo.ProgressBar.Horizontal">
         <item name="android:progressDrawable">@drawable/progressbar_horizontal</item>
         <item name="android:minHeight">6dp</item>
         <item name="android:maxHeight">6dp</item>
     </style>
+
     <style name="Theme.Default.CustomDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
         <item name="android:windowActionBar">false</item>
         <item name="android:windowNoTitle">true</item>

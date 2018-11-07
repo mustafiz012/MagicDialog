@@ -19,7 +19,8 @@ public class MainActivity extends Activity {
 
     public void showCustomDialog(View view) {
         sampleDialog = new CustomDialog(this);
-        sampleDialog.setMessage("Custom Dialog!");
+        sampleDialog.setTitle("Custom Dialog!");
+        sampleDialog.setMessage("Connect to internet and retry");
         sampleDialog.setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {

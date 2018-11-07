@@ -1296,4 +1296,5 @@
     <string name="DREAM_AUTO_POWER_OFF_AFTER_TMBODY" did="DREAM_G360M_TMBODY_AUTO_POWER_OFF_AFTER">Auto power off after</string>
     <string name="hello">hello</string>
     <string name="icon">Icon</string>
+    <string name="profile_icon">ProfileIcon</string>
 </resources>
