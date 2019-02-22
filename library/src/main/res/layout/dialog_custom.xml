@@ -7,12 +7,12 @@
     android:layout_marginEnd="@dimen/rvf_dialog_port_margin"
     android:layout_marginBottom="@dimen/rvf_dialog_land_top_bottom_margin"
     android:background="@drawable/selector_round_dialog_bg"
+    android:elevation="1dp"
     android:minWidth="@dimen/dialog_custom_progress_fl_minWidth"
     android:orientation="vertical">
 
     <!-- Title Layout -->
     <!-- android:background="@drawable/tw_dialog_top_medium_holo_dark" -->
-
 
     <LinearLayout
         android:id="@+id/title_layout"
@@ -32,7 +32,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:layout_marginStart="10dp"
-                android:contentDescription="@string/icon"
+                android:contentDescription="@string/profile_icon"
                 android:visibility="gone" />
 
             <TextView
@@ -54,7 +54,6 @@
 
         </LinearLayout>
     </LinearLayout>
-
 
     <!-- Message Layout -->
 
@@ -163,12 +162,13 @@
 
         <TextView
             android:id="@+id/neutral_button"
-            style="@style/popup_button_shadow_below_lollipop"
+            style="@style/popup_button_shadow_50"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="36dp"
             android:layout_marginTop="8dp"
             android:layout_marginEnd="8dp"
             android:layout_marginBottom="8dp"
+            android:background="@drawable/ripple"
             android:clickable="true"
             android:focusable="true"
             android:fontFamily="sec-roboto-condensed"
@@ -186,12 +186,13 @@
 
         <TextView
             android:id="@+id/negative_button"
-            style="@style/popup_button_shadow_below_lollipop"
+            style="@style/popup_button_shadow_50"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="36dp"
             android:layout_marginTop="8dp"
             android:layout_marginEnd="8dp"
             android:layout_marginBottom="8dp"
+            android:background="@drawable/ripple"
             android:clickable="true"
             android:focusable="true"
             android:fontFamily="sec-roboto-condensed"
@@ -209,12 +210,13 @@
 
         <TextView
             android:id="@+id/positive_button"
-            style="@style/popup_button_shadow_below_lollipop"
+            style="@style/popup_button_shadow_50"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="36dp"
             android:layout_marginTop="8dp"
             android:layout_marginEnd="8dp"
             android:layout_marginBottom="8dp"
+            android:background="@drawable/ripple"
             android:clickable="true"
             android:focusable="true"
             android:fontFamily="sec-roboto-condensed"
